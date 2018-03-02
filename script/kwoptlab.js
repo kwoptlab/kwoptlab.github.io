@@ -210,10 +210,69 @@ function init() {
         var path = "./json/" + lang + "/members.json";
         var selector = "";
         var items = null;
+        var html = "";
 
         $.getJSON(path, function (data) {
             $.each(data, function (key, value) {
+                if (key == "current") {
+                    selector = "div#kwoptlab-members-current h2";
+                    items = $(selector);
+                    items.text(value.header);
 
+                    html = ""
+                    for (var i = 0; i < value.body.length; ++i) {
+                        var member = value.body[i];
+
+                        html += '<div class="teal card">\n<div class="image">\n<img src="' + member.img + '">\n</div>\n<div class="content">\n<div class="header">' + member.name + '</div>\n<div class="meta">\n' + member.dept + '\n</div>\n<div class="description">' + member.role + '</div>\n</div>\n<div class="extra content"><span>';
+
+                        if (member.email != "") {
+                            html += '<a href="mailto:' + member.mail + '">\n<i class="big mail icon"></i>\n</a>';
+                        }
+
+                        if (member.home != "") {
+                            html += '<a href="' + member.home + '">\n<i class="big home icon"></i>\n</a>';
+                        }
+
+                        for (snsName in member.sns) {
+                            html += '<a href="' + member.sns[snsName] + '">\n<i class="big ' + snsName + ' icon"></i>\n</a>';
+                        }
+
+                        html += '</span>\n</div></div>';
+                    }
+
+                    selector = "div#kwoptlab-members-current div.ui.stackable.cards";
+                    items = $(selector);
+                    items.append(html);
+                } else if (key == "alumni") {
+                    selector = "div#kwoptlab-members-alumni h2";
+                    items = $(selector);
+                    items.text(value.header);
+
+                    html = ""
+                    for (var i = 0; i < value.body.length; ++i) {
+                        var member = value.body[i];
+
+                        html += '<div class="teal card">\n<div class="image">\n<img src="' + member.img + '">\n</div>\n<div class="content">\n<div class="header">' + member.name + '</div>\n<div class="meta">\n' + member.dept + '\n</div>\n<div class="description">' + member.role + '</div>\n</div>\n<div class="extra content"><span>';
+
+                        if (member.email != "") {
+                            html += '<a href="mailto:' + member.mail + '">\n<i class="big mail icon"></i>\n</a>';
+                        }
+
+                        if (member.home != "") {
+                            html += '<a href="' + member.home + '">\n<i class="big home icon"></i>\n</a>';
+                        }
+
+                        for (snsName in member.sns) {
+                            html += '<a href="' + member.sns[snsName] + '">\n<i class="big ' + snsName + ' icon"></i>\n</a>';
+                        }
+
+                        html += '</span>\n</div></div>';
+                    }
+
+                    selector = "div#kwoptlab-members-alumni div.ui.stackable.cards";
+                    items = $(selector);
+                    items.append(html);
+                }
             })
         });
 

@@ -1,1 +1,162 @@
-{}
+{
+    "current": {
+        "header": "Current Members",
+        "body": [
+            {
+                "img": "./img/members/YongHyuk.png",
+                "name": "Yong-Hyuk Kim",
+                "role": "Professor",
+                "dept": "Department of Computer Science at KwangWoon Univ.",
+                "email": "yhdfly@kw.ac.kr",
+                "home": "",
+                "sns": {}
+            },
+            {
+                "img": "./img/members/Default.png",
+                "name": "Yong-Wook Nam",
+                "role": "Ph.D Candidate",
+                "dept": "Department of Computer Science at KwangWoon Univ.",
+                "email": "mitssi@kw.ac.kr",
+                "home": "",
+                "sns": {}
+            },
+            {
+                "img": "./img/members/KyungDo.png",
+                "name": "Gyoung-Do Kim",
+                "role": "Master's Student",
+                "dept": "Department of Computer Science at KwangWoon Univ.",
+                "email": "rilyaus.gd@gmail.com",
+                "home": "",
+                "sns": {}
+            },
+            {
+                "img": "./img/members/Default.png",
+                "name": "Chan-Jae Lee",
+                "role": "Master's Student",
+                "dept": "Department of Computer Science at KwangWoon Univ.",
+                "email": "dlckswo0112@naver.com",
+                "home": "",
+                "sns": {}
+            },
+            {
+                "img": "./img/members/JungHwan.png",
+                "name": "Jung-Hwan Lee",
+                "role": "Master's Student",
+                "dept": "Department of Computer Science at KwangWoon Univ.",
+                "email": "jazz4rabbit@kw.ac.kr",
+                "home": "",
+                "sns": {
+                    "github": "https://github.com/jazz4rabbit/"
+                }
+            },
+            {
+                "img": "./img/members/HyeJin.png",
+                "name": "Hye-Jin Kim",
+                "role": "Master's Student",
+                "dept": "Department of Computer Science at KwangWoon Univ.",
+                "email": "ovoa22@gmail.com",
+                "home": "https://kimagine94.github.io/kimagine-portfolio-en/",
+                "sns": {
+                    "facebook": "https://www.facebook.com/hyejin929",
+                    "twitter": "https://twitter.com/_Kimagine_",
+                    "instagram": "https://www.instagram.com/kimagine._/",
+                    "github": "https://github.com/kimagine94"
+                }
+            },
+            {
+                "img": "./img/members/HwiYeon.png",
+                "name": "Hwi-Yeon Cho",
+                "role": "Undergraduate Student",
+                "dept": "Department of Computer Science at KwangWoon Univ.",
+                "email": "hwyn.cho@gmail.com",
+                "home": "",
+                "sns": {
+                    "facebook": "https://www.facebook.com/hwyn.cho/",
+                    "instagram": "https://www.instagram.com/hwyn.cho/",
+                    "github": "https://github.com/hwyncho/"
+                }
+            },
+            {
+                "img": "./img/members/DongPil.png",
+                "name": "Dong-Pil Yu",
+                "role": "Undergraduate Student",
+                "dept": "Department of Computer Science at KwangWoon Univ.",
+                "email": "yoodongphil@naver.com",
+                "home": "",
+                "sns": {
+                    "github": "https://github.com/dongpilYu/"
+                }
+            },
+            {
+                "img": "./img/members/Default.png",
+                "name": "Hyeon-Chang Lee",
+                "role": "Undergraduate Student",
+                "dept": "Department of Computer Science at KwangWoon Univ.",
+                "email": "qzecwxad@naver.com",
+                "home": "",
+                "sns": {
+                    "facebook": "https://www.facebook.com/qzecwxad"
+                }
+            }
+        ]
+    },
+    "alumni": {
+        "header": "Alumni",
+        "body": [
+            {
+                "img": "./img/members/Default.png",
+                "name": "Jae-Hyun Seo",
+                "role": "Ph.D / Assistant Professor, Software Engineering, Wonkwang University",
+                "dept": "Department of Computer Science at KwangWoon Univ.",
+                "email": "delphia@kw.ac.kr",
+                "home": "",
+                "sns": {}
+            },
+            {
+                "img": "./img/members/Default.png",
+                "name": "Soo-Young Park",
+                "role": "Master / POSCO ICT",
+                "dept": "Department of Embedded Software Engineering at KwangWoon Univ.",
+                "email": "delphia@kw.ac.kr",
+                "home": "",
+                "sns": {}
+            },
+            {
+                "img": "./img/members/Default.png",
+                "name": "Ha-Yan Park",
+                "role": "Master Candidate",
+                "dept": "Department of Computer Science at KwangWoon Univ.",
+                "email": "klarfarbe@gmail.com",
+                "home": "",
+                "sns": {}
+            },
+            {
+                "img": "./img/members/Default.png",
+                "name": "Hyun-Min Kim",
+                "role": "Master / Obigo Korea",
+                "dept": "Department of Embedded Software Engineering at KwangWoon Univ.",
+                "email": "webaim@gmail.com",
+                "home": "http://kimbear.tistory.com/",
+                "sns": {}
+            },
+            {
+                "img": "./img/members/Default.png",
+                "name": "June-Yeop Lee",
+                "role": "Master / ECMiner",
+                "dept": "Department of Computer Science at KwangWoon Univ.",
+                "email": "wonshout@gmail.com",
+                "home": "",
+                "sns": {}
+            },
+            {
+                "img": "./img/members/JiHoon.png",
+                "name": "Ji-Hoon Ha",
+                "role": "Master / KOAST",
+                "dept": "Department of Embedded Software Engineering at KwangWoon Univ.",
+                "email": "007bigboy@hanmail.net",
+                "home": "",
+                "sns": {}
+            }
+        ]
+    }
+}

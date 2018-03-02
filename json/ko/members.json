@@ -1,1 +1,162 @@
-{}
+{
+    "current": {
+        "header": "현재 구성원",
+        "body": [
+            {
+                "img": "./img/members/YongHyuk.png",
+                "name": "김용혁",
+                "role": "교수",
+                "dept": "광운대학교 컴퓨터과학과",
+                "email": "yhdfly@kw.ac.kr",
+                "home": "",
+                "sns": {}
+            },
+            {
+                "img": "./img/members/Default.png",
+                "name": "남용욱",
+                "role": "박사 과정 수료",
+                "dept": "광운대학교 컴퓨터과학과",
+                "email": "mitssi@kw.ac.kr",
+                "home": "",
+                "sns": {}
+            },
+            {
+                "img": "./img/members/KyungDo.png",
+                "name": "김경도",
+                "role": "석사 과정 학생",
+                "dept": "광운대학교 컴퓨터과학과",
+                "email": "rilyaus.gd@gmail.com",
+                "home": "",
+                "sns": {}
+            },
+            {
+                "img": "./img/members/Default.png",
+                "name": "이찬재",
+                "role": "석사 과정 학생",
+                "dept": "광운대학교 컴퓨터과학과",
+                "email": "dlckswo0112@naver.com",
+                "home": "",
+                "sns": {}
+            },
+            {
+                "img": "./img/members/JungHwan.png",
+                "name": "이정환",
+                "role": "석사 과정 학생",
+                "dept": "광운대학교 컴퓨터과학과",
+                "email": "jazz4rabbit@kw.ac.kr",
+                "home": "",
+                "sns": {
+                    "github": "https://github.com/jazz4rabbit/"
+                }
+            },
+            {
+                "img": "./img/members/HyeJin.png",
+                "name": "김혜진",
+                "role": "석사 과정 학생",
+                "dept": "광운대학교 컴퓨터과학과",
+                "email": "ovoa22@gmail.com",
+                "home": "https://kimagine94.github.io/kimagine-portfolio-en/",
+                "sns": {
+                    "facebook": "https://www.facebook.com/hyejin929",
+                    "twitter": "https://twitter.com/_Kimagine_",
+                    "instagram": "https://www.instagram.com/kimagine._/",
+                    "github": "https://github.com/kimagine94"
+                }
+            },
+            {
+                "img": "./img/members/HwiYeon.png",
+                "name": "조휘연",
+                "role": "학부생",
+                "dept": "광운대학교 컴퓨터소프트웨어학과",
+                "email": "hwyn.cho@gmail.com",
+                "home": "",
+                "sns": {
+                    "facebook": "https://www.facebook.com/hwyn.cho/",
+                    "instagram": "https://www.instagram.com/hwyn.cho/",
+                    "github": "https://github.com/hwyncho/"
+                }
+            },
+            {
+                "img": "./img/members/DongPil.png",
+                "name": "유동필",
+                "role": "학부생",
+                "dept": "광운대학교 컴퓨터소프트웨어학과",
+                "email": "yoodongphil@naver.com",
+                "home": "",
+                "sns": {
+                    "github": "https://github.com/dongpilYu/"
+                }
+            },
+            {
+                "img": "./img/members/Default.png",
+                "name": "이현창",
+                "role": "학부생",
+                "dept": "광운대학교 컴퓨터소프트웨어학과",
+                "email": "qzecwxad@naver.com",
+                "home": "",
+                "sns": {
+                    "facebook": "https://www.facebook.com/qzecwxad"
+                }
+            }
+        ]
+    },
+    "alumni": {
+        "header": "졸업생",
+        "body": [
+            {
+                "img": "./img/members/Default.png",
+                "name": "서재현",
+                "role": "박사 / 원광대학교 소프트웨어공학부 조교수",
+                "dept": "광운대학교 컴퓨터과학과",
+                "email": "delphia@kw.ac.kr",
+                "home": "",
+                "sns": {}
+            },
+            {
+                "img": "./img/members/Default.png",
+                "name": "박수영",
+                "role": "석사 / 포스코 ICT",
+                "dept": "광운대학교 임베디드소프트웨어학과",
+                "email": "delphia@kw.ac.kr",
+                "home": "",
+                "sns": {}
+            },
+            {
+                "img": "./img/members/Default.png",
+                "name": "박하얀",
+                "role": "석사 수료",
+                "dept": "광운대학교 컴퓨터과학과",
+                "email": "klarfarbe@gmail.com",
+                "home": "",
+                "sns": {}
+            },
+            {
+                "img": "./img/members/Default.png",
+                "name": "김현민",
+                "role": "석사 / 오비고 코리아",
+                "dept": "광운대학교 임베디드소프트웨어학과",
+                "email": "webaim@gmail.com",
+                "home": "http://kimbear.tistory.com/",
+                "sns": {}
+            },
+            {
+                "img": "./img/members/Default.png",
+                "name": "이준엽",
+                "role": "석사 / 이씨마이너",
+                "dept": "광운대학교 컴퓨터과학과",
+                "email": "wonshout@gmail.com",
+                "home": "",
+                "sns": {}
+            },
+            {
+                "img": "./img/members/JiHoon.png",
+                "name": "하지훈",
+                "role": "석사 / 한국해양기상기술",
+                "dept": "광운대학교 임베디드소프트웨어학과",
+                "email": "007bigboy@hanmail.net",
+                "home": "",
+                "sns": {}
+            }
+        ]
+    }
+}
