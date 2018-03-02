@@ -81,4 +81,8 @@ div.ui.container.kwoptlab-content h1.ui.horizontal.divider {
     #kwoptlab-home .row h2 {
         font-size: 1em;
     }
+
+    div.ui.container.kwoptlab-content h1.ui.horizontal.divider {
+        padding-bottom: 3em;
+    }
 }
