@@ -1,1 +1,36 @@
-{}
+{
+    "topics": {
+        "header": "Research Topics",
+        "body": [
+            {
+                "field": "Algorithms / Computer Theory",
+                "description": "Designing more efficient algorithms in terms of time and memory, and analyzing program efficiency and complexity."
+            },
+            {
+                "field": "Evolutionary Computation",
+                "description": "A field of artificial intelligence in computer science, such as genetic algorithms, genetic programming, and evolutionary strategies, inspired by the evolution of nature."
+            },
+            {
+                "field": "Machine Learning",
+                "description": "A field of artificial intelligence that develops algorithms and techniques that allow computers to learn."
+            },
+            {
+                "field": "Energy Optimization / Smart grid",
+                "description": "A field that solves a variety of optimization problems arose in the future of power systems in which emerged smart grid, renewable energy, and energy storage device."
+            }
+        ]
+    },
+    "grants": {
+        "header": "Research Grants",
+        "body": [
+            "한국연구재단",
+            "해양경찰청",
+            "기상과학원",
+            "기상청",
+            "현대 NGV",
+            "삼성전자",
+            "한국해양기술",
+            "투씨솔루션"
+        ]
+    }
+}

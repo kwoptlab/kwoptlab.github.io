@@ -149,11 +149,11 @@ function init() {
         $.getJSON(path, function (data) {
             $.each(data, function (key, value) {
                 if (key == "greetings") {
-                    selector = "div#kwoptlab-about h2";
+                    selector = "div#kwoptlab-about div.kwoptlab-content-body h2";
                     items = $(selector);
                     items.text(value);
                 } else if (key == "text") {
-                    selector = "div#kwoptlab-about p";
+                    selector = "div#kwoptlab-about div.kwoptlab-content-body p";
                     items = $(selector);
                     items.text(value);
                 }
@@ -168,10 +168,37 @@ function init() {
         var path = "./json/" + lang + "/research.json";
         var selector = "";
         var items = null;
+        var html = "";
 
         $.getJSON(path, function (data) {
             $.each(data, function (key, value) {
+                if (key == "topics") {
+                    selector = "div#kwoptlab-research-topics h2";
+                    items = $(selector);
+                    items.text(value.header);
 
+                    html = ""
+                    for (var i = 0; i < value.body.length; ++i) {
+                        html += '<div class="column">\n<div class="ui teal segments">\n<div class="ui teal segment">\n<h3 class="ui header">' + value.body[i].field + '</h3>\n</div>\n<div class="ui segment">\n<p>' + value.body[i].description + '</p>\n</div>\n</div>\n</div >';
+                    }
+
+                    selector = "div#kwoptlab-research-topics div.ui.grid";
+                    items = $(selector);
+                    items.append(html);
+                } else if (key == "grants") {
+                    selector = "div#kwoptlab-research-grants h2";
+                    items = $(selector);
+                    items.text(value.header);
+
+                    html = "";
+                    for (var i = 0; i < value.body.length; ++i) {
+                        html += '<div class="item">' + value.body[i] + '</div>\n';
+                    }
+
+                    selector = "div#kwoptlab-research-grants div.ui.list";
+                    items = $(selector);
+                    items.append(html);
+                }
             })
         });
 

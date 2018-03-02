@@ -107,191 +107,283 @@
     </div>
 
     <!-- Home -->
-    <div id="kwoptlab-home" class="ui vertical center aligned segment">
-        <div class="ui secondary inverted tiny menu">
-            <!-- For PC -->
-            <div class="ui container kwoptlab-pc">
-                <div class="header item">OPTLAB</div>
-                <a class="active item kwoptlab-home" onclick="moveToContent('home')">HOME</a>
-                <a class="item kwoptlab-about" onclick="moveToContent('about')">ABOUT</a>
-                <a class="item kwoptlab-research" onclick="moveToContent('research')">RESEARCH</a>
-                <a class="item kwoptlab-members" onclick="moveToContent('members')">MEMBERS</a>
-                <a class="item kwoptlab-publications" onclick="moveToContent('publications')">PUBLICATIONS</a>
-                <a class="item kwoptlab-projects" onclick="moveToContent('projects')">PROJECTS</a>
-                <a class="item kwoptlab-lectures" onclick="moveToContent('lectures')">LECTURES</a>
-                <a class="item kwoptlab-awards" onclick="moveToContent('awards')">AWARDS</a>
-                <a class="item kwoptlab-news" onclick="moveToContent('news')">NEWS</a>
-                <a class="item kwoptlab-contact" onclick="moveToContent('contact')">CONTACT</a>
-                <div class="right menu">
-                    <div class="ui dropdown item">
-                        <i class="world icon"></i>
-                        Language
-                        <i class="dropdown icon"></i>
-                        <div class="menu kwoptlab-lang">
-                            <a class="active item kwoptlab-lang-en" href="index.html?lang=en">English</a>
-                            <a class="item kwoptlab-lang-ko" href="index.html?lang=ko">한국어</a>
+    <div id="kwoptlab-home">
+        <!-- menu -->
+        <div class="ui center aligned basic segment">
+            <div class="ui secondary inverted tiny menu">
+                <!-- For PC -->
+                <div class="ui container kwoptlab-pc">
+                    <div class="header item">OPTLAB</div>
+                    <a class="active item kwoptlab-home" onclick="moveToContent('home')">HOME</a>
+                    <a class="item kwoptlab-about" onclick="moveToContent('about')">ABOUT</a>
+                    <a class="item kwoptlab-research" onclick="moveToContent('research')">RESEARCH</a>
+                    <a class="item kwoptlab-members" onclick="moveToContent('members')">MEMBERS</a>
+                    <a class="item kwoptlab-publications" onclick="moveToContent('publications')">PUBLICATIONS</a>
+                    <a class="item kwoptlab-projects" onclick="moveToContent('projects')">PROJECTS</a>
+                    <a class="item kwoptlab-lectures" onclick="moveToContent('lectures')">LECTURES</a>
+                    <a class="item kwoptlab-awards" onclick="moveToContent('awards')">AWARDS</a>
+                    <a class="item kwoptlab-news" onclick="moveToContent('news')">NEWS</a>
+                    <a class="item kwoptlab-contact" onclick="moveToContent('contact')">CONTACT</a>
+                    <div class="right menu">
+                        <div class="ui dropdown item">
+                            <i class="world icon"></i>
+                            Language
+                            <i class="dropdown icon"></i>
+                            <div class="menu kwoptlab-lang">
+                                <a class="active item kwoptlab-lang-en" href="index.html?lang=en">English</a>
+                                <a class="item kwoptlab-lang-ko" href="index.html?lang=ko">한국어</a>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
 
-            <!-- For Mobile Device -->
-            <div class="ui container kwoptlab-mobile">
-                <div class="ui dropdown item">
-                    <i class="sidebar icon"></i>
-                    <div class="menu">
-                        <a class="active item kwoptlab-home" onclick="moveToContent('home')">HOME</a>
-                        <a class="item kwoptlab-about" onclick="moveToContent('about')">ABOUT</a>
-                        <a class="item kwoptlab-research" onclick="moveToContent('research')">RESEARCH</a>
-                        <a class="item kwoptlab-members" onclick="moveToContent('members')">MEMBERS</a>
-                        <a class="item kwoptlab-publications" onclick="moveToContent('publications')">PUBLICATIONS</a>
-                        <a class="item kwoptlab-projects" onclick="moveToContent('projects')">PROJECTS</a>
-                        <a class="item kwoptlab-lectures" onclick="moveToContent('lectures')">LECTURES</a>
-                        <a class="item kwoptlab-awards" onclick="moveToContent('awards')">AWARDS</a>
-                        <a class="item kwoptlab-news" onclick="moveToContent('news')">NEWS</a>
-                        <a class="item kwoptlab-contact" onclick="moveToContent('contact')">CONTACT</a>
-                    </div>
-                </div>
-                <div class="header item">OPTLAB</div>
-                <div class="right menu">
+                <!-- For Mobile Device -->
+                <div class="ui container kwoptlab-mobile">
                     <div class="ui dropdown item">
-                        <i class="world icon"></i>
-                        Language
-                        <i class="dropdown icon"></i>
-                        <div class="menu kwoptlab-lang">
-                            <a class="active item kwoptlab-lang-en" href="index.html?lang=en">English</a>
-                            <a class="item kwoptlab-lang-ko" href="index.html?lang=ko">한국어</a>
+                        <i class="sidebar icon"></i>
+                        <div class="menu">
+                            <a class="active item kwoptlab-home" onclick="moveToContent('home')">HOME</a>
+                            <a class="item kwoptlab-about" onclick="moveToContent('about')">ABOUT</a>
+                            <a class="item kwoptlab-research" onclick="moveToContent('research')">RESEARCH</a>
+                            <a class="item kwoptlab-members" onclick="moveToContent('members')">MEMBERS</a>
+                            <a class="item kwoptlab-publications" onclick="moveToContent('publications')">PUBLICATIONS</a>
+                            <a class="item kwoptlab-projects" onclick="moveToContent('projects')">PROJECTS</a>
+                            <a class="item kwoptlab-lectures" onclick="moveToContent('lectures')">LECTURES</a>
+                            <a class="item kwoptlab-awards" onclick="moveToContent('awards')">AWARDS</a>
+                            <a class="item kwoptlab-news" onclick="moveToContent('news')">NEWS</a>
+                            <a class="item kwoptlab-contact" onclick="moveToContent('contact')">CONTACT</a>
+                        </div>
+                    </div>
+                    <div class="header item">OPTLAB</div>
+                    <div class="right menu">
+                        <div class="ui dropdown item">
+                            <i class="world icon"></i>
+                            Language
+                            <i class="dropdown icon"></i>
+                            <div class="menu kwoptlab-lang">
+                                <a class="active item kwoptlab-lang-en" href="index.html?lang=en">English</a>
+                                <a class="item kwoptlab-lang-ko" href="index.html?lang=ko">한국어</a>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class="ui middle aligned grid text center aligned container">
-            <div class="row">
-                <h1 class="ui inverted header">
-                    Optimization &#38; Knowledge Engineering Laboratory
-                </h1>
-            </div>
-            <div class="row">
-                <h2 class="ui inverted header">
-                    at KwangWoon University
-                </h2>
+        <!-- body -->
+        <div class="ui center aligned basic segment">
+            <div class="ui middle aligned grid text center aligned container">
+                <div class="row">
+                    <h1 class="ui inverted header">
+                        Optimization &#38; Knowledge Engineering Laboratory
+                    </h1>
+                </div>
+
+                <div class="row">
+                    <h2 class="ui inverted header">
+                        at KwangWoon University
+                    </h2>
+                </div>
             </div>
         </div>
     </div>
 
     <!-- About -->
-    <div id="kwoptlab-about" class="ui container kwoptlab-content">
-        <div class="ui basic segment">
-            <!-- content header -->
-            <h1 class="ui horizontal divider teal header">
-                About
-            </h1>
+    <div id="kwoptlab-about" class="kwoptlab-content">
+        <!-- header -->
+        <div class="ui center aligned basic segment kwoptlab-content-header">
+            <div class="ui container">
+                <h1 class="ui horizontal divider teal header">
+                    About
+                </h1>
+            </div>
+        </div>
 
-            <div class="ui middle aligned stackable grid">
-                <div class="eight wide column">
-                    <!-- greetings -->
-                    <h2 class="ui header">
-                        Hello!
-                    </h2>
-                    <!-- text -->
-                    <p>
-                        OPTLAB is Optimization and Knowledge Engineering Laboratory at KwangWoon University. We study Optimization algorithms, Artificial
-                        Intelligence and so on.
-                    </p>
-                </div>
-                <div class="six wide right floated column">
-                    <img class="ui medium rounded image" src="img/tree-of-knowledge.jpg">
+        <!-- body -->
+        <div class="ui basic segment kwoptlab-content-body">
+            <div class="ui container">
+                <div class="ui middle aligned stackable grid">
+                    <div class="eight wide column">
+                        <!-- greetings -->
+                        <h2 class="ui header">
+                            Hello!
+                        </h2>
+                        <!-- text -->
+                        <p>
+                            OPTLAB is Optimization and Knowledge Engineering Laboratory at KwangWoon University. We study Optimization algorithms, Artificial
+                            Intelligence and so on.
+                        </p>
+                    </div>
+                    <div class="six wide right floated column">
+                        <img class="ui medium rounded image" src="img/tree-of-knowledge.jpg">
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 
     <!-- Research -->
-    <div id="kwoptlab-research" class="ui container kwoptlab-content">
-        <div class="ui basic segment">
-            <!-- content header -->
-            <h1 class="ui horizontal divider teal header">
-                Research
-            </h1>
-            본문
+    <div id="kwoptlab-research" class="kwoptlab-content">
+        <!-- header -->
+        <div class="ui center aligned basic segment kwoptlab-content-header">
+            <div class="ui container">
+                <h1 class="ui horizontal divider teal header">
+                    Research
+                </h1>
+            </div>
+        </div>
+
+        <!-- body -->
+        <div class="ui basic segment kwoptlab-content-body">
+            <!-- research topics -->
+            <div id="kwoptlab-research-topics" class="ui basic segment">
+                <div class="ui container">
+                    <!-- topics header -->
+                    <h2 class="ui header">
+                        Research Topics
+                    </h2>
+
+                    <!-- topics body -->
+                    <div class="ui stackable two column grid container">
+                        <!-- items -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- research grants -->
+            <div id="kwoptlab-research-grants" class="ui left aligned basic segment">
+                <div class="ui container">
+                    <!-- grants header -->
+                    <h2 class="ui header">
+                        Research Grants
+                    </h2>
+
+                    <!-- grants body -->
+                    <div class="ui text container">
+                        <div class="ui bulleted large list">
+                            <!-- items -->
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
     <!-- Members -->
     <div id="kwoptlab-members" class="ui container kwoptlab-content">
-        <div class="ui basic segment">
-            <!-- content header -->
-            <h1 class="ui horizontal divider teal header">
-                Members
-            </h1>
-            본문
+        <!-- header -->
+        <div class="ui center aligned basic segment kwoptlab-content-header">
+            <div class="ui container">
+                <h1 class="ui horizontal divider teal header">
+                    Members
+                </h1>
+            </div>
+        </div>
+
+        <!-- body -->
+        <div class="ui basic segment kwoptlab-content-body">
+
         </div>
     </div>
 
     <!-- Publications -->
     <div id="kwoptlab-publications" class="ui container kwoptlab-content">
-        <div class="ui basic segment">
-            <!-- content header -->
-            <h1 class="ui horizontal divider teal header">
-                Publications
-            </h1>
+        <!-- header -->
+        <div class="ui center aligned basic segment kwoptlab-content-header">
+            <div class="ui container">
+                <h1 class="ui horizontal divider teal header">
+                    Publications
+                </h1>
+            </div>
+        </div>
+
+        <!-- body -->
+        <div class="ui basic segment kwoptlab-content-body">
+
         </div>
     </div>
 
     <!-- Projects -->
     <div id="kwoptlab-projects" class="ui container kwoptlab-content">
-        <div class="ui basic segment">
-            <!-- content header -->
-            <h1 class="ui horizontal divider teal header">
-                Projects
-            </h1>
-            본문
+        <!-- header -->
+        <div class="ui center aligned basic segment kwoptlab-content-header">
+            <div class="ui container">
+                <h1 class="ui horizontal divider teal header">
+                    Projects
+                </h1>
+            </div>
+        </div>
+
+        <!-- body -->
+        <div class="ui basic segment kwoptlab-content-body">
+
         </div>
     </div>
 
     <!-- Lectures -->
     <div id="kwoptlab-lectures" class="ui container kwoptlab-content">
-        <div class="ui basic segment">
-            <!-- content header -->
-            <h1 class="ui horizontal divider teal header">
-                Lectures
-            </h1>
-            본문
+        <!-- header -->
+        <div class="ui center aligned basic segment kwoptlab-content-header">
+            <div class="ui container">
+                <h1 class="ui horizontal divider teal header">
+                    Lectures
+                </h1>
+            </div>
+        </div>
+
+        <!-- body -->
+        <div class="ui basic segment kwoptlab-content-body">
+
         </div>
     </div>
 
     <!-- Awards -->
     <div id="kwoptlab-awards" class="ui container kwoptlab-content">
-        <div class="ui basic segment">
-            <!-- content header -->
-            <h1 class="ui horizontal divider teal header">
-                Awards
-            </h1>
-            본문
+        <!-- header -->
+        <div class="ui center aligned basic segment kwoptlab-content-header">
+            <div class="ui container">
+                <h1 class="ui horizontal divider teal header">
+                    Awards
+                </h1>
+            </div>
+        </div>
+
+        <!-- body -->
+        <div class="ui basic segment kwoptlab-content-body">
+
         </div>
     </div>
 
     <!-- News -->
     <div id="kwoptlab-news" class="ui container kwoptlab-content">
-        <div class="ui basic segment">
-            <!-- content header -->
-            <h1 class="ui horizontal divider teal header">
-                News
-            </h1>
-            본문
+        <!-- header -->
+        <div class="ui center aligned basic segment kwoptlab-content-header">
+            <div class="ui container">
+                <h1 class="ui horizontal divider teal header">
+                    News
+                </h1>
+            </div>
+        </div>
+
+        <!-- body -->
+        <div class="ui basic segment kwoptlab-content-body">
+
         </div>
     </div>
 
     <!-- Contact -->
-    <div id="kwoptlab-contact" class="ui container kwoptlab-content">
-        <div class="ui basic segment">
-            <!-- content header -->
-            <h1 class="ui horizontal divider teal header">
-                Contact
-            </h1>
+    <div id="kwoptlab-contact" class="kwoptlab-content">
+        <!-- header -->
+        <div class="ui center aligned basic segment kwoptlab-content-header">
+            <div class="ui container">
+                <h1 class="ui horizontal divider teal header">
+                    Contact
+                </h1>
+            </div>
+        </div>
 
+        <!-- body -->
+        <div class="ui basic segment kwoptlab-content-body">
             <div class="ui centered grid">
                 <div class="ui huge list">
                     <div class="item">
@@ -314,15 +406,16 @@
                     </div>
                 </div>
             </div>
-
         </div>
     </div>
 
     <!-- Footer -->
-    <div id="kwoptlab-footer" class="ui vertical inverted teal center aligned segment">
-        Copyright
-        <i class="copyright icon"></i>
-        2018 by KW.OPTLAB
+    <div id="kwoptlab-footer">
+        <div class="ui vertical inverted teal center aligned segment">
+            Copyright
+            <i class="copyright icon"></i>
+            2018 by KW.OPTLAB
+        </div>
     </div>
 </body>
 

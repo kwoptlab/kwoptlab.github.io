@@ -18,6 +18,16 @@ div.ui.menu div.header.item {
     font-size: large;
 }
 
+div.kwoptlab-content {
+    padding-bottom: 10em;
+    padding-top: 10em;
+}
+
+div.kwoptlab-content div.kwoptlab-content-header {
+    padding-bottom: 5em;
+}
+
+/* Fixed Menu */
 div#kwoptlab-menu {
     display: none !important;
 }
@@ -50,15 +60,6 @@ div#kwoptlab-home div.row h2 {
     font-size: 2em;
 }
 
-div.ui.container.kwoptlab-content {
-    padding-bottom: 8em;
-    padding-top: 8em;
-}
-
-div.ui.container.kwoptlab-content h1.ui.horizontal.divider {
-    padding-bottom: 4em;
-}
-
 /* For Mobile Device */
 @media only screen and (max-width: 1199px) {
     div.kwoptlab-pc {
@@ -69,16 +70,25 @@ div.ui.container.kwoptlab-content h1.ui.horizontal.divider {
         display: flex !important;
     }
 
-    #kwoptlab-home .text.container {
+    div.kwoptlab-content {
+        padding-bottom: 6em;
+        padding-top: 6em;
+    }
+
+    div.kwoptlab-content div.kwoptlab-content-header {
+        padding-bottom: 3em;
+    }
+
+    div#kwoptlab-home div.text.container {
         padding-bottom: 30vmax;
         padding-top: 35vmax;
     }
 
-    #kwoptlab-home .row h1 {
+    div#kwoptlab-home div.row h1 {
         font-size: 2em;
     }
 
-    #kwoptlab-home .row h2 {
+    div#kwoptlab-home div.row h2 {
         font-size: 1em;
     }
 
