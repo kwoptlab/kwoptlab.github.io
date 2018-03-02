@@ -212,6 +212,28 @@ function init() {
         var items = null;
         var html = "";
 
+        function makeCard(member) {
+            var html = "";
+
+            html += '<div class="teal card">\n<div class="image">\n<img src="' + member.img + '">\n</div>\n<div class="content">\n<div class="header">' + member.name + '</div>\n<div class="meta">\n' + member.dept + '\n</div>\n<div class="description">' + member.role + '</div>\n</div>\n<div class="extra content"><span>';
+
+            if (member.email != "") {
+                html += '<a href="mailto:' + member.email + '">\n<i class="big mail icon"></i>\n</a>';
+            }
+
+            if (member.home != "") {
+                html += '<a href="' + member.home + '">\n<i class="big home icon"></i>\n</a>';
+            }
+
+            for (snsName in member.sns) {
+                html += '<a href="' + member.sns[snsName] + '">\n<i class="big ' + snsName + ' icon"></i>\n</a>';
+            }
+
+            html += '</span>\n</div></div>';
+
+            return html;
+        }
+
         $.getJSON(path, function (data) {
             $.each(data, function (key, value) {
                 if (key == "current") {
@@ -222,22 +244,7 @@ function init() {
                     html = ""
                     for (var i = 0; i < value.body.length; ++i) {
                         var member = value.body[i];
-
-                        html += '<div class="teal card">\n<div class="image">\n<img src="' + member.img + '">\n</div>\n<div class="content">\n<div class="header">' + member.name + '</div>\n<div class="meta">\n' + member.dept + '\n</div>\n<div class="description">' + member.role + '</div>\n</div>\n<div class="extra content"><span>';
-
-                        if (member.email != "") {
-                            html += '<a href="mailto:' + member.mail + '">\n<i class="big mail icon"></i>\n</a>';
-                        }
-
-                        if (member.home != "") {
-                            html += '<a href="' + member.home + '">\n<i class="big home icon"></i>\n</a>';
-                        }
-
-                        for (snsName in member.sns) {
-                            html += '<a href="' + member.sns[snsName] + '">\n<i class="big ' + snsName + ' icon"></i>\n</a>';
-                        }
-
-                        html += '</span>\n</div></div>';
+                        html += makeCard(member);
                     }
 
                     selector = "div#kwoptlab-members-current div.ui.stackable.cards";
@@ -251,22 +258,7 @@ function init() {
                     html = ""
                     for (var i = 0; i < value.body.length; ++i) {
                         var member = value.body[i];
-
-                        html += '<div class="teal card">\n<div class="image">\n<img src="' + member.img + '">\n</div>\n<div class="content">\n<div class="header">' + member.name + '</div>\n<div class="meta">\n' + member.dept + '\n</div>\n<div class="description">' + member.role + '</div>\n</div>\n<div class="extra content"><span>';
-
-                        if (member.email != "") {
-                            html += '<a href="mailto:' + member.mail + '">\n<i class="big mail icon"></i>\n</a>';
-                        }
-
-                        if (member.home != "") {
-                            html += '<a href="' + member.home + '">\n<i class="big home icon"></i>\n</a>';
-                        }
-
-                        for (snsName in member.sns) {
-                            html += '<a href="' + member.sns[snsName] + '">\n<i class="big ' + snsName + ' icon"></i>\n</a>';
-                        }
-
-                        html += '</span>\n</div></div>';
+                        html += makeCard(member);
                     }
 
                     selector = "div#kwoptlab-members-alumni div.ui.stackable.cards";
