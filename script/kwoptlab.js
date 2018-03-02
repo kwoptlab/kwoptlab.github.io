@@ -272,11 +272,23 @@ function init() {
     function initContact(lang) {
         var path = "./json/" + lang + "/contact.json";
         var selector = "";
-        var items = null;
+        var item = null;
 
         $.getJSON(path, function (data) {
             $.each(data, function (key, value) {
-
+                if (key == "phone") {
+                    selector = "div#kwoptlab-contact div.ui.list div.item:nth-child(1) div.content a";
+                    item = $(selector);
+                    item.text(value);
+                } else if (key == "email") {
+                    selector = "div#kwoptlab-contact div.ui.list div.item:nth-child(2) div.content a";
+                    item = $(selector);
+                    item.text(value);
+                } else if (key == "office") {
+                    selector = "div#kwoptlab-contact div.ui.list div.item:nth-child(3) div.content";
+                    item = $(selector);
+                    item.text(value);
+                }
             })
         });
 
