@@ -43,7 +43,7 @@ function getLanguage() {
 
 // A function that sets the current language of the page.
 function setLanguage(lang) {
-    var selector = "div.ui.menu a.item.kwoptlab-lang-" + lang;
+    var selector = "div.menu.kwoptlab-lang a.item.kwoptlab-lang-" + lang;
     $(selector).addClass("active");
     document.getElementsByTagName("html")[0].setAttribute("lang", lang);
 }
@@ -297,7 +297,6 @@ function init() {
 
 
     var lang = getLanguage();
-    setLanguage(lang);
 
     initDropdown();
 
@@ -314,4 +313,6 @@ function init() {
     initAwards(lang);
     initNews(lang);
     initContact(lang);
+
+    setLanguage(lang);
 }
