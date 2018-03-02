@@ -102,6 +102,21 @@ function init() {
         });
     }
 
+    // A functions that sets the contents headers of the page.
+    function initHeaders(lang) {
+        var path = "./json/" + lang + "/headers.json";
+        var selector = "";
+        var items = null;
+
+        $.getJSON(path, function (data) {
+            $.each(data, function (key, value) {
+                selector = "div#kwoptlab-" + key + " h1.ui.horizontal.divider";
+                items = $(selector);
+                items.text(value);
+            })
+        });
+    }
+
     // A function that sets the "Home" contents of the page.
     function initHome(lang) {
         var path = "./json/" + lang + "/home.json";
@@ -110,11 +125,11 @@ function init() {
 
         $.getJSON(path, function (data) {
             $.each(data, function (key, value) {
-                if (key == "header1") {
+                if (key == "text1") {
                     selector = "div#kwoptlab-home div.row h1";
                     items = $(selector);
                     items.text(value);
-                } else if (key == "header2") {
+                } else if (key == "text2") {
                     selector = "div#kwoptlab-home div.row h2";
                     items = $(selector);
                     items.text(value);
@@ -133,11 +148,7 @@ function init() {
 
         $.getJSON(path, function (data) {
             $.each(data, function (key, value) {
-                if (key == "header1") {
-                    selector = "div#kwoptlab-about h1";
-                    items = $(selector);
-                    items.text(value);
-                } else if (key == "header2") {
+                if (key == "greetings") {
                     selector = "div#kwoptlab-about h2";
                     items = $(selector);
                     items.text(value);
@@ -160,11 +171,7 @@ function init() {
 
         $.getJSON(path, function (data) {
             $.each(data, function (key, value) {
-                if (key == "header1") {
-                    selector = "div#kwoptlab-research h1";
-                    items = $(selector);
-                    items.text(value);
-                }
+
             })
         });
 
@@ -179,11 +186,7 @@ function init() {
 
         $.getJSON(path, function (data) {
             $.each(data, function (key, value) {
-                if (key == "header1") {
-                    selector = "div#kwoptlab-members h1";
-                    items = $(selector);
-                    items.text(value);
-                }
+
             })
         });
 
@@ -198,11 +201,7 @@ function init() {
 
         $.getJSON(path, function (data) {
             $.each(data, function (key, value) {
-                if (key == "header1") {
-                    selector = "div#kwoptlab-publications h1";
-                    items = $(selector);
-                    items.text(value);
-                }
+
             })
         });
 
@@ -217,11 +216,7 @@ function init() {
 
         $.getJSON(path, function (data) {
             $.each(data, function (key, value) {
-                if (key == "header1") {
-                    selector = "div#kwoptlab-projects h1";
-                    items = $(selector);
-                    items.text(value);
-                }
+
             })
         });
 
@@ -236,11 +231,7 @@ function init() {
 
         $.getJSON(path, function (data) {
             $.each(data, function (key, value) {
-                if (key == "header1") {
-                    selector = "div#kwoptlab-lectures h1";
-                    items = $(selector);
-                    items.text(value);
-                }
+
             })
         });
 
@@ -255,11 +246,7 @@ function init() {
 
         $.getJSON(path, function (data) {
             $.each(data, function (key, value) {
-                if (key == "header1") {
-                    selector = "div#kwoptlab-awards h1";
-                    items = $(selector);
-                    items.text(value);
-                }
+
             })
         });
 
@@ -274,11 +261,7 @@ function init() {
 
         $.getJSON(path, function (data) {
             $.each(data, function (key, value) {
-                if (key == "header1") {
-                    selector = "div#kwoptlab-news h1";
-                    items = $(selector);
-                    items.text(value);
-                }
+
             })
         });
 
@@ -293,11 +276,7 @@ function init() {
 
         $.getJSON(path, function (data) {
             $.each(data, function (key, value) {
-                if (key == "header1") {
-                    selector = "div#kwoptlab-contact h1";
-                    items = $(selector);
-                    items.text(value);
-                }
+
             })
         });
 
@@ -309,7 +288,10 @@ function init() {
     setLanguage(lang);
 
     initDropdown();
+
     initMenu(lang);
+    initHeaders(lang);
+
     initHome(lang);
     initAbout(lang);
     initResearch(lang);
