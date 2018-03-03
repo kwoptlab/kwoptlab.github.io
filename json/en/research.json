@@ -23,14 +23,14 @@
     "grants": {
         "header": "Research Grants",
         "body": [
-            "한국연구재단",
-            "해양경찰청",
-            "기상과학원",
-            "기상청",
-            "현대 NGV",
-            "삼성전자",
-            "한국해양기술",
-            "투씨솔루션"
+            "National Research Foundation",
+            "Korea Coast Guard",
+            "National Institute of Meteorological Sciences",
+            "Korea Meteorological Administration",
+            "HYUNDAI NGV",
+            "Samsung Electronics",
+            "Korea Oceanic & Atmospheric System Technology",
+            "2csolution"
         ]
     }
 }
