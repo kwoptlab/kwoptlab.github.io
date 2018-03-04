@@ -293,9 +293,15 @@ function init() {
         var items = null;
 
         $.getJSON(path, function (data) {
-            $.each(data, function (key, value) {
+            selector = "div#kwoptlab-projects div.kwoptlab-content-body div.list";
+            items = $(selector);
 
-            })
+            html = "";
+            for (var i = 0; i < data.length; ++i) {
+                html += '<div class="item" style="padding-bottom: 0.5em; padding-top: 0.5em;">\n<i class="teal folder icon" ></i>\n<div class="content">' + data[i] + '</div>\n</div >';
+            }
+
+            items.append(html);
         });
 
         initItemActive("projects");
