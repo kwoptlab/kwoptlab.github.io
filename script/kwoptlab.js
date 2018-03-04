@@ -19,6 +19,32 @@ function moveToContent(content) {
     $(selectorItem2).addClass("active");
 }
 
+// A function that shows the details of the publications.
+function readMorePublication(content) {
+    var path = "./json/en/publications.json";
+    var selector = "";
+    var items = null;
+    var html = "";
+
+    $.getJSON(path, function (data) {
+        selector = "div#kwoptlab-publications-modal div.ui.header";
+        items = $(selector);
+        items.text(data[content].header);
+
+        html = "";
+        for (var i = 0; i < data[content].body.length; ++i) {
+            html += '<tr>\n<td>' + (i + 1) + '</td>\n<td>' + data[content].body[i] + '</td>\n</tr>';
+        }
+
+        selector = "div#kwoptlab-publications-modal table.ui.table tbody";
+        items = $(selector);
+        items.empty();
+        items.append(html);
+    });
+
+    $("div#kwoptlab-publications-modal").modal("show");
+}
+
 // A function that gets the current language of the page.
 function getLanguage() {
     var url = window.location.search.substring(1);
@@ -179,7 +205,7 @@ function init() {
 
                     html = ""
                     for (var i = 0; i < value.body.length; ++i) {
-                        html += '<div class="column">\n<div class="ui teal segments">\n<div class="ui teal segment">\n<h3 class="ui header">' + value.body[i].field + '</h3>\n</div>\n<div class="ui segment">\n<p>' + value.body[i].description + '</p>\n</div>\n</div>\n</div >';
+                        html += '<div class="column">\n<div class="ui teal segments">\n<div class="ui teal segment">\n<h3 class="ui header">' + value.body[i].field + '</h3>\n</div>\n<div class="ui segment">\n<p>' + value.body[i].description + '</p>\n</div>\n</div>\n</div>';
                     }
 
                     selector = "div#kwoptlab-research-topics div.ui.grid";
@@ -276,10 +302,27 @@ function init() {
         var path = "./json/" + lang + "/publications.json";
         var selector = "";
         var items = null;
+        var html = "";
+
+        var textNumber = " items";
+        var textButton = "Read More";
+
+        if (lang == "en") {
+            textNumber = " items";
+            textButton = "Read More";
+        } else if (lang == "ko") {
+            textNumber = " 개";
+            textButton = "더 보기";
+        }
 
         $.getJSON(path, function (data) {
             $.each(data, function (key, value) {
+                html = "";
+                html += '<div class="card">\n<div class="content">\n<div class="header">' + value.header + '</div>\n<div class="meta">' + value.body.length + textNumber + '</div>\n</div>\n<div class="ui bottom attached button" onclick="readMorePublication(\'' + key + '\');"><i class="teal add icon"></i>\n' + textButton + '</div>\n</div>';
 
+                selector = "div#kwoptlab-publications div.kwoptlab-content-body div.ui.stackable.cards";
+                items = $(selector);
+                items.append(html);
             })
         });
 
