@@ -205,7 +205,7 @@ function init() {
 
                     html = ""
                     for (var i = 0; i < value.body.length; ++i) {
-                        html += '<div class="column">\n<div class="ui teal segments">\n<div class="ui teal segment">\n<h3 class="ui header">' + value.body[i].field + '</h3>\n</div>\n<div class="ui segment">\n<p>' + value.body[i].description + '</p>\n</div>\n</div>\n</div>';
+                        html += '<div class="column">\n<div class="ui segments">\n<div class="ui teal segment">\n<h3 class="ui header">' + value.body[i].field + '</h3>\n</div>\n<div class="ui segment">\n<p>' + value.body[i].description + '</p>\n</div>\n</div>\n</div>';
                     }
 
                     selector = "div#kwoptlab-research-topics div.ui.grid";
@@ -355,11 +355,28 @@ function init() {
         var path = "./json/" + lang + "/lectures.json";
         var selector = "";
         var items = null;
+        var html = "";
 
         $.getJSON(path, function (data) {
-            $.each(data, function (key, value) {
+            for (var i = 0; i < data.length; ++i) {
+                html = '<div class="ui basic segment">\n<div class="ui container">\n<h2 class="ui header">' + data[i].year + '</h2>\n<div class="ui stackable two column grid container">\n';
 
-            })
+                for (var j = 0; j < data[i].semesters.length; ++j) {
+                    html += '<div class="column">\n<div class="ui segments">\n<div class="ui teal segment">\n<h3 class="ui header">' + data[i].semesters[j].semester + '</h3>\n</div>\n<div class="ui segment"><div class="ui bulleted list">\n';
+
+                    for (var k = 0; k < data[i].semesters[j].lectures.length; ++k) {
+                        html += '<div class="item">' + data[i].semesters[j].lectures[k] + '</div>\n';
+                    }
+
+                    html += '</div>\n</div>\n</div>\n</div>\n';
+                }
+
+                html += '</div>\n</div>';
+
+                selector = "div#kwoptlab-lectures div.kwoptlab-content-body";
+                items = $(selector);
+                items.append(html);
+            }
         });
 
         initItemActive("lectures");
