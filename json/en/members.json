@@ -12,7 +12,7 @@
                 "sns": {}
             },
             {
-                "img": "./img/members/Default.png",
+                "img": "./img/members/YongWook.png",
                 "name": "Yong-Wook Nam",
                 "role": "Ph.D Candidate",
                 "dept": "Department of Computer Science at KwangWoon Univ.",
@@ -104,7 +104,7 @@
         "header": "Alumni",
         "body": [
             {
-                "img": "./img/members/Default.png",
+                "img": "./img/members/jhseo.jpg",
                 "name": "Jae-Hyun Seo",
                 "role": "Ph.D / Assistant Professor, Software Engineering, Wonkwang University",
                 "dept": "Department of Computer Science at KwangWoon Univ.",
@@ -113,7 +113,7 @@
                 "sns": {}
             },
             {
-                "img": "./img/members/Default.png",
+                "img": "./img/members/psy.jpg",
                 "name": "Soo-Young Park",
                 "role": "Master / POSCO ICT",
                 "dept": "Department of Embedded Software Engineering at KwangWoon Univ.",
@@ -131,7 +131,7 @@
                 "sns": {}
             },
             {
-                "img": "./img/members/Default.png",
+                "img": "./img/members/hmkim.jpg",
                 "name": "Hyun-Min Kim",
                 "role": "Master / Obigo Korea",
                 "dept": "Department of Embedded Software Engineering at KwangWoon Univ.",
@@ -140,7 +140,7 @@
                 "sns": {}
             },
             {
-                "img": "./img/members/Default.png",
+                "img": "./img/members/JYL.jpg",
                 "name": "June-Yeop Lee",
                 "role": "Master / ECMiner",
                 "dept": "Department of Computer Science at KwangWoon Univ.",
@@ -150,7 +150,7 @@
             },
             {
                 "img": "./img/members/JiHoon.png",
-                "name": "Ji-Hoon Ha",
+                "name": "Ji-Hun Ha",
                 "role": "Master / KOAST",
                 "dept": "Department of Embedded Software Engineering at KwangWoon Univ.",
                 "email": "007bigboy@hanmail.net",
