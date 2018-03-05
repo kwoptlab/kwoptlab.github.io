@@ -12,7 +12,7 @@
                 "sns": {}
             },
             {
-                "img": "./img/members/Default.png",
+                "img": "./img/members/YongWook.png",
                 "name": "남용욱",
                 "role": "박사 과정 수료",
                 "dept": "광운대학교 컴퓨터과학과",
@@ -104,7 +104,7 @@
         "header": "졸업생",
         "body": [
             {
-                "img": "./img/members/Default.png",
+                "img": "./img/members/JeaHyun.jpg",
                 "name": "서재현",
                 "role": "박사 / 원광대학교 소프트웨어공학부 조교수",
                 "dept": "광운대학교 컴퓨터과학과",
@@ -113,7 +113,7 @@
                 "sns": {}
             },
             {
-                "img": "./img/members/Default.png",
+                "img": "./img/members/SooYoung.jpg",
                 "name": "박수영",
                 "role": "석사 / 포스코 ICT",
                 "dept": "광운대학교 임베디드소프트웨어학과",
@@ -131,7 +131,7 @@
                 "sns": {}
             },
             {
-                "img": "./img/members/Default.png",
+                "img": "./img/members/HyunMin.jpg",
                 "name": "김현민",
                 "role": "석사 / 오비고 코리아",
                 "dept": "광운대학교 임베디드소프트웨어학과",
@@ -140,7 +140,7 @@
                 "sns": {}
             },
             {
-                "img": "./img/members/Default.png",
+                "img": "./img/members/JoonYeop.jpg",
                 "name": "이준엽",
                 "role": "석사 / 이씨마이너",
                 "dept": "광운대학교 컴퓨터과학과",

@@ -104,7 +104,7 @@
         "header": "Alumni",
         "body": [
             {
-                "img": "./img/members/jhseo.jpg",
+                "img": "./img/members/JeaHyun.jpg",
                 "name": "Jae-Hyun Seo",
                 "role": "Ph.D / Assistant Professor, Software Engineering, Wonkwang University",
                 "dept": "Department of Computer Science at KwangWoon Univ.",
@@ -113,7 +113,7 @@
                 "sns": {}
             },
             {
-                "img": "./img/members/psy.jpg",
+                "img": "./img/members/SooYoung.jpg",
                 "name": "Soo-Young Park",
                 "role": "Master / POSCO ICT",
                 "dept": "Department of Embedded Software Engineering at KwangWoon Univ.",
@@ -131,7 +131,7 @@
                 "sns": {}
             },
             {
-                "img": "./img/members/hmkim.jpg",
+                "img": "./img/members/HyunMin.jpg",
                 "name": "Hyun-Min Kim",
                 "role": "Master / Obigo Korea",
                 "dept": "Department of Embedded Software Engineering at KwangWoon Univ.",
@@ -140,7 +140,7 @@
                 "sns": {}
             },
             {
-                "img": "./img/members/JYL.jpg",
+                "img": "./img/members/JoonYeop.jpg",
                 "name": "June-Yeop Lee",
                 "role": "Master / ECMiner",
                 "dept": "Department of Computer Science at KwangWoon Univ.",
