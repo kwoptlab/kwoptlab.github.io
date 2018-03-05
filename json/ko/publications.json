@@ -65,6 +65,9 @@
     "refereed international conference papers": {
         "header": "Refereed International Conference Papers",
         "body": [
+            "Joon-Yeop Lee, Yong-Hyuk Kim, Yourim Yoon, An NFC-based O2O Service Model in Exhibition-space, ICEC '16 Proceedings of the 18th Annual International Conference on Electronic Commerce: e-Commerce in Smart connected World Article No. 42",
+            "Yong-Wook Nam, Yong-Hyuk Kim, Filtering Commercial Tweets Using Machine Learning from Twitter Data, The 6th International Conference on Convergence Technology in 2016 June 29",
+            "Yong-Wook Nam, Yong-Hyuk Kim, Melody Composition Using Geometric Crossover for Variable-length Encoding, GECCO ’17 Companion, Berlin, Germany",
             "Chanju Jung, Yong-Hyuk Kim, Yourim Yoon, and Byung-Ro Moon, An Adaptive Method of Hungarian Mating Schemes in Genetic Algorithms, (ACM SIGEVO) Genetic and Evolutionary Computation Conference, pp. 1413-1414, 2015. (poster)",
             "Jae-Hyun Seo, Eun-Sol Ko, Yong-Hyuk Kim, Performance Comparison of GPUs with a Genetic Algorithm based on CUDA, Advanced Science and Technology Letters, Vol. 65 (Database 2014), pp. 36-40, 2014.",
             "Min-Ki Lee, Seung-Hyun Moon, Yong-Hyuk Kim, and Byung-Ro Moon, Correcting Abnormalities in Meteorological Data by Machine Learning, IEEE International Conference on Systems, Man, and Cybernetics, pp. 902-907, 2014.",
@@ -127,10 +130,7 @@
             "Yourim Yoon, Yong-Hyuk Kim, Alberto Moraglio, and Byung-Ro Moon, Quotient Geometric Crossover, Technical Report CSM-467, University of Essex, 2007. (pdf)",
             "Yourim Yoon, Yong-Hyuk Kim, Alberto Moraglio, and Byung-Ro Moon, Geometric Crossovers for Real-code Representation, Technical Report CSM-466, University of Essex, 2007. (pdf)",
             "Alberto Moraglio, Yong-Hyuk Kim, Yourim Yoon, Byung-Ro Moon, and Riccardo Poli, Cycle Crossover for Permutations with Repetitions, Technical Report CSM-454, University of Essex, 2006. (pdf)",
-            "Alberto Moraglio, Yong-Hyuk Kim, Yourim Yoon, Byung-Ro Moon, and Riccardo Poli, Geometric Crossover for Permutations with Repetitions: Applications to Graph Partitioning, Technical Report CSM-448, University of Essex, 2006. (pdf)",
-            "Joon-Yeop Lee, Yong-Hyuk Kim, Yourim Yoon, An NFC-based O2O Service Model in Exhibition-space, ICEC '16 Proceedings of the 18th Annual International Conference on Electronic Commerce: e-Commerce in Smart connected World Article No. 42",
-            "Yong-Wook Nam, Yong-Hyuk Kim, Filtering Commercial Tweets Using Machine Learning from Twitter Data, The 6th International Conference on Convergence Technology in 2016 June 29",
-            "Yong-Wook Nam, Yong-Hyuk Kim, Melody Composition Using Geometric Crossover for Variable-length Encoding, GECCO ’17 Companion, Berlin, Germany"
+            "Alberto Moraglio, Yong-Hyuk Kim, Yourim Yoon, Byung-Ro Moon, and Riccardo Poli, Geometric Crossover for Permutations with Repetitions: Applications to Graph Partitioning, Technical Report CSM-448, University of Essex, 2006. (pdf)"
         ]
     },
     "domestic books": {
