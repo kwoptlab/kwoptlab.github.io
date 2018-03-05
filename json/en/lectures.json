@@ -1,18 +1,18 @@
 [
-    {
+        {
         "year" :"2018",
         "semesters": [
             {
                 "semester": "Spring",
-                "Lectures": [
+                "lectures": [
                     "Discrete structure (undergraduate course for sophomore, 3 credits, TA: Dong-Pil Yu, Hyeon-Chang Lee)",
-                    "Algorithm (undergraduate course for junior, 3 credits, TA: Hye-Jin Kim, Hwi-Yeon Jo)",
+                    "Algorithm (undergraduate course for junior, 3 credits, TA: Hye-Jin Kim, Hwi-Yeon Cho)",
                     "Topics in information retrieval (graduate course, 3 credits)"
                 ]
             }
         ]
     },
-    {
+        {
         "year": "2017",
         "semesters": [
             {
@@ -29,7 +29,8 @@
                 "lectures": [
                     "Data structure (undergraduate course for sophomore, 3 credits, TA: Jung-Hwan Lee, Chan-Jae Lee) (4.51/5.0)",
                     "System software practice(undergraduate course for sophomore, 2 credits, TA: Kyung-Do Kim, Wan-Su Ha)",
-                ]  
+                    "Special Topics in Pattern Recognition (graduate course, 3 credits)"
+                ]
             }
         ]
     },
