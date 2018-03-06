@@ -9,7 +9,10 @@
                 "dept": "광운대학교 컴퓨터과학과",
                 "email": "yhdfly@kw.ac.kr",
                 "home": "",
-                "sns": {}
+                "sns": {
+                    "scholar": "https://scholar.google.com/citations?user=oFXdF7oAAAAJ&hl=en",
+                    "dblp": "http://dblp.org/pers/hd/k/Kim:Yong=Hyuk"
+                }
             },
             {
                 "img": "./img/members/YongWook.png",

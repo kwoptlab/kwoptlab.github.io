@@ -252,7 +252,13 @@ function init() {
             }
 
             for (snsName in member.sns) {
-                html += '<a href="' + member.sns[snsName] + '">\n<i class="big ' + snsName + ' icon"></i>\n</a>';
+                if (snsName == "scholar") {
+                    html += '<a href="javascript:window.open(\'' + member.sns[snsName] + '\');">\n<i class="big graduation cap icon"></i>\n</a>';
+                } else if (snsName == "dblp") {
+                    html += '<a href="javascript:window.open(\'' + member.sns[snsName] + '\');">\n<i class="big book icon"></i>\n</a>';
+                } else {
+                    html += '<a href="javascript:window.open(\'' + member.sns[snsName] + '\');">\n<i class="big ' + snsName + ' icon"></i>\n</a>';
+                }
             }
 
             html += '</span>\n</div></div>';
