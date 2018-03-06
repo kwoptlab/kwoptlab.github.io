@@ -9,13 +9,14 @@
     "Refereed international journal papers": {
         "header": "Refereed International Journal Papers",
         "body": [
-            "Yong-Hyuk Kim,Yourim Yoon, Zong Woo Geem, Acomparisonstudyofharmonysearchandgeneticalgorithmforthe max-cutproblem, Swarm and Evolutionary Computation, 1-6, January 2018.",
+            "Yong-Hyuk Kim and Seok-Joong Kang, Optimization by Simulated Catalytic Reaction: Application to Graph Bisection, KSII Transaction on Internet and Information Systems, 2018 (accepted).",
+            "Yong-Hyuk Kim,Yourim Yoon, Zong Woo Geem, A Comparison Study of Harmony Search and Genetic Algorithm for the Max-Cut Problem, Swarm and Evolutionary Computation, January 2018 (in press).",
             "Yong-Wook Nam and Yong-Hyuk Kim, Prediction of Drifter Trajectory Using Evolutionary Computation, Discrete Dynamics in Nature and Society Volume 2018, Article ID 6848745, 2018.",
-            "Hye-Jin Kim and Yong-Hyuk Kim, Classifying Copyrighted Designs through Convolutional Neural Networks, International Journal of Applied Engineering Research ISSN 0973-4562 Volume 13, Number 1 pp. 590-597, 2018.",
+            "Hye-Jin Kim and Yong-Hyuk Kim, Classifying Copyrighted Designs through Convolutional Neural Networks, International Journal of Applied Engineering Research Volume 13, Number 1 pp. 590-597, 2018.",
             "Jae-Hyun Seo, Yourim Yoon and Yong-Hyuk Kim, Coverage problem in camera-based sensor networks using the CUDA platform, International Journal of Distributed Sensor Networks 2017, Vol. 13(12), 2017.",
-            "Hye-Jin Kim and Yong-Hyuk Kim, Recent Researches on Application and Influence of Twitter, International Journal of Applied Engineering Research ISSN 0973-4562 Volume 11, Number 11 pp 7501-7504, 2016.",
-            "Hye-Jin Kim and Yong-Hyuk Kim, Efficient Methods for Detecting Spam through Analyzing Tweets, International Journal of Applied Engineering Research ISSN 0973-4562 Volume 11, Number 15 pp 8448-8451, 2016.",
-            "Ji-Hun Ha and Yong-Hyuk Kim, A Survey on Data Correction of Observation and Prediction Using Machine Learning: Preliminary Study for Optimizing Oil Spill Model, International Journal of Applied Engineering Research ISSN 0973-4562 Volume 11, Number 16 pp 8892-8895, 2016.",
+            "Hye-Jin Kim and Yong-Hyuk Kim, Recent Researches on Application and Influence of Twitter, International Journal of Applied Engineering Research Volume 11, Number 11 pp 7501-7504, 2016.",
+            "Hye-Jin Kim and Yong-Hyuk Kim, Efficient Methods for Detecting Spam through Analyzing Tweets, International Journal of Applied Engineering Research Volume 11, Number 15 pp 8448-8451, 2016.",
+            "Ji-Hun Ha and Yong-Hyuk Kim, A Survey on Data Correction of Observation and Prediction Using Machine Learning: Preliminary Study for Optimizing Oil Spill Model, International Journal of Applied Engineering Research Volume 11, Number 16 pp 8892-8895, 2016.",
             "Yong-Wook Nam and Yong-Hyuk Kim, Finding influential opinion by filtering commercial tweets, Indian Journal of Science and Technology, Vol 9(S1), December 2016.",
             "Jae-Hyun Seo, Yourim Yoon, and Yong-Hyuk Kim, An Efficient Large-Scale Sensor Deployment Using a Parallel Genetic Algorithm Based on CUDA, International Journal of Distributed Sensor Networks Volume 2016, Article ID 8612128, 2016.",
             "Yong-Hyuk Kim and Yourim Yoon, Spatiotemporal Pattern Networks of Heavy Rain among Automatic Weather Stations and Very-Short-Term Heavy-Rain Prediction, Advances in Meteorology Volume 2016, Article ID 4063632, 2016.",
@@ -44,8 +45,6 @@
             "Yong-Hyuk Kim and Yourim Yoon, Context Prediction of Mobile Users Based on Time-Inferred Pattern Networks: A Probabilistic Approach, Mathematical Problems in Engineering Volume 2013, Article ID 106139, 2013.",
             "Yourim Yoon and Yong-Hyuk Kim, A Memetic Lagrangian Heuristic for the 0-1 Multidimensional Knapsack Problem, Discrete Dynamics in Nature and Society Volume 2013, Article ID 474852, 2013.",
             "Yong-Hyuk Kim, Sehoon Seo, Yong-HoHa, Seongwon Lim, and Yourim Yoon, Two Applications of Clustering Techniques to Twitter: Community Detection and Issue Extraction, Discrete Dynamics in Nature and Society  Volume 2013, Article ID 903765, 2013.",
-            
-            
             "Gyung-Mok Yoon, Jin Kim, Yong-Hyuk Kim, and Byung-Ro Moon, Performance Improvement by Genetic Feature Selection and Adjusting Ratings' Mid-point Value in the Neural Network-Based Recommendation Models, Advances in Information Sciences and Service Sciences, 4(11):37-43, June 2012.",
             "Yourim Yoon, Yong-Hyuk Kim, and Byung-Ro Moon, A Theoretical and Empirical Investigation on the Lagrangian Capacities of the 0/1 Multidimensional Knapsack Problem, European Journal of Operational Research, 218(2):366-376, April 2012.",
             "Yourim Yoon, Yong-Hyuk Kim, Alberto Moraglio, and Byung-Ro Moon, Quotient Geometric Crossovers and Redundant Encodings, Theoretical Computer Science, 425:4-16, March 2012.",
@@ -67,7 +66,7 @@
         "header": "Refereed International Conference Papers",
         "body": [
             "Yong-Wook Nam, Yong-Hyuk Kim, Melody Composition Using Geometric Crossover for Variable-length Encoding, GECCO ’17 Companion, Berlin, Germany, 2017.",
-             "Joon-Yeop Lee, Yong-Hyuk Kim, Yourim Yoon, An NFC-based O2O Service Model in Exhibition-space, ICEC '16 Proceedings of the 18th Annual International Conference on Electronic Commerce: e-Commerce in Smart connected World Article No. 42, 2016.",
+            "Joon-Yeop Lee, Yong-Hyuk Kim, Yourim Yoon, An NFC-based O2O Service Model in Exhibition-space, ICEC '16 Proceedings of the 18th Annual International Conference on Electronic Commerce: e-Commerce in Smart connected World Article No. 42, 2016.",
             "Yong-Wook Nam, Yong-Hyuk Kim, Filtering Commercial Tweets Using Machine Learning from Twitter Data, The 6th International Conference on Convergence Technology, June 2016.",
             "Chanju Jung, Yong-Hyuk Kim, Yourim Yoon, and Byung-Ro Moon, An Adaptive Method of Hungarian Mating Schemes in Genetic Algorithms, (ACM SIGEVO) Genetic and Evolutionary Computation Conference, pp. 1413-1414, 2015.",
             "Jae-Hyun Seo, Eun-Sol Ko, Yong-Hyuk Kim, Performance Comparison of GPUs with a Genetic Algorithm based on CUDA, Advanced Science and Technology Letters, Vol. 65 (Database 2014), pp. 36-40, 2014.",
