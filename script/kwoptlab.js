@@ -300,9 +300,6 @@ function init() {
     // A function that sets the "Publications" contents of the page.
     function initPublications(lang) {
         var path = "./json/" + lang + "/publications.json";
-        var selector = "";
-        var items = null;
-        var html = "";
 
         var textNumber = " items";
         var textButton = "Read More";
@@ -317,7 +314,10 @@ function init() {
 
         $.getJSON(path, function (data) {
             $.each(data, function (key, value) {
-                html = "";
+                var selector = "";
+                var items = null;
+                var html = "";
+
                 html += '<div class="card">\n<div class="content">\n<div class="header">' + value.header + '</div>\n<div class="meta">' + value.body.length + textNumber + '</div>\n</div>\n<div class="ui bottom attached button" onclick="readMorePublication(\'' + key + '\');"><i class="teal add icon"></i>\n' + textButton + '</div>\n</div>';
 
                 selector = "div#kwoptlab-publications div.kwoptlab-content-body div.ui.stackable.cards";
@@ -332,14 +332,13 @@ function init() {
     // A function that sets the "Projects" contents of the page.
     function initProjects(lang) {
         var path = "./json/" + lang + "/projects.json";
-        var selector = "";
-        var items = null;
+
 
         $.getJSON(path, function (data) {
-            selector = "div#kwoptlab-projects div.kwoptlab-content-body div.list";
-            items = $(selector);
+            var selector = "div#kwoptlab-projects div.kwoptlab-content-body div.list";
+            var items = $(selector);
+            var html = "";
 
-            html = "";
             for (var i = 0; i < data.length; ++i) {
                 html += '<div class="item" style="padding-bottom: 0.5em; padding-top: 0.5em;">\n<i class="teal folder icon" ></i>\n<div class="content">' + data[i] + '</div>\n</div >';
             }
@@ -353,19 +352,34 @@ function init() {
     // A function that sets the "Lectures" contents of the page.
     function initLectures(lang) {
         var path = "./json/" + lang + "/lectures.json";
-        var selector = "";
-        var items = null;
-        var html = "";
 
         $.getJSON(path, function (data) {
-            for (var i = 0; i < data.length; ++i) {
+            var i = 0, j = 0, k = 0, l = 0;
+            var semesters = null;
+            var lectures = null;
+            var comments = null;
+
+            var selector = "";
+            var items = null;
+            var html = "";
+
+            for (i = 0; i < data.length; ++i) {
                 html = '<div class="ui basic segment">\n<div class="ui container">\n<h2 class="ui header">' + data[i].year + '</h2>\n<div class="ui stackable two column grid container">\n';
 
-                for (var j = 0; j < data[i].semesters.length; ++j) {
-                    html += '<div class="column">\n<div class="ui segments">\n<div class="ui teal segment">\n<h3 class="ui header">' + data[i].semesters[j].semester + '</h3>\n</div>\n<div class="ui segment"><div class="ui bulleted list">\n';
+                semesters = data[i].semesters;
+                for (j = 0; j < semesters.length; ++j) {
+                    html += '<div class="column">\n<div class="ui segments">\n<div class="ui teal segment">\n<h3 class="ui header">' + semesters[j].semester + '</h3>\n</div>\n<div class="ui segment"><div class="ui bulleted list">\n';
 
-                    for (var k = 0; k < data[i].semesters[j].lectures.length; ++k) {
-                        html += '<div class="item">' + data[i].semesters[j].lectures[k] + '</div>\n';
+                    lectures = semesters[j].lectures;
+                    for (k = 0; k < lectures.length; ++k) {
+                        html += '<div class="item">' + lectures[k].lecture;
+
+                        comments = lectures[k].comments;
+                        for (l = 0; l < comments.length; ++l) {
+                            html += '&#09; <a href="javascript:window.open(\'' + comments[l] + '\');"><i class="teal medium comment alternate outline icon"></i></a>\n';
+                        }
+
+                        html += '</div >\n';
                     }
 
                     html += '</div>\n</div>\n</div>\n</div>\n';
@@ -385,15 +399,12 @@ function init() {
     // A function that sets the "Awards" contents of the page.
     function initAwards(lang) {
         var path = "./json/" + lang + "/awards.json";
-        var selector = "";
-        var items = null;
-        var html = "";
 
         $.getJSON(path, function (data) {
-            selector = "div#kwoptlab-awards div.kwoptlab-content-body div.list";
-            items = $(selector);
+            var selector = "div#kwoptlab-awards div.kwoptlab-content-body div.list";
+            var items = $(selector);
+            var html = "";
 
-            html = "";
             for (var i = 0; i < data.length; ++i) {
                 html += '<div class="item" style="padding-bottom: 0.5em; padding-top: 0.5em;">\n<i class="yellow trophy icon" ></i>\n<div class="content">' + data[i] + '</div>\n</div >';
             }
@@ -407,12 +418,11 @@ function init() {
     // A function that sets the "News" contents of the page.
     function initNews(lang) {
         var path = "./json/" + lang + "/news.json";
-        var selector = "";
-        var items = null;
 
         $.getJSON(path, function (data) {
             $.each(data, function (key, value) {
-
+                var selector = "";
+                var items = null;
             })
         });
 
@@ -422,11 +432,12 @@ function init() {
     // A function that sets the "Contact" contents of the page.
     function initContact(lang) {
         var path = "./json/" + lang + "/contact.json";
-        var selector = "";
-        var item = null;
 
         $.getJSON(path, function (data) {
             $.each(data, function (key, value) {
+                var selector = "";
+                var item = null;
+
                 if (key == "phone") {
                     selector = "div#kwoptlab-contact div.ui.list div.item:nth-child(1) div.content a";
                     item = $(selector);
