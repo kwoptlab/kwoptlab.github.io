@@ -113,8 +113,8 @@
                     {
                         "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: Gyoung-Do Kim) (4.48/5.0)",
                         "comments": [
-                            "./htm/2016/spring/Data-structure_mid.htm",
-                            "./htm/2016/spring/Data-structure_final.htm"
+                            "./htm/2016/fall/Data-structure_mid.htm",
+                            "./htm/2016/fall/Data-structure_final.htm"
                         ]
                     },
                     {
@@ -124,8 +124,8 @@
                     {
                         "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Jihoon Ha) (4.43/5.0)",
                         "comments": [
-                            "./htm/2016/spring/Algorithms_mid.htm",
-                            "./htm/2016/spring/Algorithms_mid_final.htm"
+                            "./htm/2016/fall/Algorithms_mid.htm",
+                            "./htm/2016/fall/Algorithms_mid_final.htm"
                         ]
                     },
                     {
@@ -144,11 +144,17 @@
                 "lectures": [
                     {
                         "lecture": "Advanced programming (undergraduate course for sophomore, 3 credits, TA: June-Yeop Lee) *Selected as one of the 32 excellent lectures among 1,429 lectures by ACE committee (4.49/5.0)",
-                        "comments": []
+                        "comments": [
+                            "./htm/2015/spring/Advanced-programming_mid.htm",
+                            "./htm/2015/spring/Advanced-programming_final.htm"
+                        ]
                     },
                     {
                         "lecture": "Discrete structure (undergraduate course for sophomore, 3 credits, TA: Ji-Hoon Ha)",
-                        "comments": []
+                        "comments": [
+                            "./htm/2015/spring/Discrete-structure_mid.htm",
+                            "./htm/2015/spring/Discrete-structure_final.htm"
+                        ]
                     },
                     {
                         "lecture": "Software practice 3 (undergraduate course for junior, 3 credits, TA: Yong-Wook Nam and June-Yeop Lee)",
@@ -165,7 +171,10 @@
                 "lectures": [
                     {
                         "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: June-Yeop Lee) (4.57/5.0) *Selected as one of the 32 excellent lectures among 1,441 lectures by ACE committee",
-                        "comments": []
+                        "comments": [
+                            "./htm/2015/fall/Data-structure_mid.htm",
+                            "./htm/2015/fall/Data-structure_final.htm"
+                        ]
                     },
                     {
                         "lecture": "Software practice 2 (undergraduate course for sophomore, 2 credits, TA: Yong-Wook Nam and June-Yeop Lee)",
@@ -173,7 +182,10 @@
                     },
                     {
                         "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Ji-Hoon Ha) (4.41/5.0)",
-                        "comments": []
+                        "comments": [
+                            "./htm/2015/fall/Algorithms_mid.htm",
+                            "./htm/2015/fall/Algorithms_final.htm"
+                        ]
                     },
                     {
                         "lecture": "Special Topics in Pattern Recognition (graduate course, 3 credits)",
