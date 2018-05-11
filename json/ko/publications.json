@@ -9,6 +9,7 @@
     "Refereed international journal papers": {
         "header": "Refereed International Journal Papers",
         "body": [
+            "Ji-Hun Ha, Yong-Hyuk Kim , Hyo-Hyuc Im, Na-Young Kim, Sangjin Sim, Yourim Yoon, Error Correction of Meteorological Data Obtained with Mini-AWSs Based on Machine Learning, Hindawi Advances in Meteorology, Volume 2018, Article ID 7210137, 8 pages, 2018.",
             "Yong-Hyuk Kim and Seok-Joong Kang, Optimization by Simulated Catalytic Reaction: Application to Graph Bisection, KSII Transaction on Internet and Information Systems, 2018 (accepted).",
             "Yong-Hyuk Kim,Yourim Yoon, Zong Woo Geem, A Comparison Study of Harmony Search and Genetic Algorithm for the Max-Cut Problem, Swarm and Evolutionary Computation, January 2018 (in press).",
             "Yong-Wook Nam and Yong-Hyuk Kim, Prediction of Drifter Trajectory Using Evolutionary Computation, Discrete Dynamics in Nature and Society Volume 2018, Article ID 6848745, 2018.",
@@ -65,6 +66,11 @@
     "refereed international conference papers": {
         "header": "Refereed International Conference Papers",
         "body": [
+            "Hwi-Yeon Cho, HYe-Jin Kim, Yong-Hyuk Kim, Parameter Space Analysis of Genetic Algorithm Using Support Vector Regression , GECCO ’18 Companion, Kyoto, Japan, 2018. ",
+            "Hyeon-Chang Lee, Dong-Pil Yu, Yong-Hyuk Kim, On the Hardness of Parameter Optimiaztion of Convolution Neural Networks Using Algorithm and Machine Learning, GECCO ’18 Companion, Kyoto, Japan, 2018. ",
+            "Dong-Pil Yu, Yong-Hyuk Kim, Is It Worth to Approximate Fitness by Machine Learning?: Investigation on the Extensibility According to Problem Size, GECCO ’18 Companion, Kyoto, Japan, 2018. ",
+            "Jughwan Lee, Yong-Hyuk Kim, Importance of Finding a Good Basis in Binary Representation, GECCO ’18 Companion, Kyoto, Japan, 2018. ",
+            "Yong-Wook Nam, Yong-Hyuk Kim, A Geometric Evolutionary Search for Melody Composition,  GECCO ’18 Companion, Kyoto, Japan, 2018.",
             "Yong-Wook Nam, Yong-Hyuk Kim, Melody Composition Using Geometric Crossover for Variable-length Encoding, GECCO ’17 Companion, Berlin, Germany, 2017.",
             "Joon-Yeop Lee, Yong-Hyuk Kim, Yourim Yoon, An NFC-based O2O Service Model in Exhibition-space, ICEC '16 Proceedings of the 18th Annual International Conference on Electronic Commerce: e-Commerce in Smart connected World, 2016.",
             "Yong-Wook Nam, Yong-Hyuk Kim, Filtering Commercial Tweets Using Machine Learning from Twitter Data, The 6th International Conference on Convergence Technology, June 2016.",
@@ -123,7 +129,8 @@
     "technical reports": {
         "header": "Technical Reports",
         "body": [
-            "Yourim Yoon and Yong-Hyuk Kim, Charge Scheduling of an Energy Storage System under Time-of-use Pricing and a Demand Charge, CoRR abs/1407.3077, July 2014.",
+            "Hye-Jin Kim, Yong-Hyuk Kim, Recent Progress on Graph Partitioning Problems Using Evolutionary Computation, CoRR, 2018.",
+            "Yourim Yoon, Yong-Hyuk Kim, Charge Scheduling of an Energy Storage System under Time-of-use Pricing and a Demand Charge, CoRR abs/1407.3077,  2014.",
             "Yourim Yoon, Yong-Hyuk Kim, Alberto Moraglio, Byung-Ro Moon, Mathematical Interpretation between Genotype and Phenotype Spaces and Induced Geometric Crossovers, CoRR abs/0907.3202, July 2009.",
             "Yourim Yoon, Yong-Hyuk Kim, Alberto Moraglio, Byung-Ro Moon, A Mathematical Unification of Geometric Crossovers Defined on Phenotype Space, CoRR abs/0907.3200, July 2009.",
             "Yong-Hyuk Kim and Yourim Yoon, A Note on Mathematical Modelling of Practical Multicampaign Assignment and Its Computational Complexity, CoRR abs/0906.5475, June 2009.",
@@ -143,6 +150,11 @@
     "refereed domestic journal papers": {
         "header": "Refereed Domestic Journal Papers",
         "body": [
+            "Hwi-Yeon Cho, Yong-Hyuk Kim, Performance Comparison between Genetic Algorithms and Dynamic Programming in the Subset-Sum Problem, Asia-pacific Journal of Multimedia Services Convergent with Art, Humanities, and Sociology Vol.8, No.3, pp. 259-267, 2018.",
+            "Dong-Pil Yu, Yong-Hyuk Kim, How Does Problem Epistasis Affect the performance of Genetic Algorithm?, Asia-pacific Journal of Multimedia Services Convergent with Art, Humanities, and Sociology Vol.8, No.3, pp. 251-258, 2018.",
+            "Yong-Wook Nam, Yong-Hyuk Kim, Improving Twitter Search Function Using Twitter API, Asia-pacific Journal of Multimedia Services Convergent with Art, Humanities, and Sociology Vol.8, No.3, pp. 879-886, 2018.",
+            "Chan-Jae Lee, Yong-Hyuk Kim, Ensemble Design of Machine Learning Technigues: Experimental Verification by Prediction of Drifter Trajectory, Asia-pacific Journal of Multimedia Services Convergent with Art, Humanities, and Sociology Vol.8, No.3, pp. 57-67, 2018.",
+            "Gyoung-Do Kim, Yong-Hyuk Kim, Correction of Drifter Data Using Recurrent Neural Networks, Journal of the Korea Convergence Society Vol. 9. No. 3, pp. 15-21, 2018.",
             "Gyoung-Do Kim, Yong-Hyuk Kim, A Survey on Oil Spill and Weather Forecast Using Machine Learning Based on Neural Networks and Statistical Methods, Journal of the Korea Convergence Society Vol. 8. No. 10, pp.1-8, 2017.",
             "Chan-Jae Lee, Gyoung-Do Kim, Yong-Hyuk Kim, Performance Comparison of Machine Learning Based on Neural Networks and Statistical Methods for Prediction of Drifter Movement, Journal of the Korea Convergence Society Vol. 8. No. 10, pp.45-52, 2017.",
             "Ji-Hun Ha, Yong-Hyuk Kim, and Yong Hee Lee, Applying Artificial Neural Networks for Estimation of Planetary Boundary Layer Height, Journal of Korean Institute of Intelligent Systems, Vol. 27, No. 4, pp. 302-309, August 2017.",
@@ -168,6 +180,9 @@
     "domestic conference paper": {
         "header": "Domestic Conference Paper",
         "body": [
+            "Junghwan Lee, Yong-Hyuk Kim, Formulation of the Tiny Tower Assignment Problem, Proceedings of KIIS Spring Conference, Vol. 28, No. 1, 2018.",
+            "Dong-Pil Yu, Hyun-Chang Lee, Dong-Geon Lee, Ga-Bin Jung, Yong-Wook Nam, Yong-Hyuk Kim, Extraction of Twitter User Keyword to Develop Customized Tweet Recommendation System, Proceedings of KIIS Spring Conference, Vol. 28, No. 1, 2018.",
+            "Gyoung-Do Kim, Yong-Hyuk Kim, Correction of Drifter Data Using Autoencoder, Proceedings of KIIS Spring Conference, Vol. 28, No. 1, 2018.",
             "Sungjae Cho, Jae-Gwan Jang, Yong-Hyuk Kim, A Method to Recommend Korean History Wikipedia Documents Next to Read Using Document Links and Word2vec, KOREA INFORMATION SCIENCE SOCIETY Academic Publications, pp. 1814-1816, June 2017.",
             "Hye-Jin Kim, Yong-Hyuk Kim, Extraction of Personal Information Using Face Recognition  Based on Deep Learning , 2017 Korea Multimedia Society Spring Conference, Vol. 20, No.1, 2017.",
             "Hwi-Yeon Cho, Hye-Jin Kim, Eun-Chan Lee, Min-Jung Lee, Yong-Wook Nam, Yong-Hyuk Kim, Twitter Data Collection to Build Customized Tweet Recommendation System, 2017 Korea Multimedia Society Spring Conference, Vol. 20, No.1, 2017.",
