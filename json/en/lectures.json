@@ -203,11 +203,17 @@
                 "lectures": [
                     {
                         "lecture": "Advanced programming (undergraduate course for sophomore, 3 credits, TA: Jae-Hyun Seo and Dong-won Kim)",
-                        "comments": []
+                        "comments": [
+                            "./htm/2014/spring/Advanced-programming_mid.htm",
+                            "./htm/2014/spring/Advanced-programming_final.htm"
+                        ]
                     },
                     {
                         "lecture": "Discrete structure (undergraduate course for sophomore, 3 credits, TA: Yong-Wook Nam)",
-                        "comments": []
+                        "comments": [
+                            "./htm/2014/spring/Discrete-structure_mid.htm",
+                            "./htm/2014/spring/Discrete-structure_final.htm"
+                        ]
                     },
                     {
                         "lecture": "Software practice 1 (undergraduate course for sophomore, 2 credits)",
@@ -224,7 +230,10 @@
                 "lectures": [
                     {
                         "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: Yong-Wook Nam and Dong-won Kim)",
-                        "comments": []
+                        "comments": [
+                            "./htm/2014/fall/Data-structure_mid.htm",
+                            "./htm/2014/fall/Data-structure_final.htm"
+                        ]
                     },
                     {
                         "lecture": "Software practice 2 (undergraduate course for sophomore, 2 credits, TA: Yong-Wook Nam)",
@@ -232,7 +241,10 @@
                     },
                     {
                         "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Eun-Sol Ko)",
-                        "comments": []
+                        "comments": [
+                            "./htm/2014/fall/Algorithms_mid.htm",
+                            "./htm/2014/fall/Algorithms_final.htm"
+                        ]
                     },
                     {
                         "lecture": "Algorithm (graduate course, 3 credits)",
