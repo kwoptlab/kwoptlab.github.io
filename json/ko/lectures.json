@@ -262,11 +262,17 @@
                 "lectures": [
                     {
                         "lecture": "고급 프로그래밍 (학부과정 2학년, 3학점, TA: 서재현)",
-                        "comments": []
+                        "comments": [
+                            "./htm/2012/spring/Advanced-programming_mid.htm",
+                            "./htm/2012/spring/Advanced-programming_final.htm"
+                        ]
                     },
                     {
                         "lecture": "이산 구조 (학부과정 2학년, 3학점, TA: 김진성)",
-                        "comments": []
+                        "comments": [
+                            "./htm/2012/spring/Discrete-structure_mid.htm",
+                            "./htm/2012/spring/Discrete-structure_final.htm"
+                        ]
                     },
                     {
                         "lecture": "디지털 로직 실습 (학부과정 2학년, 1학점)",

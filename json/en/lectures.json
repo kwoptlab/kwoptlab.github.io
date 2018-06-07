@@ -262,11 +262,17 @@
                 "lectures": [
                     {
                         "lecture": "Advanced programming (undergraduate course for sophomore, 3 credits, TA: Jae-Hyun Seo)",
-                        "comments": []
+                        "comments": [
+                            "./htm/2012/spring/Advanced-programming_mid.htm",
+                            "./htm/2012/spring/Advanced-programming_final.htm"
+                        ]
                     },
                     {
                         "lecture": "Discrete structure (undergraduate course for sophomore, 3 credits, TA: Jin-Sung Kim)",
-                        "comments": []
+                        "comments": [
+                            "./htm/2012/spring/Discrete-structure_mid.htm",
+                            "./htm/2012/spring/Discrete-structure_final.htm"
+                        ]
                     },
                     {
                         "lecture": "Digital logic practice (undergraduate course for sophomore, 1 credit)",
