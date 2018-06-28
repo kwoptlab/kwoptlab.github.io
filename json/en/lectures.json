@@ -1,4 +1,4 @@
-[
+[            
     {
         "year": "2018",
         "semesters": [
@@ -19,6 +19,23 @@
                     },
                     {
                         "lecture": "Topics in information retrieval (graduate course, 3 credits)",
+                        "comments": []
+                    }
+                ]
+            },
+            {
+                "semester": "Fall",
+                "lectures": [
+                    {
+                        "lecture": "Data structure (undergraduate course for sophomore, 3 credits)",
+                        "comments": []
+                    },
+                    {
+                        "lecture": "System Software practice 2 (undergraduate course for sophomore, 2 credits)",
+                        "comments": []
+                    },
+                    {
+                        "lecture": "Algorithm design and analysis (graduate course, 3 credits)",
                         "comments": []
                     }
                 ]
