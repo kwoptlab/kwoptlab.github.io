@@ -9,6 +9,7 @@
     "Refereed international journal papers": {
         "header": "Refereed International Journal Papers",
         "body": [
+            "Min-Ki Lee, Seung-Hyun Moon, Yourim Yoon, Yong-Hyuk Kim, and Byung-Ro Moon, Detecting Anomalies in Meteorological Data Using Support Vector Regression, Hindawi Advances in Meteorology, Vol. 2018, Article ID 5439256, 14 pages, 2018",
             "Ji-Hun Ha, Yong-Hyuk Kim , Hyo-Hyuc Im, Na-Young Kim, Sangjin Sim, Yourim Yoon, Error Correction of Meteorological Data Obtained with Mini-AWSs Based on Machine Learning, Hindawi Advances in Meteorology, Volume 2018, Article ID 7210137, 8 pages, 2018.",
             "Yong-Hyuk Kim and Seok-Joong Kang, Optimization by Simulated Catalytic Reaction: Application to Graph Bisection, KSII Transaction on Internet and Information Systems, vol. 12, no. 5, pp. 2162-2176, 2018.",
             "Yong-Hyuk Kim,Yourim Yoon, Zong Woo Geem, A Comparison Study of Harmony Search and Genetic Algorithm for the Max-Cut Problem, Swarm and Evolutionary Computation, January 2018 (in press).",
@@ -150,6 +151,7 @@
     "refereed domestic journal papers": {
         "header": "Refereed Domestic Journal Papers",
         "body": [
+            "Junhyeok Lee, Wan Soo Ha, Yong-Hyuk Kim, Kang Hoon Lee, Interactive 3D Visualization of Ceilometer Data, Korea Computer Graphics Society, Vol. 24, No. 2, pp. 21-28",
             "Hwi-Yeon Cho, Yong-Hyuk Kim, Performance Comparison between Genetic Algorithms and Dynamic Programming in the Subset-Sum Problem, Asia-pacific Journal of Multimedia Services Convergent with Art, Humanities, and Sociology Vol.8, No.3, pp. 259-267, 2018.",
             "Dong-Pil Yu, Yong-Hyuk Kim, How Does Problem Epistasis Affect the performance of Genetic Algorithm?, Asia-pacific Journal of Multimedia Services Convergent with Art, Humanities, and Sociology Vol.8, No.3, pp. 251-258, 2018.",
             "Yong-Wook Nam, Yong-Hyuk Kim, Improving Twitter Search Function Using Twitter API, Asia-pacific Journal of Multimedia Services Convergent with Art, Humanities, and Sociology Vol.8, No.3, pp. 879-886, 2018.",
@@ -180,7 +182,6 @@
     "domestic conference paper": {
         "header": "Domestic Conference Paper",
         "body": [
-            "Junhyeok Lee, Wan Soo Ha, Yong-Hyuk Kim, Kang Hoon Lee, Interactive 3D Visualization of Ceilometer Data, Korea Computer Graphics Society, Vol. 24, No. 2, pp. 21-28",
             "Junghwan Lee, Yong-Hyuk Kim, Formulation of the Tiny Tower Assignment Problem, Proceedings of KIIS Spring Conference, Vol. 28, No. 1, 2018.",
             "Dong-Pil Yu, Hyun-Chang Lee, Dong-Geon Lee, Ga-Bin Jung, Yong-Wook Nam, Yong-Hyuk Kim, Extraction of Twitter User Keyword to Develop Customized Tweet Recommendation System, Proceedings of KIIS Spring Conference, Vol. 28, No. 1, 2018.",
             "Gyoung-Do Kim, Yong-Hyuk Kim, Correction of Drifter Data Using Autoencoder, Proceedings of KIIS Spring Conference, Vol. 28, No. 1, 2018.",
