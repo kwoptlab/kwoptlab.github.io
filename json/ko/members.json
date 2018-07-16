@@ -2,7 +2,7 @@
     "current": {
         "header": "현재 구성원",
         "body": [
-                        {
+            {
                 "img": "./img/members/KyungDo.png",
                 "name": "김경도",
                 "role": "석사과정",
@@ -58,15 +58,6 @@
                 }
             },
             {
-                "img": "./img/members/Default.png",
-                "name": "이찬재",
-                "role": "석사과정",
-                "dept": "광운대학교 컴퓨터과학과",
-                "email": "dlckswo0112@naver.com",
-                "home": "",
-                "sns": {}
-            },
-            {
                 "img": "./img/members/HyeonChang.png",
                 "name": "이현창",
                 "role": "학석사연계과정",
@@ -91,7 +82,7 @@
             {
                 "img": "./img/members/HwiYeon.png",
                 "name": "조휘연",
-                "role": "학부과정",
+                "role": "석사과정",
                 "dept": "광운대학교 컴퓨터소프트웨어학과",
                 "email": "hwyn.cho@gmail.com",
                 "home": "",

@@ -58,15 +58,6 @@
                 }
             },
             {
-                "img": "./img/members/Default.png",
-                "name": "Lee Chan-Jae",
-                "role": "Master Student",
-                "dept": "Department of Computer Science at KwangWoon Univ.",
-                "email": "dlckswo0112@naver.com",
-                "home": "",
-                "sns": {}
-            },
-            {
                 "img": "./img/members/HyeonChang.png",
                 "name": "Lee Hyeon-Chang",
                 "role": "Linked BS/MS Program",
@@ -91,7 +82,7 @@
             {
                 "img": "./img/members/HwiYeon.png",
                 "name": "Cho Hwi-Yeon",
-                "role": "Undergraduate Student",
+                "role": "Master Student",
                 "dept": "Department of Computer Science at KwangWoon Univ.",
                 "email": "hwyn.cho@gmail.com",
                 "home": "",
