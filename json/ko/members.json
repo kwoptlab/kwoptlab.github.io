@@ -3,15 +3,6 @@
         "header": "현재 구성원",
         "body": [
             {
-                "img": "./img/members/KyungDo.png",
-                "name": "김경도",
-                "role": "석사과정",
-                "dept": "광운대학교 컴퓨터과학과",
-                "email": "rilyaus.gd@gmail.com",
-                "home": "",
-                "sns": {}
-            },
-            {
                 "img": "./img/members/YongHyuk.png",
                 "name": "김용혁",
                 "role": "교수",
@@ -61,7 +52,7 @@
                 "img": "./img/members/HyeonChang.png",
                 "name": "이현창",
                 "role": "학석사연계과정",
-                "dept": "광운대학교 컴퓨터소프트웨어학과",
+                "dept": "광운대학교 컴퓨터과학과",
                 "email": "qzecwxad@naver.com",
                 "home": "",
                 "sns": {
@@ -72,7 +63,7 @@
                 "img": "./img/members/DongPil.png",
                 "name": "유동필",
                 "role": "학석사연계과정",
-                "dept": "광운대학교 컴퓨터소프트웨어학과",
+                "dept": "광운대학교 컴퓨터과학과",
                 "email": "yoodongphil@naver.com",
                 "home": "",
                 "sns": {
@@ -83,7 +74,7 @@
                 "img": "./img/members/HwiYeon.png",
                 "name": "조휘연",
                 "role": "석사과정",
-                "dept": "광운대학교 컴퓨터소프트웨어학과",
+                "dept": "광운대학교 컴퓨터과학과",
                 "email": "hwyn.cho@gmail.com",
                 "home": "",
                 "sns": {
@@ -150,7 +141,16 @@
                 "email": "007bigboy@hanmail.net",
                 "home": "",
                 "sns": {}
-            }
+            },
+            {
+                "img": "./img/members/KyungDo.png",
+                "name": "김경도",
+                "role": "석사",
+                "dept": "광운대학교 컴퓨터과학과",
+                "email": "rilyaus.gd@gmail.com",
+                "home": "",
+                "sns": {}
+            },
         ]
     }
 }

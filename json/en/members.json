@@ -3,15 +3,6 @@
         "header": "Current Members",
         "body": [
             {
-                "img": "./img/members/KyungDo.png",
-                "name": "Kim Gyoung-Do",
-                "role": "Master Student",
-                "dept": "Department of Computer Science at KwangWoon Univ.",
-                "email": "rilyaus.gd@gmail.com",
-                "home": "",
-                "sns": {}
-            },
-            {
                 "img": "./img/members/YongHyuk.png",
                 "name": "Kim Yong-Hyuk",
                 "role": "Professor",
@@ -150,7 +141,16 @@
                 "email": "007bigboy@hanmail.net",
                 "home": "",
                 "sns": {}
-            }
+            },
+            {
+                "img": "./img/members/KyungDo.png",
+                "name": "Kim Gyoung-Do",
+                "role": "Master",
+                "dept": "Department of Computer Science at KwangWoon Univ.",
+                "email": "rilyaus.gd@gmail.com",
+                "home": "",
+                "sns": {}
+            },
         ]
     }
 }
