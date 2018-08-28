@@ -89,6 +89,15 @@
         "header": "Alumni",
         "body": [
             {
+                "img": "./img/members/KyungDo.png",
+                "name": "Kim Gyoung-Do",
+                "role": "Master",
+                "dept": "Department of Computer Science at KwangWoon Univ.",
+                "email": "rilyaus.gd@gmail.com",
+                "home": "",
+                "sns": {}
+            },
+            {
                 "img": "./img/members/HyunMin.jpg",
                 "name": "Kim Hyun-Min",
                 "role": "Master / Obigo Korea",
@@ -139,15 +148,6 @@
                 "role": "Master / KOAST",
                 "dept": "Department of Embedded Software Engineering at KwangWoon Univ.",
                 "email": "007bigboy@hanmail.net",
-                "home": "",
-                "sns": {}
-            },
-            {
-                "img": "./img/members/KyungDo.png",
-                "name": "Kim Gyoung-Do",
-                "role": "Master",
-                "dept": "Department of Computer Science at KwangWoon Univ.",
-                "email": "rilyaus.gd@gmail.com",
                 "home": "",
                 "sns": {}
             }
