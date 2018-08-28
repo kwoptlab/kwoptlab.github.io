@@ -1,4 +1,4 @@
-[            
+[
     {
         "year": "2018",
         "semesters": [
@@ -7,11 +7,17 @@
                 "lectures": [
                     {
                         "lecture": "Discrete structure (undergraduate course for sophomore, 3 credits, TA: Dong-Pil Yu, Hyeon-Chang Lee) (4.29/5.0)",
-                        "comments": []
+                        "comments": [
+                            "./htm/2018/spring/Discrete-structure_mid.htm",
+                            "./htm/2018/spring/Discrete-structure_final.htm"
+                        ]
                     },
                     {
                         "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Hye-Jin Kim, Hwi-Yeon Cho) (4.64/5.0)",
-                        "comments": []
+                        "comments": [
+                            "./htm/2018/spring/Algorithm_mid.htm",
+                            "./htm/2018/spring/Algorithm_final.htm"
+                        ]
                     },
                     {
                         "lecture": "Application software practice (undergraduate course for junior, 3 credits, TA: Jung-Hwan Lee, Hye-Jin Kim)",
@@ -31,7 +37,7 @@
                         "comments": []
                     },
                     {
-                        "lecture": "System Software practice 2 (undergraduate course for sophomore, 2 credits)",
+                        "lecture": "System Software practice (undergraduate course for sophomore, 2 credits)",
                         "comments": []
                     },
                     {
