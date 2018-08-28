@@ -89,6 +89,15 @@
         "header": "졸업생",
         "body": [
             {
+                "img": "./img/members/KyungDo.png",
+                "name": "김경도",
+                "role": "석사",
+                "dept": "광운대학교 컴퓨터과학과",
+                "email": "rilyaus.gd@gmail.com",
+                "home": "",
+                "sns": {}
+            },
+            {
                 "img": "./img/members/HyunMin.jpg",
                 "name": "김현민",
                 "role": "석사 / 오비고 코리아",
@@ -139,15 +148,6 @@
                 "role": "석사 / 한국해양기상기술",
                 "dept": "광운대학교 임베디드소프트웨어학과",
                 "email": "007bigboy@hanmail.net",
-                "home": "",
-                "sns": {}
-            },
-            {
-                "img": "./img/members/KyungDo.png",
-                "name": "김경도",
-                "role": "석사",
-                "dept": "광운대학교 컴퓨터과학과",
-                "email": "rilyaus.gd@gmail.com",
                 "home": "",
                 "sns": {}
             }
