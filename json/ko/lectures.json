@@ -8,15 +8,15 @@
                     {
                         "lecture": "이산 구조 (학부과정 2학년, 3학점, TA: 유동필, 이현창) (4.29/5.0)",
                         "comments": [
-                            "./htm/2017/spring/Discrete-structure_mid.html",
-                            "./htm/2017/spring/Discrete-structure_final.html"
+                            "./htm/2018/spring/Discrete-structure_mid.html",
+                            "./htm/2018/spring/Discrete-structure_final.html"
                         ]
                     },
                     {
                         "lecture": "알고리즘 (학부과정 3학년, 3학점, TA: 김혜진, 조휘연) (4.64/5.0)",
                         "comments": [
-                            "./htm/2017/spring/Algorithm_mid.html",
-                            "./htm/2017/spring/Algorithm_final.html"
+                            "./htm/2018/spring/Algorithm_mid.html",
+                            "./htm/2018/spring/Algorithm_final.html"
                         ]
                     },
                     {
@@ -30,11 +30,14 @@
                 ]
             },
             {
-                "semester": "Fall",
+                "semester": "2학기",
                 "lectures": [
                     {
                         "lecture": "자료구조 (학부과정 2학년, 3학점)",
-                        "comments": []
+                        "comments": [
+                            "./htm/2018/fall/Data-structure_mid.html",
+                            "./htm/2018/fall/Data-structure_final.html"
+                        ]
                     },
                     {
                         "lecture": "시스템소프트웨어실습 (학부과정 2학년, 2학점)",

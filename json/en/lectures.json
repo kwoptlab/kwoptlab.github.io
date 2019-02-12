@@ -34,7 +34,10 @@
                 "lectures": [
                     {
                         "lecture": "Data structure (undergraduate course for sophomore, 3 credits)",
-                        "comments": []
+                        "comments": [
+                            "./htm/2018/fall/Data-structure_mid.html",
+                            "./htm/2018/fall/Data-structure_final.html"
+                        ]
                     },
                     {
                         "lecture": "System Software practice (undergraduate course for sophomore, 2 credits)",
