@@ -49,17 +49,6 @@
                 "sns": {}
             },
             {
-                "img": "./img/members/JungHwan.png",
-                "name": "Lee Jung-Hwan",
-                "role": "Master Student",
-                "dept": "Department of Computer Science at KwangWoon Univ.",
-                "email": "jazz4rabbit@kw.ac.kr",
-                "home": "",
-                "sns": {
-                    "github": "https://github.com/jazz4rabbit/"
-                }
-            },
-            {
                 "img": "./img/members/HyeonChang.png",
                 "name": "Lee Hyeon-Chang",
                 "role": "Linked BS/MS Program",
@@ -143,6 +132,17 @@
                 "email": "delphia@kw.ac.kr",
                 "home": "",
                 "sns": {}
+            },
+            {
+                "img": "./img/members/JungHwan.png",
+                "name": "Lee Jung-Hwan",
+                "role": "Master Student",
+                "dept": "Department of Computer Science at KwangWoon Univ.",
+                "email": "jazz4rabbit@kw.ac.kr",
+                "home": "",
+                "sns": {
+                    "github": "https://github.com/jazz4rabbit/"
+                }
             },
             {
                 "img": "./img/members/JoonYeop.jpg",

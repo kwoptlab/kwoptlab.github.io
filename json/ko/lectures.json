@@ -1,5 +1,33 @@
 [
     {
+           "year": "2019",
+        "semesters": [
+            {
+                "semester": "1학기",
+                "lectures": [
+                    {
+                        "lecture": "이산 구조 (학부과정 2학년, 3학점)",
+                        "comments": [
+                        ]
+                    },
+                    {
+                        "lecture": "알고리즘 (학부과정 3학년, 3학점)",
+                        "comments": [
+                        ]
+                    },
+                    {
+                        "lecture": "응용 소프트웨어 실습 (학부과정 3학년, 3학점)",
+                        "comments": []
+                    },
+                    {
+                        "lecture": "진화 연산 (대학원 과정, 3학점)",
+                        "comments": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "year": "2018",
         "semesters": [
             {

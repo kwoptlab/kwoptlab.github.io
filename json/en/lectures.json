@@ -1,5 +1,33 @@
 [
     {
+           "year": "2019",
+        "semesters": [
+            {
+                "semester": "Spring",
+                "lectures": [
+                    {
+                        "lecture": "Discrete structure (undergraduate course for sophomore, 3 credits)",
+                        "comments": [
+                        ]
+                    },
+                    {
+                        "lecture": "Algorithm (undergraduate course for junior, 3 credits)",
+                        "comments": [
+                        ]
+                    },
+                    {
+                        "lecture": "Application software practice (undergraduate course for junior, 3 credits)",
+                        "comments": []
+                    },
+                    {
+                        "lecture": "Evolutionary computation (graduate course, 3 credits)",
+                        "comments": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "year": "2018",
         "semesters": [
             {

@@ -49,17 +49,6 @@
                 "sns": {}
             },
             {
-                "img": "./img/members/JungHwan.png",
-                "name": "이정환",
-                "role": "석사과정",
-                "dept": "광운대학교 컴퓨터과학과",
-                "email": "jazz4rabbit@kw.ac.kr",
-                "home": "",
-                "sns": {
-                    "github": "https://github.com/jazz4rabbit/"
-                }
-            },
-            {
                 "img": "./img/members/HyeonChang.png",
                 "name": "이현창",
                 "role": "학석사연계과정",
@@ -143,6 +132,17 @@
                 "email": "delphia@kw.ac.kr",
                 "home": "",
                 "sns": {}
+            },
+            {
+                "img": "./img/members/JungHwan.png",
+                "name": "이정환",
+                "role": "석사과정",
+                "dept": "광운대학교 컴퓨터과학과",
+                "email": "jazz4rabbit@kw.ac.kr",
+                "home": "",
+                "sns": {
+                    "github": "https://github.com/jazz4rabbit/"
+                }
             },
             {
                 "img": "./img/members/JoonYeop.jpg",
