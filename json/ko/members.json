@@ -15,6 +15,17 @@
                 }
             },
             {
+                "img": "./img/members/YongHoon.jpg",
+                "name": "김용훈",
+                "role": "석사과정",
+                "dept": "광운대학교 컴퓨터과학과",
+                "email": "hia5314@gmail.com",
+                "home": "",
+                "sns": {
+                    "github": "https://github.com/hia5314"
+                }
+            },
+            {
                 "img": "./img/members/HyeJin.png",
                 "name": "김혜진",
                 "role": "석사과정",

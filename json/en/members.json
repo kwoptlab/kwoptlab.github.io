@@ -15,6 +15,17 @@
                 }
             },
             {
+                "img": "./img/members/YongHoon.jpg",
+                "name": "Kim Yong Hoon",
+                "role": "Master Student",
+                "dept": "Department of Computer Science at KwangWoon Univ.",
+                "email": "hia5314@gmail.com",
+                "home": "",
+                "sns": {
+                    "github": "https://github.com/hia5314"
+                }
+            },
+            {
                 "img": "./img/members/HyeJin.png",
                 "name": "Kim Hye-Jin",
                 "role": "Master Student",
