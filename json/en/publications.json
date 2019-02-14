@@ -9,12 +9,12 @@
     "Refereed international journal papers": {
         "header": "Refereed International Journal Papers",
         "body": [
-            "Seung-Hyun Moon, Yong-Hyuk Kim, Yong Hee Lee, and Byung-Ro Moon, Application of Machine Learning to An Early Warning System for Very Shortterm Heavy Rainfall, Journal of Hydrology, no. 568, pp. 1042-1054, 2018.",
+            "Yong-Hyuk Kim,Yourim Yoon, Zong Woo Geem, A Comparison Study of Harmony Search and Genetic Algorithm for the Max-Cut Problem, Swarm and Evolutionary Computation, vol. 44, pp. 130-135, 2019.",
+            "Seung-Hyun Moon, Yong-Hyuk Kim, Yong Hee Lee, and Byung-Ro Moon, Application of Machine Learning to An Early Warning System for Very Shortterm Heavy Rainfall, Journal of Hydrology, no. 568, pp. 1042-1054, 2019.",
             "Jae-Hyun Seo and Yong-Hyuk Kim, Machine-Learning Approach to Optimize SMOTE Ratio in Class Imbalance Dataset for Intrusion Detection, Computational Intelligence and Neuroscience Vol. 2018, Article ID 9704672, 11 pages, 2018.",
             "Min-Ki Lee, Seung-Hyun Moon, Yourim Yoon, Yong-Hyuk Kim, and Byung-Ro Moon, Detecting Anomalies in Meteorological Data Using Support Vector Regression, Advances in Meteorology, Vol. 2018, Article ID 5439256, 14 pages, 2018.",
             "Ji-Hun Ha, Yong-Hyuk Kim , Hyo-Hyuc Im, Na-Young Kim, Sangjin Sim, Yourim Yoon, Error Correction of Meteorological Data Obtained with Mini-AWSs Based on Machine Learning, Advances in Meteorology, Volume 2018, Article ID 7210137, 8 pages, 2018.",
             "Yong-Hyuk Kim and Seok-Joong Kang, Optimization by Simulated Catalytic Reaction: Application to Graph Bisection, KSII Transaction on Internet and Information Systems,  vol. 12, no. 5, pp. 2162-2176, 2018.",
-            "Yong-Hyuk Kim,Yourim Yoon, Zong Woo Geem, A Comparison Study of Harmony Search and Genetic Algorithm for the Max-Cut Problem, Swarm and Evolutionary Computation, vol. 44, pp. 130-135, 2019.",
             "Yong-Wook Nam and Yong-Hyuk Kim, Prediction of Drifter Trajectory Using Evolutionary Computation, Discrete Dynamics in Nature and Society Volume 2018, Article ID 6848745, 2018.",
             "Hye-Jin Kim and Yong-Hyuk Kim, Classifying Copyrighted Designs through Convolutional Neural Networks, International Journal of Applied Engineering Research Volume 13, Number 1 pp. 590-597, 2018.",
             "Jae-Hyun Seo, Yourim Yoon and Yong-Hyuk Kim, Coverage problem in camera-based sensor networks using the CUDA platform, International Journal of Distributed Sensor Networks 2017, Vol. 13(12), 2017.",
@@ -69,8 +69,8 @@
     "refereed international conference papers": {
         "header": "Refereed International Conference Papers",
         "body": [
-            "Yong-Wook Nam and Yong-Hyuk Kim, Automatic Jazz Melody Composition through a Learning-based Genetic Algorithm, Evostar '19, Leipzig, Germany, 2019 (accepted). ",
-            "Hye-Jin Kim, Yong-Hyuk Kim, Recent Progress on Graph Partitioning Problems Using Evolutionary Computation,  International Conference on Fuzzy Theory and Its Applications iFUZZY, pp. 354-355, 2018.",
+            "Yong-Wook Nam and Yong-Hyuk Kim, Automatic Jazz Melody Composition through a Learning-based Genetic Algorithm, EvoMUSART '19, Leipzig, Germany, 2019 (accepted). ",
+            "Hye-Jin Kim, Yong-Hyuk Kim, Recent Progress on Graph Partitioning Problems Using Evolutionary Computation,  International Conference on Fuzzy Theory and Its Applications, iFUZZY, pp. 354-355, 2018.",
             "Hwi-Yeon Cho, Hye-Jin Kim, Yong-Hyuk Kim, Parameter Space Analysis of Genetic Algorithm Using Support Vector Regression , GECCO ’18 Companion, Kyoto, Japan, 2018. ",
             "Hyeon-Chang Lee, Dong-Pil Yu, Yong-Hyuk Kim, On the Hardness of Parameter Optimiaztion of Convolution Neural Networks Using Algorithm and Machine Learning, GECCO ’18 Companion, Kyoto, Japan, 2018. ",
             "Dong-Pil Yu, Yong-Hyuk Kim, Is It Worth to Approximate Fitness by Machine Learning?: Investigation on the Extensibility According to Problem Size, GECCO ’18 Companion, Kyoto, Japan, 2018. ",
@@ -134,7 +134,7 @@
     "technical reports": {
         "header": "Technical Reports",
         "body": [
-            "Hye-Jin Kim, Yong-Hyuk Kim, Recent Progress on Graph Partitioning Problems Using Evolutionary Computation, CoRR, 2018.",
+            "Hye-Jin Kim, Yong-Hyuk Kim, Recent Progress on Graph Partitioning Problems Using Evolutionary Computation, CoRR abs/1805.01623, 2018.",
             "Yourim Yoon and Yong-Hyuk Kim, Charge Scheduling of an Energy Storage System under Time-of-use Pricing and a Demand Charge, CoRR abs/1407.3077, July 2014.",
             "Yourim Yoon, Yong-Hyuk Kim, Alberto Moraglio, Byung-Ro Moon, Mathematical Interpretation between Genotype and Phenotype Spaces and Induced Geometric Crossovers, CoRR abs/0907.3202, July 2009.",
             "Yourim Yoon, Yong-Hyuk Kim, Alberto Moraglio, Byung-Ro Moon, A Mathematical Unification of Geometric Crossovers Defined on Phenotype Space, CoRR abs/0907.3200, July 2009.",
@@ -190,11 +190,11 @@
     "domestic conference paper": {
         "header": "Domestic Conference Paper",
         "body": [
-            "Dong-Pil Yu, Yong-Hyuk Kim, Investigation of Pattern Changes from Korean Co-authorship Network in Evolutionary Computation Field, Proceedings of KIIS, Vol. 28, No. 3, pp. 245-246, 2018",
-            "Hye-Jin Kim and Yong-Hyuk Kim, A Genetic Algorithm for the Expanded Weapon Target Allocation Problem, Proceedings of KIIS, Vol. 28, No. 3, pp. 247-248, 2018",
-            "Hye-Jin Kim, Hyeon Soo Lee, Sung Min Park, Byung Jin Choi and Yong-Hyuk Kim, Machine Learning-based Quality Control of Meterological Data Collected by IoT Sensors, Proceedings of KIIS, Vol. 28, No. 3, pp. 185-186, 2018",
-            "Hyun-Chang Lee and Yong-Hyuk Kim, Visualization of Hourly Oil Spill Prediction in Yellow Sea, Proceedings of KIIS, Vol. 28, No. 3, pp. 197-198, 2018",
-            "Hyun-Chang Lee and Yong-Hyuk Kim, H-index Prediction Using Only Authors' Information in DBLP, Proceedings of KIIS, Vol. 28, No. 3, pp. 181-182, 2018",
+            "Dong-Pil Yu, Yong-Hyuk Kim, Investigation of Pattern Changes from Korean Co-authorship Network in Evolutionary Computation Field, Proceedings of KIIS Fall Conference, Vol. 28, No. 3, pp. 245-246, 2018",
+            "Hye-Jin Kim and Yong-Hyuk Kim, A Genetic Algorithm for the Expanded Weapon Target Allocation Problem, Proceedings of KIIS Fall Conference, Vol. 28, No. 3, pp. 247-248, 2018",
+            "Hye-Jin Kim, Hyeon Soo Lee, Sung Min Park, Byung Jin Choi and Yong-Hyuk Kim, Machine Learning-based Quality Control of Meterological Data Collected by IoT Sensors, Proceedings of KIIS Fall Conference, Vol. 28, No. 3, pp. 185-186, 2018",
+            "Hyun-Chang Lee and Yong-Hyuk Kim, Visualization of Hourly Oil Spill Prediction in Yellow Sea, Proceedings of KIIS Fall Conference, Vol. 28, No. 3, pp. 197-198, 2018",
+            "Hyun-Chang Lee and Yong-Hyuk Kim, H-index Prediction Using Only Authors' Information in DBLP, Proceedings of KIISFall Conference, Vol. 28, No. 3, pp. 181-182, 2018",
             "Junghwan Lee, Yong-Hyuk Kim, Formulation of the Tiny Tower Assignment Problem, Proceedings of KIIS Spring Conference, Vol. 28, No. 1, 2018.",
             "Dong-Pil Yu, Hyun-Chang Lee, Dong-Geon Lee, Ga-Bin Jung, Yong-Wook Nam, Yong-Hyuk Kim, Extraction of Twitter User Keyword to Develop Customized Tweet Recommendation System, Proceedings of KIIS Spring Conference, Vol. 28, No. 1, 2018.",
             "Gyoung-Do Kim, Yong-Hyuk Kim, Correction of Drifter Data Using Autoencoder, Proceedings of KIIS Spring Conference, Vol. 28, No. 1, 2018.",
