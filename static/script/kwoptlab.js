@@ -26,7 +26,7 @@ function readMorePublication(content) {
     var items = null;
     var html = "";
 
-    $.getJSON(path, function (data) {
+    $.getJSON(path, (data) => {
         selector = "div#kwoptlab-publications-modal div.ui.header";
         items = $(selector);
         items.text(data[content].header);
@@ -89,11 +89,11 @@ function init() {
 
         $(selectorDiv).visibility({
             once: false,
-            onTopPassed: function () {
+            onTopPassed: () => {
                 $(selectorItem1).removeClass("active");
                 $(selectorItem2).addClass("active");
             },
-            onBottomPassedReverse: function () {
+            onBottomPassedReverse: () => {
                 $(selectorItem1).removeClass("active");
                 $(selectorItem2).addClass("active");
             }
@@ -106,8 +106,8 @@ function init() {
         var selector = "";
         var items = null;
 
-        $.getJSON(path, function (data) {
-            $.each(data, function (key, value) {
+        $.getJSON(path, (data) => {
+            $.each(data, (key, value) => {
                 selector = "div.ui.menu a.item.kwoptlab-" + key;
                 items = $(selector);
 
@@ -119,10 +119,10 @@ function init() {
 
         $("div#kwoptlab-home div.ui.menu").visibility({
             once: false,
-            onBottomPassed: function () {
+            onBottomPassed: () => {
                 $("div#kwoptlab-menu").transition("fade in");
             },
-            onBottomPassedReverse: function () {
+            onBottomPassedReverse: () => {
                 $("div#kwoptlab-menu").transition("fade out");
             }
         });
@@ -134,8 +134,8 @@ function init() {
         var selector = "";
         var items = null;
 
-        $.getJSON(path, function (data) {
-            $.each(data, function (key, value) {
+        $.getJSON(path, (data) => {
+            $.each(data, (key, value) => {
                 selector = "div#kwoptlab-" + key + " h1.ui.horizontal.divider";
                 items = $(selector);
                 items.text(value);
@@ -149,8 +149,8 @@ function init() {
         var selector = "";
         var items = null;
 
-        $.getJSON(path, function (data) {
-            $.each(data, function (key, value) {
+        $.getJSON(path, (data) => {
+            $.each(data, (key, value) => {
                 if (key == "text1") {
                     selector = "div#kwoptlab-home div.row h1";
                     items = $(selector);
@@ -172,8 +172,8 @@ function init() {
         var selector = "";
         var items = null;
 
-        $.getJSON(path, function (data) {
-            $.each(data, function (key, value) {
+        $.getJSON(path, (data) => {
+            $.each(data, (key, value) => {
                 if (key == "greetings") {
                     selector = "div#kwoptlab-about div.kwoptlab-content-body h2";
                     items = $(selector);
@@ -196,8 +196,8 @@ function init() {
         var items = null;
         var html = "";
 
-        $.getJSON(path, function (data) {
-            $.each(data, function (key, value) {
+        $.getJSON(path, (data) => {
+            $.each(data, (key, value) => {
                 if (key == "topics") {
                     selector = "div#kwoptlab-research-topics h2";
                     items = $(selector);
@@ -253,11 +253,11 @@ function init() {
 
             for (snsName in member.sns) {
                 if (snsName == "scholar") {
-                    html += '<a href="javascript:window.open(\'' + member.sns[snsName] + '\');">\n<i class="big graduation cap icon"></i>\n</a>';
+                    html += '<a href="' + member.sns[snsName] + '">\n<i class="big graduation cap icon"></i>\n</a>';
                 } else if (snsName == "dblp") {
-                    html += '<a href="javascript:window.open(\'' + member.sns[snsName] + '\');">\n<i class="big book icon"></i>\n</a>';
+                    html += '<a href="' + member.sns[snsName] + '">\n<i class="big book icon"></i>\n</a>';
                 } else {
-                    html += '<a href="javascript:window.open(\'' + member.sns[snsName] + '\');">\n<i class="big ' + snsName + ' icon"></i>\n</a>';
+                    html += '<a href="' + member.sns[snsName] + '">\n<i class="big ' + snsName + ' icon"></i>\n</a>';
                 }
             }
 
@@ -266,8 +266,8 @@ function init() {
             return html;
         }
 
-        $.getJSON(path, function (data) {
-            $.each(data, function (key, value) {
+        $.getJSON(path, (data) => {
+            $.each(data, (key, value) => {
                 if (key == "current") {
                     selector = "div#kwoptlab-members-current h2";
                     items = $(selector);
@@ -318,8 +318,8 @@ function init() {
             textButton = "더 보기";
         }
 
-        $.getJSON(path, function (data) {
-            $.each(data, function (key, value) {
+        $.getJSON(path, (data) => {
+            $.each(data, (key, value) => {
                 var selector = "";
                 var items = null;
                 var html = "";
@@ -340,7 +340,7 @@ function init() {
         var path = "./json/" + lang + "/projects.json";
 
 
-        $.getJSON(path, function (data) {
+        $.getJSON(path, (data) => {
             var selector = "div#kwoptlab-projects div.kwoptlab-content-body div.list";
             var items = $(selector);
             var html = "";
@@ -359,7 +359,7 @@ function init() {
     function initLectures(lang) {
         var path = "./json/" + lang + "/lectures.json";
 
-        $.getJSON(path, function (data) {
+        $.getJSON(path, (data) => {
             var i = 0, j = 0, k = 0, l = 0;
             var semesters = null;
             var lectures = null;
@@ -406,7 +406,7 @@ function init() {
     function initAwards(lang) {
         var path = "./json/" + lang + "/awards.json";
 
-        $.getJSON(path, function (data) {
+        $.getJSON(path, (data) => {
             var selector = "div#kwoptlab-awards div.kwoptlab-content-body div.list";
             var items = $(selector);
             var html = "";
@@ -425,8 +425,8 @@ function init() {
     function initNews(lang) {
         var path = "./json/" + lang + "/news.json";
 
-        $.getJSON(path, function (data) {
-            $.each(data, function (key, value) {
+        $.getJSON(path, (data) => {
+            $.each(data, (key, value) => {
                 var selector = "";
                 var items = null;
             })
@@ -439,8 +439,8 @@ function init() {
     function initContact(lang) {
         var path = "./json/" + lang + "/contact.json";
 
-        $.getJSON(path, function (data) {
-            $.each(data, function (key, value) {
+        $.getJSON(path, (data) => {
+            $.each(data, (key, value) => {
                 var selector = "";
                 var item = null;
 
