@@ -1,619 +1,587 @@
 [
-    {
-           "year": "2019",
-        "semesters": [
-            {
-                "semester": "Spring",
-                "lectures": [
-                    {
-                        "lecture": "Discrete structure (undergraduate course for sophomore, 3 credits)",
-                        "comments": [
-                        ]
-                    },
-                    {
-                        "lecture": "Algorithm (undergraduate course for junior, 3 credits)",
-                        "comments": [
-                        ]
-                    },
-                    {
-                        "lecture": "Application software practice (undergraduate course for junior, 3 credits)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Evolutionary computation (graduate course, 3 credits)",
-                        "comments": []
-                    }
-                ]
-            }
+  {
+    "year": "2019",
+    "semesters": [
+      {
+        "semester": "Spring",
+        "lectures": [
+          {
+            "lecture": "Discrete structure (undergraduate course for sophomore, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Algorithm (undergraduate course for junior, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Application software practice (undergraduate course for junior, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Evolutionary computation (graduate course, 3 credits)",
+            "comments": []
+          }
         ]
-    },
-    {
-        "year": "2018",
-        "semesters": [
-            {
-                "semester": "Spring (4.46/5.0 for undergraduate lectures)",
-                "lectures": [
-                    {
-                        "lecture": "Discrete structure (undergraduate course for sophomore, 3 credits, TA: Dong-Pil Yu, Hyeon-Chang Lee) (4.29/5.0)",
-                        "comments": [
-                            "./htm/2018/spring/Discrete-structure_mid.html",
-                            "./htm/2018/spring/Discrete-structure_final.html"
-                        ]
-                    },
-                    {
-                        "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Hye-Jin Kim, Hwi-Yeon Cho) (4.64/5.0)",
-                        "comments": [
-                            "./htm/2018/spring/Algorithm_mid.html",
-                            "./htm/2018/spring/Algorithm_final.html"
-                        ]
-                    },
-                    {
-                        "lecture": "Application software practice (undergraduate course for junior, 3 credits, TA: Jung-Hwan Lee, Hye-Jin Kim)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Topics in information retrieval (graduate course, 3 credits)",
-                        "comments": []
-                    }
-                ]
-            },
-            {
-                "semester": "Fall (4.41/5.0 for undergraduate lectures)",
-                "lectures": [
-                    {
-                        "lecture": "Data structure (undergraduate course for sophomore, 3 credits)",
-                        "comments": [
-                            "./htm/2018/fall/Data-structure_mid.html",
-                            "./htm/2018/fall/Data-structure_final.html"
-                        ]
-                    },
-                    {
-                        "lecture": "System Software practice (undergraduate course for sophomore, 2 credits)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Algorithm design and analysis (graduate course, 3 credits)",
-                        "comments": []
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "year": "2018",
+    "semesters": [
+      {
+        "semester": "Spring (4.46/5.0 for undergraduate lectures)",
+        "lectures": [
+          {
+            "lecture": "Discrete structure (undergraduate course for sophomore, 3 credits, TA: Dong-Pil Yu, Hyeon-Chang Lee) (4.29/5.0)",
+            "comments": [
+              "./htm/2018/spring/Discrete-structure_mid.html",
+              "./htm/2018/spring/Discrete-structure_final.html"
+            ]
+          },
+          {
+            "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Hye-Jin Kim, Hwi-Yeon Cho) (4.64/5.0)",
+            "comments": ["./htm/2018/spring/Algorithm_mid.html", "./htm/2018/spring/Algorithm_final.html"]
+          },
+          {
+            "lecture": "Application software practice (undergraduate course for junior, 3 credits, TA: Jung-Hwan Lee, Hye-Jin Kim)",
+            "comments": []
+          },
+          {
+            "lecture": "Topics in information retrieval (graduate course, 3 credits)",
+            "comments": []
+          }
         ]
-    },
-    {
-        "year": "2017",
-        "semesters": [
-            {
-                "semester": "Spring (4.57/5.0 for undergraduate lectures)",
-                "lectures": [
-                    {
-                        "lecture": "Discrete structure (undergraduate course for sophomore, 3 credits, TA: Jung-Hwan Lee) (4.59/5.0)",
-                        "comments": [
-                            "./htm/2017/spring/Discrete-structure_mid.htm",
-                            "./htm/2017/spring/Discrete-structure_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Chan-Jae Lee) (4.55/5.0)",
-                        "comments": [
-                            "./htm/2017/spring/Algorithm_mid.htm",
-                            "./htm/2017/spring/Algorithm_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "Application software practice (undergraduate course for junior, 3 credits, TA: Gyoung-Do Kim and Jung-Hwan Lee)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Evolutionary computation (graduate course, 3 credits)",
-                        "comments": []
-                    }
-                ]
-            },
-            {
-                "semester": "Fall (4.51/5.0 for undergraduate lectures)",
-                "lectures": [
-                    {
-                        "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: Jung-Hwan Lee, Chan-Jae Lee) (4.51/5.0)",
-                        "comments": [
-                            "./htm/2017/fall/Data-structure_mid.htm",
-                            "./htm/2017/fall/Data-structure_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "System software practice(undergraduate course for sophomore, 2 credits, TA: Kyung-Do Kim, Wan-Su Ha)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Special Topics in Pattern Recognition (graduate course, 3 credits)",
-                        "comments": []
-                    }
-                ]
-            }
+      },
+      {
+        "semester": "Fall (4.41/5.0 for undergraduate lectures)",
+        "lectures": [
+          {
+            "lecture": "Data structure (undergraduate course for sophomore, 3 credits)",
+            "comments": ["./htm/2018/fall/Data-structure_mid.html", "./htm/2018/fall/Data-structure_final.html"]
+          },
+          {
+            "lecture": "System Software practice (undergraduate course for sophomore, 2 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Algorithm design and analysis (graduate course, 3 credits)",
+            "comments": []
+          }
         ]
-    },
-    {
-        "year": "2016",
-        "semesters": [
-            {
-                "semester": "Spring (4.45/5.0 for undergraduate lectures)",
-                "lectures": [
-                    {
-                        "lecture": "Advanced programming (undergraduate course for sophomore, 3 credits, TA: June-Yeop Lee) (4.30/5.0)",
-                        "comments": [
-                            "./htm/2016/spring/Advanced-programming_mid.htm",
-                            "./htm/2016/spring/Advanced-programming_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "Discrete structure (undergraduate course for sophomore, 3 credits, TA: Ji-Hoon Ha) (4.34/5.0)",
-                        "comments": [
-                            "./htm/2016/spring/Discrete-structure_mid.htm",
-                            "./htm/2016/spring/Discrete-structure_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "Software practice 3 (undergraduate course for junior, 3 credits, TA: Yong-Wook Nam and Ji-Hoon Ha)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Topics in information retrieval (graduate course, 3 credits)",
-                        "comments": []
-                    }
-                ]
-            },
-            {
-                "semester": "Fall (4.36/5.0 for undergraduate lectures)",
-                "lectures": [
-                    {
-                        "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: Gyoung-Do Kim) (4.48/5.0)",
-                        "comments": [
-                            "./htm/2016/fall/Data-structure_mid.htm",
-                            "./htm/2016/fall/Data-structure_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "Software practice 2 (undergraduate course for sophomore, 2 credits, TA: Yong-Wook Nam and Gyoung-Do Kim)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Jihoon Ha) (4.43/5.0)",
-                        "comments": [
-                            "./htm/2016/fall/Algorithms_mid.htm",
-                            "./htm/2016/fall/Algorithms_mid_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "Algorithm (graduate course, 3 credits)",
-                        "comments": []
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "semesters": [
+      {
+        "semester": "Spring (4.57/5.0 for undergraduate lectures)",
+        "lectures": [
+          {
+            "lecture": "Discrete structure (undergraduate course for sophomore, 3 credits, TA: Jung-Hwan Lee) (4.59/5.0)",
+            "comments": [
+              "./htm/2017/spring/Discrete-structure_mid.htm",
+              "./htm/2017/spring/Discrete-structure_final.htm"
+            ]
+          },
+          {
+            "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Chan-Jae Lee) (4.55/5.0)",
+            "comments": ["./htm/2017/spring/Algorithm_mid.htm", "./htm/2017/spring/Algorithm_final.htm"]
+          },
+          {
+            "lecture": "Application software practice (undergraduate course for junior, 3 credits, TA: Gyoung-Do Kim and Jung-Hwan Lee)",
+            "comments": []
+          },
+          {
+            "lecture": "Evolutionary computation (graduate course, 3 credits)",
+            "comments": []
+          }
         ]
-    },
-    {
-        "year": "2015",
-        "semesters": [
-            {
-                "semester": "Spring (4.46/5.0 for undergraduate lectures)",
-                "lectures": [
-                    {
-                        "lecture": "Advanced programming (undergraduate course for sophomore, 3 credits, TA: June-Yeop Lee) *Selected as one of the 32 excellent lectures among 1,429 lectures by ACE committee (4.49/5.0)",
-                        "comments": [
-                            "./htm/2015/spring/Advanced-programming_mid.htm",
-                            "./htm/2015/spring/Advanced-programming_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "Discrete structure (undergraduate course for sophomore, 3 credits, TA: Ji-Hoon Ha)",
-                        "comments": [
-                            "./htm/2015/spring/Discrete-structure_mid.htm",
-                            "./htm/2015/spring/Discrete-structure_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "Software practice 3 (undergraduate course for junior, 3 credits, TA: Yong-Wook Nam and June-Yeop Lee)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Evolutionary computation (graduate course, 3 credits)",
-                        "comments": []
-                    }
-                ]
-            },
-            {
-                "semester": "Fall (4.49/5.0 for undergraduate lecture)",
-                "lectures": [
-                    {
-                        "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: June-Yeop Lee) (4.57/5.0) *Selected as one of the 32 excellent lectures among 1,441 lectures by ACE committee",
-                        "comments": [
-                            "./htm/2015/fall/Data-structure_mid.htm",
-                            "./htm/2015/fall/Data-structure_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "Software practice 2 (undergraduate course for sophomore, 2 credits, TA: Yong-Wook Nam and June-Yeop Lee)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Ji-Hoon Ha) (4.41/5.0)",
-                        "comments": [
-                            "./htm/2015/fall/Algorithms_mid.htm",
-                            "./htm/2015/fall/Algorithms_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "Special Topics in Pattern Recognition (graduate course, 3 credits)",
-                        "comments": []
-                    }
-                ]
-            }
+      },
+      {
+        "semester": "Fall (4.51/5.0 for undergraduate lectures)",
+        "lectures": [
+          {
+            "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: Jung-Hwan Lee, Chan-Jae Lee) (4.51/5.0)",
+            "comments": ["./htm/2017/fall/Data-structure_mid.htm", "./htm/2017/fall/Data-structure_final.htm"]
+          },
+          {
+            "lecture": "System software practice(undergraduate course for sophomore, 2 credits, TA: Kyung-Do Kim, Wan-Su Ha)",
+            "comments": []
+          },
+          {
+            "lecture": "Special Topics in Pattern Recognition (graduate course, 3 credits)",
+            "comments": []
+          }
         ]
-    },
-    {
-        "year": "2014",
-        "semesters": [
-            {
-                "semester": "Spring (3.95/5.0 for undergraduate lectures)",
-                "lectures": [
-                    {
-                        "lecture": "Advanced programming (undergraduate course for sophomore, 3 credits, TA: Jae-Hyun Seo and Dong-won Kim)",
-                        "comments": [
-                            "./htm/2014/spring/Advanced-programming_mid.htm",
-                            "./htm/2014/spring/Advanced-programming_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "Discrete structure (undergraduate course for sophomore, 3 credits, TA: Yong-Wook Nam)",
-                        "comments": [
-                            "./htm/2014/spring/Discrete-structure_mid.htm",
-                            "./htm/2014/spring/Discrete-structure_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "Software practice 1 (undergraduate course for sophomore, 2 credits)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Algorithm design and analysis (graduate course, 3 credits)",
-                        "comments": []
-                    }
-                ]
-            },
-            {
-                "semester": "Fall (4.31/5.0 for undergraduate lectures)",
-                "lectures": [
-                    {
-                        "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: Yong-Wook Nam and Dong-won Kim)",
-                        "comments": [
-                            "./htm/2014/fall/Data-structure_mid.htm",
-                            "./htm/2014/fall/Data-structure_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "Software practice 2 (undergraduate course for sophomore, 2 credits, TA: Yong-Wook Nam)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Eun-Sol Ko)",
-                        "comments": [
-                            "./htm/2014/fall/Algorithms_mid.htm",
-                            "./htm/2014/fall/Algorithms_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "Algorithm (graduate course, 3 credits)",
-                        "comments": []
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "year": "2016",
+    "semesters": [
+      {
+        "semester": "Spring (4.45/5.0 for undergraduate lectures)",
+        "lectures": [
+          {
+            "lecture": "Advanced programming (undergraduate course for sophomore, 3 credits, TA: June-Yeop Lee) (4.30/5.0)",
+            "comments": [
+              "./htm/2016/spring/Advanced-programming_mid.htm",
+              "./htm/2016/spring/Advanced-programming_final.htm"
+            ]
+          },
+          {
+            "lecture": "Discrete structure (undergraduate course for sophomore, 3 credits, TA: Ji-Hoon Ha) (4.34/5.0)",
+            "comments": [
+              "./htm/2016/spring/Discrete-structure_mid.htm",
+              "./htm/2016/spring/Discrete-structure_final.htm"
+            ]
+          },
+          {
+            "lecture": "Software practice 3 (undergraduate course for junior, 3 credits, TA: Yong-Wook Nam and Ji-Hoon Ha)",
+            "comments": []
+          },
+          {
+            "lecture": "Topics in information retrieval (graduate course, 3 credits)",
+            "comments": []
+          }
         ]
-    },
-    {
-        "year": "2012",
-        "semesters": [
-            {
-                "semester": "Spring (4.11/5.0 for undergraduate lectures)",
-                "lectures": [
-                    {
-                        "lecture": "Advanced programming (undergraduate course for sophomore, 3 credits, TA: Jae-Hyun Seo)",
-                        "comments": [
-                            "./htm/2012/spring/Advanced-programming_mid.htm",
-                            "./htm/2012/spring/Advanced-programming_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "Discrete structure (undergraduate course for sophomore, 3 credits, TA: Jin-Sung Kim)",
-                        "comments": [
-                            "./htm/2012/spring/Discrete-structure_mid.htm",
-                            "./htm/2012/spring/Discrete-structure_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "Digital logic practice (undergraduate course for sophomore, 1 credit)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Software practice 1 (undergraduate course for sophomore, 2 credits)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Algorithm (graduate course, 3 credits, TA: Yong-Woon Cho)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Special Topics in Algorithms (graduate course, 3 credits)",
-                        "comments": []
-                    }
-                ]
-            },
-            {
-                "semester": "Fall (4.12/5.0 for undergraduate lectures)",
-                "lectures": [
-                    {
-                        "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: Soo-Young Park)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Ha-Yan Park)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Special Topics in Pattern Recognition (graduate course, 3 credits)",
-                        "comments": []
-                    }
-                ]
-            }
+      },
+      {
+        "semester": "Fall (4.36/5.0 for undergraduate lectures)",
+        "lectures": [
+          {
+            "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: Gyoung-Do Kim) (4.48/5.0)",
+            "comments": ["./htm/2016/fall/Data-structure_mid.htm", "./htm/2016/fall/Data-structure_final.htm"]
+          },
+          {
+            "lecture": "Software practice 2 (undergraduate course for sophomore, 2 credits, TA: Yong-Wook Nam and Gyoung-Do Kim)",
+            "comments": []
+          },
+          {
+            "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Jihoon Ha) (4.43/5.0)",
+            "comments": ["./htm/2016/fall/Algorithms_mid.htm", "./htm/2016/fall/Algorithms_mid_final.htm"]
+          },
+          {
+            "lecture": "Algorithm (graduate course, 3 credits)",
+            "comments": []
+          }
         ]
-    },
-    {
-        "year": "2011",
-        "semesters": [
-            {
-                "semester": "Spring (4.25/5.0 for undergraduate lectures)",
-                "lectures": [
-                    {
-                        "lecture": "Advanced programming (undergraduate course for sophomore, 3 credits, TA: Soo-Young Park)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Discrete mathematics (undergraduate course for sophomore, 3 credits, TA: Ha-Yan Park)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Digital logic practice (undergraduate course for sophomore, 1 credit, TA: Ha-Yan Park and Soo-Young Park)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Algorithm (graduate course, 3 credits, TA: Jae-Hyun Seo)",
-                        "comments": []
-                    }
-                ]
-            },
-            {
-                "semester": "Fall (4.22/5.0 for undergraduate lectures)",
-                "lectures": [
-                    {
-                        "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: Soo-Young Park)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Ha-Yan Park)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Special Topics in Pattern Recognition (graduate course, 3 credits)",
-                        "comments": []
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "year": "2015",
+    "semesters": [
+      {
+        "semester": "Spring (4.46/5.0 for undergraduate lectures)",
+        "lectures": [
+          {
+            "lecture": "Advanced programming (undergraduate course for sophomore, 3 credits, TA: June-Yeop Lee) *Selected as one of the 32 excellent lectures among 1,429 lectures by ACE committee (4.49/5.0)",
+            "comments": [
+              "./htm/2015/spring/Advanced-programming_mid.htm",
+              "./htm/2015/spring/Advanced-programming_final.htm"
+            ]
+          },
+          {
+            "lecture": "Discrete structure (undergraduate course for sophomore, 3 credits, TA: Ji-Hoon Ha)",
+            "comments": [
+              "./htm/2015/spring/Discrete-structure_mid.htm",
+              "./htm/2015/spring/Discrete-structure_final.htm"
+            ]
+          },
+          {
+            "lecture": "Software practice 3 (undergraduate course for junior, 3 credits, TA: Yong-Wook Nam and June-Yeop Lee)",
+            "comments": []
+          },
+          {
+            "lecture": "Evolutionary computation (graduate course, 3 credits)",
+            "comments": []
+          }
         ]
-    },
-    {
-        "year": "2010",
-        "semesters": [
-            {
-                "semester": "Spring (4.06/5.0 for undergraduate lectures)",
-                "lectures": [
-                    {
-                        "lecture": "Advanced programming (undergraduate course for sophomore, 3 credits, TA: Soo-Young Park) *An illustration from a member of the class (Mr. D. Lee)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Advanced programming practice (undergraduate course for sophomore, 1 credit)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Discrete mathematics (undergraduate course for sophomore, 3 credits, TA: Ha-Yan Park)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Software practice 1 (undergraduate course for sophomore, 2 credits)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Algorithm (graduate course, 3 credits, TA: Hyun-Min Kim)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Data structure (graduate course, 2 credits)",
-                        "comments": []
-                    }
-                ]
-            },
-            {
-                "semester": "Fall (4.23/5.0 for undergraduate lectures)",
-                "lectures": [
-                    {
-                        "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: Soo-Young Park)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Ha-yan Park)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Evolutionary computation (graduate course, 3 credits)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Project on Multimedia and Applications (graduate course, 3 credits)",
-                        "comments": []
-                    }
-                ]
-            }
+      },
+      {
+        "semester": "Fall (4.49/5.0 for undergraduate lecture)",
+        "lectures": [
+          {
+            "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: June-Yeop Lee) (4.57/5.0) *Selected as one of the 32 excellent lectures among 1,441 lectures by ACE committee",
+            "comments": ["./htm/2015/fall/Data-structure_mid.htm", "./htm/2015/fall/Data-structure_final.htm"]
+          },
+          {
+            "lecture": "Software practice 2 (undergraduate course for sophomore, 2 credits, TA: Yong-Wook Nam and June-Yeop Lee)",
+            "comments": []
+          },
+          {
+            "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Ji-Hoon Ha) (4.41/5.0)",
+            "comments": ["./htm/2015/fall/Algorithms_mid.htm", "./htm/2015/fall/Algorithms_final.htm"]
+          },
+          {
+            "lecture": "Special Topics in Pattern Recognition (graduate course, 3 credits)",
+            "comments": []
+          }
         ]
-    },
-    {
-        "year": "2009",
-        "semesters": [
-            {
-                "semester": "Spring (4.04/5.0 for undergraduate lectures)",
-                "lectures": [
-                    {
-                        "lecture": "Advanced programming (undergraduate course for sophomore, 3 credits, TA: Hyun-Min Kim)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Advanced programming practice (undergraduate course for sophomore, 1 credit)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Discrete mathematics (undergraduate course for sophomore, 3 credits, TA: Hyun-Min Kim)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Software practice 1 (undergraduate course for sophomore, 2 credits)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Algorithm (graduate course, 3 credits)",
-                        "comments": []
-                    }
-                ]
-            },
-            {
-                "semester": "Fall (4.19/5.0 for undergraduate lectures)",
-                "lectures": [
-                    {
-                        "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: Hyun-Min Kim)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Data structure practice (undergraduate course for sophomore, 1 credit): 2 lectures",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Hyun-Min Kim)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Evolutionary computation (graduate course, 3 credits)",
-                        "comments": []
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "year": "2014",
+    "semesters": [
+      {
+        "semester": "Spring (3.95/5.0 for undergraduate lectures)",
+        "lectures": [
+          {
+            "lecture": "Advanced programming (undergraduate course for sophomore, 3 credits, TA: Jae-Hyun Seo and Dong-won Kim)",
+            "comments": [
+              "./htm/2014/spring/Advanced-programming_mid.htm",
+              "./htm/2014/spring/Advanced-programming_final.htm"
+            ]
+          },
+          {
+            "lecture": "Discrete structure (undergraduate course for sophomore, 3 credits, TA: Yong-Wook Nam)",
+            "comments": [
+              "./htm/2014/spring/Discrete-structure_mid.htm",
+              "./htm/2014/spring/Discrete-structure_final.htm"
+            ]
+          },
+          {
+            "lecture": "Software practice 1 (undergraduate course for sophomore, 2 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Algorithm design and analysis (graduate course, 3 credits)",
+            "comments": []
+          }
         ]
-    },
-    {
-        "year": "2008",
-        "semesters": [
-            {
-                "semester": "Spring (3.86/5.0 for undergraduate lectures)",
-                "lectures": [
-                    {
-                        "lecture": "Advanced programming (undergraduate course for sophomore, 3 credits, TA: Ha-Yan Park)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Advanced programming practice (undergraduate course for sophomore, 1 credit)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Discrete mathematics (undergraduate course for sophomore, 3 credits, TA: Ha-Yan Park)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Software practice 1 (undergraduate course for sophomore, 2 credits)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Topics in information retrieval (graduate course, 3 credits)",
-                        "comments": []
-                    }
-                ]
-            },
-            {
-                "semester": "Fall (4.06/5.0 for undergraduate lectures)",
-                "lectures": [
-                    {
-                        "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: Hyun-Min Kim)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Data structure practice (undergraduate course for sophomore, 1 credit)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Hyun-Min Kim)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Data structure (graduate course, 2 credits)",
-                        "comments": []
-                    }
-                ]
-            }
+      },
+      {
+        "semester": "Fall (4.31/5.0 for undergraduate lectures)",
+        "lectures": [
+          {
+            "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: Yong-Wook Nam and Dong-won Kim)",
+            "comments": ["./htm/2014/fall/Data-structure_mid.htm", "./htm/2014/fall/Data-structure_final.htm"]
+          },
+          {
+            "lecture": "Software practice 2 (undergraduate course for sophomore, 2 credits, TA: Yong-Wook Nam)",
+            "comments": []
+          },
+          {
+            "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Eun-Sol Ko)",
+            "comments": ["./htm/2014/fall/Algorithms_mid.htm", "./htm/2014/fall/Algorithms_final.htm"]
+          },
+          {
+            "lecture": "Algorithm (graduate course, 3 credits)",
+            "comments": []
+          }
         ]
-    },
-    {
-        "year": "2007",
-        "semesters": [
-            {
-                "semester": "Spring (3.94/5.0 for undergraduate lectures)",
-                "lectures": [
-                    {
-                        "lecture": "C programming (undergraduate course for freshman, 3 credits)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Advanced programming (undergraduate course for sophomore, 3 credits)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Advanced programming practice (undergraduate course for sophomore, 1 credit)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Digital logic practice (undergraduate course for sophomore, 1 credit)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Evolutionary computation (graduate course, 3 credits)",
-                        "comments": []
-                    }
-                ]
-            },
-            {
-                "semester": "Fall (4.04/5.0 for undergraduate lectures)",
-                "lectures": [
-                    {
-                        "lecture": "Data structure (undergraduate course for sophomore, 3 credits)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Data structure practice (undergraduate course for sophomore, 1 credit)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Algorithm (undergraduate course for junior, 3 credits)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "Algorithm design and analysis (graduate course, 3 credits)",
-                        "comments": []
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "year": "2012",
+    "semesters": [
+      {
+        "semester": "Spring (4.11/5.0 for undergraduate lectures)",
+        "lectures": [
+          {
+            "lecture": "Advanced programming (undergraduate course for sophomore, 3 credits, TA: Jae-Hyun Seo)",
+            "comments": [
+              "./htm/2012/spring/Advanced-programming_mid.htm",
+              "./htm/2012/spring/Advanced-programming_final.htm"
+            ]
+          },
+          {
+            "lecture": "Discrete structure (undergraduate course for sophomore, 3 credits, TA: Jin-Sung Kim)",
+            "comments": [
+              "./htm/2012/spring/Discrete-structure_mid.htm",
+              "./htm/2012/spring/Discrete-structure_final.htm"
+            ]
+          },
+          {
+            "lecture": "Digital logic practice (undergraduate course for sophomore, 1 credit)",
+            "comments": []
+          },
+          {
+            "lecture": "Software practice 1 (undergraduate course for sophomore, 2 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Algorithm (graduate course, 3 credits, TA: Yong-Woon Cho)",
+            "comments": []
+          },
+          {
+            "lecture": "Special Topics in Algorithms (graduate course, 3 credits)",
+            "comments": []
+          }
         ]
-    }
+      },
+      {
+        "semester": "Fall (4.12/5.0 for undergraduate lectures)",
+        "lectures": [
+          {
+            "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: Soo-Young Park)",
+            "comments": []
+          },
+          {
+            "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Ha-Yan Park)",
+            "comments": []
+          },
+          {
+            "lecture": "Special Topics in Pattern Recognition (graduate course, 3 credits)",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": "2011",
+    "semesters": [
+      {
+        "semester": "Spring (4.25/5.0 for undergraduate lectures)",
+        "lectures": [
+          {
+            "lecture": "Advanced programming (undergraduate course for sophomore, 3 credits, TA: Soo-Young Park)",
+            "comments": []
+          },
+          {
+            "lecture": "Discrete mathematics (undergraduate course for sophomore, 3 credits, TA: Ha-Yan Park)",
+            "comments": []
+          },
+          {
+            "lecture": "Digital logic practice (undergraduate course for sophomore, 1 credit, TA: Ha-Yan Park and Soo-Young Park)",
+            "comments": []
+          },
+          {
+            "lecture": "Algorithm (graduate course, 3 credits, TA: Jae-Hyun Seo)",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "semester": "Fall (4.22/5.0 for undergraduate lectures)",
+        "lectures": [
+          {
+            "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: Soo-Young Park)",
+            "comments": []
+          },
+          {
+            "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Ha-Yan Park)",
+            "comments": []
+          },
+          {
+            "lecture": "Special Topics in Pattern Recognition (graduate course, 3 credits)",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": "2010",
+    "semesters": [
+      {
+        "semester": "Spring (4.06/5.0 for undergraduate lectures)",
+        "lectures": [
+          {
+            "lecture": "Advanced programming (undergraduate course for sophomore, 3 credits, TA: Soo-Young Park) *An illustration from a member of the class (Mr. D. Lee)",
+            "comments": []
+          },
+          {
+            "lecture": "Advanced programming practice (undergraduate course for sophomore, 1 credit)",
+            "comments": []
+          },
+          {
+            "lecture": "Discrete mathematics (undergraduate course for sophomore, 3 credits, TA: Ha-Yan Park)",
+            "comments": []
+          },
+          {
+            "lecture": "Software practice 1 (undergraduate course for sophomore, 2 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Algorithm (graduate course, 3 credits, TA: Hyun-Min Kim)",
+            "comments": []
+          },
+          {
+            "lecture": "Data structure (graduate course, 2 credits)",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "semester": "Fall (4.23/5.0 for undergraduate lectures)",
+        "lectures": [
+          {
+            "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: Soo-Young Park)",
+            "comments": []
+          },
+          {
+            "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Ha-yan Park)",
+            "comments": []
+          },
+          {
+            "lecture": "Evolutionary computation (graduate course, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Project on Multimedia and Applications (graduate course, 3 credits)",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": "2009",
+    "semesters": [
+      {
+        "semester": "Spring (4.04/5.0 for undergraduate lectures)",
+        "lectures": [
+          {
+            "lecture": "Advanced programming (undergraduate course for sophomore, 3 credits, TA: Hyun-Min Kim)",
+            "comments": []
+          },
+          {
+            "lecture": "Advanced programming practice (undergraduate course for sophomore, 1 credit)",
+            "comments": []
+          },
+          {
+            "lecture": "Discrete mathematics (undergraduate course for sophomore, 3 credits, TA: Hyun-Min Kim)",
+            "comments": []
+          },
+          {
+            "lecture": "Software practice 1 (undergraduate course for sophomore, 2 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Algorithm (graduate course, 3 credits)",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "semester": "Fall (4.19/5.0 for undergraduate lectures)",
+        "lectures": [
+          {
+            "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: Hyun-Min Kim)",
+            "comments": []
+          },
+          {
+            "lecture": "Data structure practice (undergraduate course for sophomore, 1 credit): 2 lectures",
+            "comments": []
+          },
+          {
+            "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Hyun-Min Kim)",
+            "comments": []
+          },
+          {
+            "lecture": "Evolutionary computation (graduate course, 3 credits)",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": "2008",
+    "semesters": [
+      {
+        "semester": "Spring (3.86/5.0 for undergraduate lectures)",
+        "lectures": [
+          {
+            "lecture": "Advanced programming (undergraduate course for sophomore, 3 credits, TA: Ha-Yan Park)",
+            "comments": []
+          },
+          {
+            "lecture": "Advanced programming practice (undergraduate course for sophomore, 1 credit)",
+            "comments": []
+          },
+          {
+            "lecture": "Discrete mathematics (undergraduate course for sophomore, 3 credits, TA: Ha-Yan Park)",
+            "comments": []
+          },
+          {
+            "lecture": "Software practice 1 (undergraduate course for sophomore, 2 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Topics in information retrieval (graduate course, 3 credits)",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "semester": "Fall (4.06/5.0 for undergraduate lectures)",
+        "lectures": [
+          {
+            "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: Hyun-Min Kim)",
+            "comments": []
+          },
+          {
+            "lecture": "Data structure practice (undergraduate course for sophomore, 1 credit)",
+            "comments": []
+          },
+          {
+            "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Hyun-Min Kim)",
+            "comments": []
+          },
+          {
+            "lecture": "Data structure (graduate course, 2 credits)",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": "2007",
+    "semesters": [
+      {
+        "semester": "Spring (3.94/5.0 for undergraduate lectures)",
+        "lectures": [
+          {
+            "lecture": "C programming (undergraduate course for freshman, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Advanced programming (undergraduate course for sophomore, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Advanced programming practice (undergraduate course for sophomore, 1 credit)",
+            "comments": []
+          },
+          {
+            "lecture": "Digital logic practice (undergraduate course for sophomore, 1 credit)",
+            "comments": []
+          },
+          {
+            "lecture": "Evolutionary computation (graduate course, 3 credits)",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "semester": "Fall (4.04/5.0 for undergraduate lectures)",
+        "lectures": [
+          {
+            "lecture": "Data structure (undergraduate course for sophomore, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Data structure practice (undergraduate course for sophomore, 1 credit)",
+            "comments": []
+          },
+          {
+            "lecture": "Algorithm (undergraduate course for junior, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Algorithm design and analysis (graduate course, 3 credits)",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  }
 ]
