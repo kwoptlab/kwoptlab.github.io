@@ -1,12 +1,12 @@
 {
-    "home": "홈",
-    "about": "소개",
-    "research": "연구",
-    "members": "구성원",
-    "publications": "저술",
-    "projects": "프로젝트",
-    "lectures": "강의",
-    "awards": "수상",
-    "news": "소식",
-    "contact": "문의"
+  "home": "홈",
+  "about": "소개",
+  "research": "연구",
+  "members": "구성원",
+  "publications": "저술",
+  "projects": "프로젝트",
+  "lectures": "강의",
+  "awards": "수상",
+  "news": "소식",
+  "contact": "문의"
 }

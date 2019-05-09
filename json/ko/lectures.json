@@ -1,619 +1,587 @@
 [
-    {
-           "year": "2019",
-        "semesters": [
-            {
-                "semester": "1학기",
-                "lectures": [
-                    {
-                        "lecture": "이산 구조 (학부과정 2학년, 3학점)",
-                        "comments": [
-                        ]
-                    },
-                    {
-                        "lecture": "알고리즘 (학부과정 3학년, 3학점)",
-                        "comments": [
-                        ]
-                    },
-                    {
-                        "lecture": "응용 소프트웨어 실습 (학부과정 3학년, 3학점)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "진화 연산 (대학원 과정, 3학점)",
-                        "comments": []
-                    }
-                ]
-            }
+  {
+    "year": "2019",
+    "semesters": [
+      {
+        "semester": "1학기",
+        "lectures": [
+          {
+            "lecture": "이산 구조 (학부과정 2학년, 3학점)",
+            "comments": []
+          },
+          {
+            "lecture": "알고리즘 (학부과정 3학년, 3학점)",
+            "comments": []
+          },
+          {
+            "lecture": "응용 소프트웨어 실습 (학부과정 3학년, 3학점)",
+            "comments": []
+          },
+          {
+            "lecture": "진화 연산 (대학원 과정, 3학점)",
+            "comments": []
+          }
         ]
-    },
-    {
-        "year": "2018",
-        "semesters": [
-            {
-                "semester": "1학기 (학부 강의평가 점수: 4.46/5.0)",
-                "lectures": [
-                    {
-                        "lecture": "이산 구조 (학부과정 2학년, 3학점, TA: 유동필, 이현창) (4.29/5.0)",
-                        "comments": [
-                            "./htm/2018/spring/Discrete-structure_mid.html",
-                            "./htm/2018/spring/Discrete-structure_final.html"
-                        ]
-                    },
-                    {
-                        "lecture": "알고리즘 (학부과정 3학년, 3학점, TA: 김혜진, 조휘연) (4.64/5.0)",
-                        "comments": [
-                            "./htm/2018/spring/Algorithm_mid.html",
-                            "./htm/2018/spring/Algorithm_final.html"
-                        ]
-                    },
-                    {
-                        "lecture": "응용 소프트웨어 실습 (학부과정 3학년, 3학점, TA: 이정환, 김혜진)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "정보검색특론 (대학원 과정, 3학점)",
-                        "comments": []
-                    }
-                ]
-            },
-            {
-                "semester": "2학기(학부 강의평가 점수: 4.41/5.0)",
-                "lectures": [
-                    {
-                        "lecture": "자료구조 (학부과정 2학년, 3학점)",
-                        "comments": [
-                            "./htm/2018/fall/Data-structure_mid.html",
-                            "./htm/2018/fall/Data-structure_final.html"
-                        ]
-                    },
-                    {
-                        "lecture": "시스템소프트웨어실습 (학부과정 2학년, 2학점)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "알고리즘설계와분석 (대학원 과정, 3학점)",
-                        "comments": []
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "year": "2018",
+    "semesters": [
+      {
+        "semester": "1학기 (학부 강의평가 점수: 4.46/5.0)",
+        "lectures": [
+          {
+            "lecture": "이산 구조 (학부과정 2학년, 3학점, TA: 유동필, 이현창) (4.29/5.0)",
+            "comments": [
+              "./htm/2018/spring/Discrete-structure_mid.html",
+              "./htm/2018/spring/Discrete-structure_final.html"
+            ]
+          },
+          {
+            "lecture": "알고리즘 (학부과정 3학년, 3학점, TA: 김혜진, 조휘연) (4.64/5.0)",
+            "comments": ["./htm/2018/spring/Algorithm_mid.html", "./htm/2018/spring/Algorithm_final.html"]
+          },
+          {
+            "lecture": "응용 소프트웨어 실습 (학부과정 3학년, 3학점, TA: 이정환, 김혜진)",
+            "comments": []
+          },
+          {
+            "lecture": "정보검색특론 (대학원 과정, 3학점)",
+            "comments": []
+          }
         ]
-    },
-    {
-        "year": "2017",
-        "semesters": [
-            {
-                "semester": "1학기 (학부 강의평가 점수: 4.57/5.0)",
-                "lectures": [
-                    {
-                        "lecture": "이산 구조 (학부과정 2학년, 3학점, TA: 이정환) (학부 강의평가 점수: 4.59/5.0)",
-                        "comments": [
-                            "./htm/2017/spring/Discrete-structure_mid.htm",
-                            "./htm/2017/spring/Discrete-structure_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "알고리즘 (학부과정 3학년, 3학점, TA: 이찬재) (학부 강의평가 점수: 4.55/5.0)",
-                        "comments": [
-                            "./htm/2017/spring/Algorithm_mid.htm",
-                            "./htm/2017/spring/Algorithm_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "응용 소프트웨어 실습 (학부과정 3학년, 3학점, TA: 김경도, 이정환)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "진화 연산 (대학원 과정, 3학점)",
-                        "comments": []
-                    }
-                ]
-            },
-            {
-                "semester": "2학기 (학부 강의평가 점수: 4.51/5.0)",
-                "lectures": [
-                    {
-                        "lecture": "자료 구조 (학부과정 2학년, 3학점, TA: 이정환, 이찬재) (학부 강의평가 점수: 4.51/5.0)",
-                        "comments": [
-                            "./htm/2017/fall/Data-structure_mid.htm",
-                            "./htm/2017/fall/Data-structure_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "시스템 소프트웨어 실습 (학부과정 2학년, 2학점, TA: 김경도, 하완수)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "패턴인식특론 (대학원 과정, 3학점)",
-                        "comments": []
-                    }
-                ]
-            }
+      },
+      {
+        "semester": "2학기(학부 강의평가 점수: 4.41/5.0)",
+        "lectures": [
+          {
+            "lecture": "자료구조 (학부과정 2학년, 3학점)",
+            "comments": ["./htm/2018/fall/Data-structure_mid.html", "./htm/2018/fall/Data-structure_final.html"]
+          },
+          {
+            "lecture": "시스템소프트웨어실습 (학부과정 2학년, 2학점)",
+            "comments": []
+          },
+          {
+            "lecture": "알고리즘설계와분석 (대학원 과정, 3학점)",
+            "comments": []
+          }
         ]
-    },
-    {
-        "year": "2016",
-        "semesters": [
-            {
-                "semester": "1학기 (학부 강의평가 점수: 4.45/5.0)",
-                "lectures": [
-                    {
-                        "lecture": "고급 프로그래밍 (학부과정 2학년, 3학점, TA: 이준엽) (학부 강의평가 점수: 4.30/5.0)",
-                        "comments": [
-                            "./htm/2016/spring/Advanced-programming_mid.htm",
-                            "./htm/2016/spring/Advanced-programming_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "이산 구조 (학부과정 2학년, 3학점, TA: 하지훈) (학부 강의평가 점수: 4.34/5.0)",
-                        "comments": [
-                            "./htm/2016/spring/Discrete-structure_mid.htm",
-                            "./htm/2016/spring/Discrete-structure_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "소프트웨어 실습 3 (학부과정 3학년, 3학점, TA: 남용욱, 하지훈)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "정보검색특론 (대학원 과정, 3학점)",
-                        "comments": []
-                    }
-                ]
-            },
-            {
-                "semester": "2학기 (학부 강의평가 점수: 4.36/5.0)",
-                "lectures": [
-                    {
-                        "lecture": "자료 구조 (학부과정 2학년, 3학점, TA: 김경도) (학부 강의평가 점수: 4.48/5.0)",
-                        "comments": [
-                            "./htm/2016/fall/Data-structure_mid.htm",
-                            "./htm/2016/fall/Data-structure_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "소프트웨어 실습 2 (학부과정 2학년, 2학점, TA: 남용욱, 김경도)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "알고리즘 (학부과정 3학년, 3학점, TA: 하지훈) (학부 강의평가 점수: 4.43/5.0)",
-                        "comments": [
-                            "./htm/2016/fall/Algorithms_mid.htm",
-                            "./htm/2016/fall/Algorithms_mid_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "알고리즘 (대학원 과정, 3학점)",
-                        "comments": []
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "semesters": [
+      {
+        "semester": "1학기 (학부 강의평가 점수: 4.57/5.0)",
+        "lectures": [
+          {
+            "lecture": "이산 구조 (학부과정 2학년, 3학점, TA: 이정환) (학부 강의평가 점수: 4.59/5.0)",
+            "comments": [
+              "./htm/2017/spring/Discrete-structure_mid.htm",
+              "./htm/2017/spring/Discrete-structure_final.htm"
+            ]
+          },
+          {
+            "lecture": "알고리즘 (학부과정 3학년, 3학점, TA: 이찬재) (학부 강의평가 점수: 4.55/5.0)",
+            "comments": ["./htm/2017/spring/Algorithm_mid.htm", "./htm/2017/spring/Algorithm_final.htm"]
+          },
+          {
+            "lecture": "응용 소프트웨어 실습 (학부과정 3학년, 3학점, TA: 김경도, 이정환)",
+            "comments": []
+          },
+          {
+            "lecture": "진화 연산 (대학원 과정, 3학점)",
+            "comments": []
+          }
         ]
-    },
-    {
-        "year": "2015",
-        "semesters": [
-            {
-                "semester": "1학기 (학부 강의평가 점수: 4.46 / 5.0)",
-                "lectures": [
-                    {
-                        "lecture": "고급 프로그래밍 (학부과정 2학년, 3학점, TA: 이준엽) *총 1,441 강의 중 ACE사업단에서 선정한 우수강의 32개에 포함됨",
-                        "comments": [
-                            "./htm/2015/spring/Advanced-programming_mid.htm",
-                            "./htm/2015/spring/Advanced-programming_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "이산 구조 (학부과정 2학년, 3학점, TA: 하지훈)",
-                        "comments": [
-                            "./htm/2015/spring/Discrete-structure_mid.htm",
-                            "./htm/2015/spring/Discrete-structure_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "소프트웨어 실습 3 (학부과정 3학년, 3학점, TA: 남용욱, 이준엽)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "진화 연산 (대학원 과정, 3학점)",
-                        "comments": []
-                    }
-                ]
-            },
-            {
-                "semester": "2학기 (학부 강의평가 점수: 4.49 / 5.0)",
-                "lectures": [
-                    {
-                        "lecture": "자료 구조 (학부과정 2학년, 3학점, TA: 이준엽) (학부 강의평가 점수: 4.57 / 5.0) *총 1,441 강의 중 ACE사업단에서 선정한 우수강의 32개에 포함됨 ",
-                        "comments": [
-                            "./htm/2015/fall/Data-structure_mid.htm",
-                            "./htm/2015/fall/Data-structure_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "소프트웨어 실습 2 (학부과정 2학년, 2학점, TA: 남용욱, 이준엽)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "알고리즘 (학부과정 3학년, 3학점, TA: 하지훈) (학부 강의평가 점수: 4.41 / 5.0)",
-                        "comments": [
-                            "./htm/2015/fall/Algorithms_mid.htm",
-                            "./htm/2015/fall/Algorithms_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "패턴인식특론(대학원 과정, 3학점)",
-                        "comments": []
-                    }
-                ]
-            }
+      },
+      {
+        "semester": "2학기 (학부 강의평가 점수: 4.51/5.0)",
+        "lectures": [
+          {
+            "lecture": "자료 구조 (학부과정 2학년, 3학점, TA: 이정환, 이찬재) (학부 강의평가 점수: 4.51/5.0)",
+            "comments": ["./htm/2017/fall/Data-structure_mid.htm", "./htm/2017/fall/Data-structure_final.htm"]
+          },
+          {
+            "lecture": "시스템 소프트웨어 실습 (학부과정 2학년, 2학점, TA: 김경도, 하완수)",
+            "comments": []
+          },
+          {
+            "lecture": "패턴인식특론 (대학원 과정, 3학점)",
+            "comments": []
+          }
         ]
-    },
-    {
-        "year": "2014",
-        "semesters": [
-            {
-                "semester": "1학기 (학부 강의평가 점수: 3.95 / 5.0)",
-                "lectures": [
-                    {
-                        "lecture": "고급 프로그래밍 (학부과정 2학년, 3학점, TA: 서재현, 김동원)",
-                        "comments": [
-                            "./htm/2014/spring/Advanced-programming_mid.htm",
-                            "./htm/2014/spring/Advanced-programming_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "이산 구조 (학부과정 2학년, 3학점, TA: 남용욱)",
-                        "comments": [
-                            "./htm/2014/spring/Discrete-structure_mid.htm",
-                            "./htm/2014/spring/Discrete-structure_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "소프트웨어 실습 1 (학부과정 2학년, 2학점)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "알고리즘 설계와 분석(3학점)",
-                        "comments": []
-                    }
-                ]
-            },
-            {
-                "semester": "2학기 (학부 강의평가 점수: 4.31 / 5.0)",
-                "lectures": [
-                    {
-                        "lecture": "자료 구조 (학부과정 2학년, 3학점, TA: 남용욱, 김동원)",
-                        "comments": [
-                            "./htm/2014/fall/Data-structure_mid.htm",
-                            "./htm/2014/fall/Data-structure_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "소프트웨어 실습 2 (학부과정 2학년, 2학점, TA: 남용욱)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "알고리즘 (학부과정 3학년, 3학점, TA: 고은솔)",
-                        "comments": [
-                            "./htm/2014/fall/Algorithms_mid.htm",
-                            "./htm/2014/fall/Algorithms_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "알고리즘(대학원과정, 3학점)",
-                        "comments": []
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "year": "2016",
+    "semesters": [
+      {
+        "semester": "1학기 (학부 강의평가 점수: 4.45/5.0)",
+        "lectures": [
+          {
+            "lecture": "고급 프로그래밍 (학부과정 2학년, 3학점, TA: 이준엽) (학부 강의평가 점수: 4.30/5.0)",
+            "comments": [
+              "./htm/2016/spring/Advanced-programming_mid.htm",
+              "./htm/2016/spring/Advanced-programming_final.htm"
+            ]
+          },
+          {
+            "lecture": "이산 구조 (학부과정 2학년, 3학점, TA: 하지훈) (학부 강의평가 점수: 4.34/5.0)",
+            "comments": [
+              "./htm/2016/spring/Discrete-structure_mid.htm",
+              "./htm/2016/spring/Discrete-structure_final.htm"
+            ]
+          },
+          {
+            "lecture": "소프트웨어 실습 3 (학부과정 3학년, 3학점, TA: 남용욱, 하지훈)",
+            "comments": []
+          },
+          {
+            "lecture": "정보검색특론 (대학원 과정, 3학점)",
+            "comments": []
+          }
         ]
-    },
-    {
-        "year": "2012",
-        "semesters": [
-            {
-                "semester": "1학기 (학부 강의평가 점수: 4.11/5.0)",
-                "lectures": [
-                    {
-                        "lecture": "고급 프로그래밍 (학부과정 2학년, 3학점, TA: 서재현)",
-                        "comments": [
-                            "./htm/2012/spring/Advanced-programming_mid.htm",
-                            "./htm/2012/spring/Advanced-programming_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "이산 구조 (학부과정 2학년, 3학점, TA: 김진성)",
-                        "comments": [
-                            "./htm/2012/spring/Discrete-structure_mid.htm",
-                            "./htm/2012/spring/Discrete-structure_final.htm"
-                        ]
-                    },
-                    {
-                        "lecture": "디지털 로직 실습 (학부과정 2학년, 1학점)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "소프트웨어 실습 1 (학부과정 2학년, 2학점)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "알고리즘 (대학원 과정, 3학점, TA: 조용운)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "알고리즘 특론 (대학원 과정, 3학점)",
-                        "comments": []
-                    }
-                ]
-            },
-            {
-                "semester": "2학기 (학부 강의평가 점수: 4.12/5.0)",
-                "lectures": [
-                    {
-                        "lecture": "자료 구조 (2학년, 3학점, TA: 박수영)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "알고리즘 (학부과정 3학년, 3학점, TA: 박하얀)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "패턴인식특론 (대학원 과정, 3학점)",
-                        "comments": []
-                    }
-                ]
-            }
+      },
+      {
+        "semester": "2학기 (학부 강의평가 점수: 4.36/5.0)",
+        "lectures": [
+          {
+            "lecture": "자료 구조 (학부과정 2학년, 3학점, TA: 김경도) (학부 강의평가 점수: 4.48/5.0)",
+            "comments": ["./htm/2016/fall/Data-structure_mid.htm", "./htm/2016/fall/Data-structure_final.htm"]
+          },
+          {
+            "lecture": "소프트웨어 실습 2 (학부과정 2학년, 2학점, TA: 남용욱, 김경도)",
+            "comments": []
+          },
+          {
+            "lecture": "알고리즘 (학부과정 3학년, 3학점, TA: 하지훈) (학부 강의평가 점수: 4.43/5.0)",
+            "comments": ["./htm/2016/fall/Algorithms_mid.htm", "./htm/2016/fall/Algorithms_mid_final.htm"]
+          },
+          {
+            "lecture": "알고리즘 (대학원 과정, 3학점)",
+            "comments": []
+          }
         ]
-    },
-    {
-        "year": "2011",
-        "semesters": [
-            {
-                "semester": "1학기 (학부 강의평가 점수: 4.25/5.0)",
-                "lectures": [
-                    {
-                        "lecture": "고급 프로그래밍 (학부과정 2학년, 3학점, TA: 박수영)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "이산 수학 (학부과정 2학년, 3학점, TA: 박하얀)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "디지털 로직 실습 (학부과정 2학년, 1 학점, TA: 박하얀, 박수영)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "알고리즘 (대학원 과정, 3학점, TA: 서재현)",
-                        "comments": []
-                    }
-                ]
-            },
-            {
-                "semester": "2학기 (학부 강의평가 점수: 4.22/5.0)",
-                "lectures": [
-                    {
-                        "lecture": "자료 구조 (학부과정 2학년, 3학점, TA: 박수영)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "알고리즘 (학부과정 3학년, 3학점, TA: 박하얀)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "패턴인식특론 (대학원 과정, 3학점)",
-                        "comments": []
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "year": "2015",
+    "semesters": [
+      {
+        "semester": "1학기 (학부 강의평가 점수: 4.46 / 5.0)",
+        "lectures": [
+          {
+            "lecture": "고급 프로그래밍 (학부과정 2학년, 3학점, TA: 이준엽) *총 1,441 강의 중 ACE사업단에서 선정한 우수강의 32개에 포함됨",
+            "comments": [
+              "./htm/2015/spring/Advanced-programming_mid.htm",
+              "./htm/2015/spring/Advanced-programming_final.htm"
+            ]
+          },
+          {
+            "lecture": "이산 구조 (학부과정 2학년, 3학점, TA: 하지훈)",
+            "comments": [
+              "./htm/2015/spring/Discrete-structure_mid.htm",
+              "./htm/2015/spring/Discrete-structure_final.htm"
+            ]
+          },
+          {
+            "lecture": "소프트웨어 실습 3 (학부과정 3학년, 3학점, TA: 남용욱, 이준엽)",
+            "comments": []
+          },
+          {
+            "lecture": "진화 연산 (대학원 과정, 3학점)",
+            "comments": []
+          }
         ]
-    },
-    {
-        "year": "2010",
-        "semesters": [
-            {
-                "semester": "1학기 (학부 강의평가 점수: 4.06/5.0)",
-                "lectures": [
-                    {
-                        "lecture": "자료 구조 (학부과정 2학년, 3학점, TA: 박수영)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "고급 프로그래밍 실습 (학부과정 2학년, 1 학점)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "이산 수학 (학부과정 2학년, 3학점, TA: 박하얀)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "소프트웨어 실습 1 (학부과정 2학년, 2학점)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "알고리즘 (대학원 과정, 3학점, TA: 김현민)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "데이터 구조 (대학원 과정, 2학점)",
-                        "comments": []
-                    }
-                ]
-            },
-            {
-                "semester": "2학기 (학부 강의평가 점수: 4.23/5.0)",
-                "lectures": [
-                    {
-                        "lecture": "자료 구조 (학부과정 2학년, 3학점, TA: 박수영)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "알고리즘 (학부과정 3학년, 3학점, TA: 박하얀)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "진화 연산 (대학원 과정, 3학점)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "멀티미디어 및 응용 분야 프로젝트 (대학원 과정, 3학점)",
-                        "comments": []
-                    }
-                ]
-            }
+      },
+      {
+        "semester": "2학기 (학부 강의평가 점수: 4.49 / 5.0)",
+        "lectures": [
+          {
+            "lecture": "자료 구조 (학부과정 2학년, 3학점, TA: 이준엽) (학부 강의평가 점수: 4.57 / 5.0) *총 1,441 강의 중 ACE사업단에서 선정한 우수강의 32개에 포함됨 ",
+            "comments": ["./htm/2015/fall/Data-structure_mid.htm", "./htm/2015/fall/Data-structure_final.htm"]
+          },
+          {
+            "lecture": "소프트웨어 실습 2 (학부과정 2학년, 2학점, TA: 남용욱, 이준엽)",
+            "comments": []
+          },
+          {
+            "lecture": "알고리즘 (학부과정 3학년, 3학점, TA: 하지훈) (학부 강의평가 점수: 4.41 / 5.0)",
+            "comments": ["./htm/2015/fall/Algorithms_mid.htm", "./htm/2015/fall/Algorithms_final.htm"]
+          },
+          {
+            "lecture": "패턴인식특론(대학원 과정, 3학점)",
+            "comments": []
+          }
         ]
-    },
-    {
-        "year": "2009",
-        "semesters": [
-            {
-                "semester": "1학기 (학부 강의평가 점수: 4.04/5.0)",
-                "lectures": [
-                    {
-                        "lecture": "고급 프로그래밍 (학부과정 2학년, 3학점, TA: 김현민)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "고급 프로그래밍 실습 (학부과정 2학년, 1 학점)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "이산 수학 (학부과정 2학년, 3학점, TA: 김현민)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "소프트웨어 실습 1 (학부과정 2학년, 2학점)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "알고리즘 (대학원 과정, 3학점)",
-                        "comments": []
-                    }
-                ]
-            },
-            {
-                "semester": "2학기 (학부 강의평가 점수: 4.19/5.0)",
-                "lectures": [
-                    {
-                        "lecture": "자료 구조 (학부과정 2학년, 3학점, TA: 김현민)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "데이터 구조 실습 (학부과정 2학년, 1 학점): 2 강의",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "알고리즘 (학부과정 3학년, 3학점, TA: 김현민)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "진화연산(대학원 과정, 3학점)",
-                        "comments": []
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "year": "2014",
+    "semesters": [
+      {
+        "semester": "1학기 (학부 강의평가 점수: 3.95 / 5.0)",
+        "lectures": [
+          {
+            "lecture": "고급 프로그래밍 (학부과정 2학년, 3학점, TA: 서재현, 김동원)",
+            "comments": [
+              "./htm/2014/spring/Advanced-programming_mid.htm",
+              "./htm/2014/spring/Advanced-programming_final.htm"
+            ]
+          },
+          {
+            "lecture": "이산 구조 (학부과정 2학년, 3학점, TA: 남용욱)",
+            "comments": [
+              "./htm/2014/spring/Discrete-structure_mid.htm",
+              "./htm/2014/spring/Discrete-structure_final.htm"
+            ]
+          },
+          {
+            "lecture": "소프트웨어 실습 1 (학부과정 2학년, 2학점)",
+            "comments": []
+          },
+          {
+            "lecture": "알고리즘 설계와 분석(3학점)",
+            "comments": []
+          }
         ]
-    },
-    {
-        "year": "2008",
-        "semesters": [
-            {
-                "semester": "1학기 (3.86/5.0)",
-                "lectures": [
-                    {
-                        "lecture": "고급 프로그래밍 (학부과정 2학년, 3학점, TA: 박하얀)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "고급 프로그래밍 실습 (학부과정 2학년, 1 학점)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "이산 수학 (학부과정 2학년, 3학점, TA: 박하얀)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "소프트웨어 실습 1 (학부과정 2학년, 2학점)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "정보검색특론(대학원 과정, 3학점)",
-                        "comments": []
-                    }
-                ]
-            },
-            {
-                "semester": "2학기 (학부 강의평가 점수: 4.06/5.0)",
-                "lectures": [
-                    {
-                        "lecture": "자료 구조 (학부과정 2학년, 3학점, TA: 김현민)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "데이터 구조 실습 (학부과정 2학년, 1학점)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "알고리즘 (학부과정 3학년, 3학점, TA: 김현민)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "자료 구조 (대학원 과정, 2학점)",
-                        "comments": []
-                    }
-                ]
-            }
+      },
+      {
+        "semester": "2학기 (학부 강의평가 점수: 4.31 / 5.0)",
+        "lectures": [
+          {
+            "lecture": "자료 구조 (학부과정 2학년, 3학점, TA: 남용욱, 김동원)",
+            "comments": ["./htm/2014/fall/Data-structure_mid.htm", "./htm/2014/fall/Data-structure_final.htm"]
+          },
+          {
+            "lecture": "소프트웨어 실습 2 (학부과정 2학년, 2학점, TA: 남용욱)",
+            "comments": []
+          },
+          {
+            "lecture": "알고리즘 (학부과정 3학년, 3학점, TA: 고은솔)",
+            "comments": ["./htm/2014/fall/Algorithms_mid.htm", "./htm/2014/fall/Algorithms_final.htm"]
+          },
+          {
+            "lecture": "알고리즘(대학원과정, 3학점)",
+            "comments": []
+          }
         ]
-    },
-    {
-        "year": "2007",
-        "semesters": [
-            {
-                "semester": "1학기 (학부 강의평가 점수: 3.94/5.0)",
-                "lectures": [
-                    {
-                        "lecture": "C 프로그래밍 (신입생을 위한 학부과정, 3학점)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "고급 프로그래밍 (학부과정 2학년, 3학점)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "고급 프로그래밍 실습 (학부과정 2학년, 1학점)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "디지털 로직 실습 (학부과정 2학년, 1학점)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "진화연산 (대학원 과정, 3학점)",
-                        "comments": []
-                    }
-                ]
-            },
-            {
-                "semester": "2학기 (학부 강의평가 점수: 4.04/5.0)",
-                "lectures": [
-                    {
-                        "lecture": "자료 구조 (2학부과정 2학년, 3학점)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "데이터 구조 실습 (학부과정 2학년, 1학점)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "알고리즘 (학부과정 3학년, 3학점)",
-                        "comments": []
-                    },
-                    {
-                        "lecture": "알고리즘 설계 및 분석 (대학원 과정, 3학점)",
-                        "comments": []
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "year": "2012",
+    "semesters": [
+      {
+        "semester": "1학기 (학부 강의평가 점수: 4.11/5.0)",
+        "lectures": [
+          {
+            "lecture": "고급 프로그래밍 (학부과정 2학년, 3학점, TA: 서재현)",
+            "comments": [
+              "./htm/2012/spring/Advanced-programming_mid.htm",
+              "./htm/2012/spring/Advanced-programming_final.htm"
+            ]
+          },
+          {
+            "lecture": "이산 구조 (학부과정 2학년, 3학점, TA: 김진성)",
+            "comments": [
+              "./htm/2012/spring/Discrete-structure_mid.htm",
+              "./htm/2012/spring/Discrete-structure_final.htm"
+            ]
+          },
+          {
+            "lecture": "디지털 로직 실습 (학부과정 2학년, 1학점)",
+            "comments": []
+          },
+          {
+            "lecture": "소프트웨어 실습 1 (학부과정 2학년, 2학점)",
+            "comments": []
+          },
+          {
+            "lecture": "알고리즘 (대학원 과정, 3학점, TA: 조용운)",
+            "comments": []
+          },
+          {
+            "lecture": "알고리즘 특론 (대학원 과정, 3학점)",
+            "comments": []
+          }
         ]
-    }
+      },
+      {
+        "semester": "2학기 (학부 강의평가 점수: 4.12/5.0)",
+        "lectures": [
+          {
+            "lecture": "자료 구조 (2학년, 3학점, TA: 박수영)",
+            "comments": []
+          },
+          {
+            "lecture": "알고리즘 (학부과정 3학년, 3학점, TA: 박하얀)",
+            "comments": []
+          },
+          {
+            "lecture": "패턴인식특론 (대학원 과정, 3학점)",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": "2011",
+    "semesters": [
+      {
+        "semester": "1학기 (학부 강의평가 점수: 4.25/5.0)",
+        "lectures": [
+          {
+            "lecture": "고급 프로그래밍 (학부과정 2학년, 3학점, TA: 박수영)",
+            "comments": []
+          },
+          {
+            "lecture": "이산 수학 (학부과정 2학년, 3학점, TA: 박하얀)",
+            "comments": []
+          },
+          {
+            "lecture": "디지털 로직 실습 (학부과정 2학년, 1 학점, TA: 박하얀, 박수영)",
+            "comments": []
+          },
+          {
+            "lecture": "알고리즘 (대학원 과정, 3학점, TA: 서재현)",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "semester": "2학기 (학부 강의평가 점수: 4.22/5.0)",
+        "lectures": [
+          {
+            "lecture": "자료 구조 (학부과정 2학년, 3학점, TA: 박수영)",
+            "comments": []
+          },
+          {
+            "lecture": "알고리즘 (학부과정 3학년, 3학점, TA: 박하얀)",
+            "comments": []
+          },
+          {
+            "lecture": "패턴인식특론 (대학원 과정, 3학점)",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": "2010",
+    "semesters": [
+      {
+        "semester": "1학기 (학부 강의평가 점수: 4.06/5.0)",
+        "lectures": [
+          {
+            "lecture": "자료 구조 (학부과정 2학년, 3학점, TA: 박수영)",
+            "comments": []
+          },
+          {
+            "lecture": "고급 프로그래밍 실습 (학부과정 2학년, 1 학점)",
+            "comments": []
+          },
+          {
+            "lecture": "이산 수학 (학부과정 2학년, 3학점, TA: 박하얀)",
+            "comments": []
+          },
+          {
+            "lecture": "소프트웨어 실습 1 (학부과정 2학년, 2학점)",
+            "comments": []
+          },
+          {
+            "lecture": "알고리즘 (대학원 과정, 3학점, TA: 김현민)",
+            "comments": []
+          },
+          {
+            "lecture": "데이터 구조 (대학원 과정, 2학점)",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "semester": "2학기 (학부 강의평가 점수: 4.23/5.0)",
+        "lectures": [
+          {
+            "lecture": "자료 구조 (학부과정 2학년, 3학점, TA: 박수영)",
+            "comments": []
+          },
+          {
+            "lecture": "알고리즘 (학부과정 3학년, 3학점, TA: 박하얀)",
+            "comments": []
+          },
+          {
+            "lecture": "진화 연산 (대학원 과정, 3학점)",
+            "comments": []
+          },
+          {
+            "lecture": "멀티미디어 및 응용 분야 프로젝트 (대학원 과정, 3학점)",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": "2009",
+    "semesters": [
+      {
+        "semester": "1학기 (학부 강의평가 점수: 4.04/5.0)",
+        "lectures": [
+          {
+            "lecture": "고급 프로그래밍 (학부과정 2학년, 3학점, TA: 김현민)",
+            "comments": []
+          },
+          {
+            "lecture": "고급 프로그래밍 실습 (학부과정 2학년, 1 학점)",
+            "comments": []
+          },
+          {
+            "lecture": "이산 수학 (학부과정 2학년, 3학점, TA: 김현민)",
+            "comments": []
+          },
+          {
+            "lecture": "소프트웨어 실습 1 (학부과정 2학년, 2학점)",
+            "comments": []
+          },
+          {
+            "lecture": "알고리즘 (대학원 과정, 3학점)",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "semester": "2학기 (학부 강의평가 점수: 4.19/5.0)",
+        "lectures": [
+          {
+            "lecture": "자료 구조 (학부과정 2학년, 3학점, TA: 김현민)",
+            "comments": []
+          },
+          {
+            "lecture": "데이터 구조 실습 (학부과정 2학년, 1 학점): 2 강의",
+            "comments": []
+          },
+          {
+            "lecture": "알고리즘 (학부과정 3학년, 3학점, TA: 김현민)",
+            "comments": []
+          },
+          {
+            "lecture": "진화연산(대학원 과정, 3학점)",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": "2008",
+    "semesters": [
+      {
+        "semester": "1학기 (3.86/5.0)",
+        "lectures": [
+          {
+            "lecture": "고급 프로그래밍 (학부과정 2학년, 3학점, TA: 박하얀)",
+            "comments": []
+          },
+          {
+            "lecture": "고급 프로그래밍 실습 (학부과정 2학년, 1 학점)",
+            "comments": []
+          },
+          {
+            "lecture": "이산 수학 (학부과정 2학년, 3학점, TA: 박하얀)",
+            "comments": []
+          },
+          {
+            "lecture": "소프트웨어 실습 1 (학부과정 2학년, 2학점)",
+            "comments": []
+          },
+          {
+            "lecture": "정보검색특론(대학원 과정, 3학점)",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "semester": "2학기 (학부 강의평가 점수: 4.06/5.0)",
+        "lectures": [
+          {
+            "lecture": "자료 구조 (학부과정 2학년, 3학점, TA: 김현민)",
+            "comments": []
+          },
+          {
+            "lecture": "데이터 구조 실습 (학부과정 2학년, 1학점)",
+            "comments": []
+          },
+          {
+            "lecture": "알고리즘 (학부과정 3학년, 3학점, TA: 김현민)",
+            "comments": []
+          },
+          {
+            "lecture": "자료 구조 (대학원 과정, 2학점)",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": "2007",
+    "semesters": [
+      {
+        "semester": "1학기 (학부 강의평가 점수: 3.94/5.0)",
+        "lectures": [
+          {
+            "lecture": "C 프로그래밍 (신입생을 위한 학부과정, 3학점)",
+            "comments": []
+          },
+          {
+            "lecture": "고급 프로그래밍 (학부과정 2학년, 3학점)",
+            "comments": []
+          },
+          {
+            "lecture": "고급 프로그래밍 실습 (학부과정 2학년, 1학점)",
+            "comments": []
+          },
+          {
+            "lecture": "디지털 로직 실습 (학부과정 2학년, 1학점)",
+            "comments": []
+          },
+          {
+            "lecture": "진화연산 (대학원 과정, 3학점)",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "semester": "2학기 (학부 강의평가 점수: 4.04/5.0)",
+        "lectures": [
+          {
+            "lecture": "자료 구조 (2학부과정 2학년, 3학점)",
+            "comments": []
+          },
+          {
+            "lecture": "데이터 구조 실습 (학부과정 2학년, 1학점)",
+            "comments": []
+          },
+          {
+            "lecture": "알고리즘 (학부과정 3학년, 3학점)",
+            "comments": []
+          },
+          {
+            "lecture": "알고리즘 설계 및 분석 (대학원 과정, 3학점)",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  }
 ]
