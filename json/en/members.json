@@ -45,7 +45,9 @@
                 "dept": "Department of Computer Science at KwangWoon Univ.",
                 "email": "mitssi@kw.ac.kr",
                 "home": "",
-                "sns": {}
+                "sns": {
+                    "scholar": "https://scholar.google.com/citations?hl=ko&user=VHZll_cAAAAJ"
+                }
             },
             {
                 "img": "./img/members/HyeonChang.jpg",
@@ -67,6 +69,7 @@
                 "email": "yoodongphil@naver.com",
                 "home": "",
                 "sns": {
+                    "scholar": "https://scholar.google.co.kr/citations?user=wzZ0sj4AAAAJ&hl=en",
                     "github": "https://github.com/dongpilYu/"
                 }
             },
@@ -142,6 +145,7 @@
                 "email": "jazz4rabbit@kw.ac.kr",
                 "home": "",
                 "sns": {
+                    "scholar": "https://scholar.google.co.kr/citations?user=aAE99RYAAAAJ&hl=en",
                     "github": "https://github.com/jazz4rabbit/"
                 }
             },
