@@ -33,8 +33,7 @@
                 "email": "ovoa22@gmail.com",
                 "home": "https://kimagine94.github.io/kimagine-portfolio-en/",
                 "sns": {
-                    "facebook": "https://www.facebook.com/hyejin929",
-                    "twitter": "https://twitter.com/_Kimagine_",
+                    "scholar": "https://scholar.google.co.kr/citations?user=KrzbQ6YAAAAJ&hl=en",
                     "instagram": "https://www.instagram.com/kimagine._/",
                     "github": "https://github.com/kimagine94"
                 }
@@ -49,13 +48,14 @@
                 "sns": {}
             },
             {
-                "img": "./img/members/HyeonChang.png",
+                "img": "./img/members/HyeonChang.jpg",
                 "name": "Lee Hyeon-Chang",
                 "role": "Linked BS/MS Program",
                 "dept": "Department of Computer Science at KwangWoon Univ.",
                 "email": "qzecwxad@naver.com",
                 "home": "",
                 "sns": {
+                    "scholar": "https://scholar.google.com/citations?view_op=list_works&hl=ko&user=KYBjwQMAAAAJ",
                     "facebook": "https://www.facebook.com/qzecwxad"
                 }
             },
@@ -78,6 +78,7 @@
                 "email": "hwyn.cho@gmail.com",
                 "home": "",
                 "sns": {
+                    "scholar": "https://scholar.google.com/citations?hl=ko&user=k6kW7AUAAAAJ",
                     "facebook": "https://www.facebook.com/hwyn.cho/",
                     "instagram": "https://www.instagram.com/hwyn.cho/",
                     "github": "https://github.com/hwyncho/"
