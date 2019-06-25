@@ -74,6 +74,15 @@
                 }
             },
             {
+                "img": "./img/members/DongHee.jpg",
+                "name": "조동희",
+                "role": "학석사연계과정",
+                "dept": "광운대학교 컴퓨터과학과",
+                "email": "whehd16@naver.com",
+                "home": "",
+                "sns": {}
+            },
+            {
                 "img": "./img/members/HwiYeon.png",
                 "name": "조휘연",
                 "role": "석사과정",

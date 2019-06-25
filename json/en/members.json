@@ -74,6 +74,15 @@
                 }
             },
             {
+                "img": "./img/members/DongHee.jpg",
+                "name": "Cho Donghee",
+                "role": "Linked BS/MS Program",
+                "dept": "Department of Computer Science at KwangWoon Univ.",
+                "email": "whehd16@naver.com",
+                "home": "",
+                "sns": {}
+            },
+            {
                 "img": "./img/members/HwiYeon.png",
                 "name": "Cho Hwi-Yeon",
                 "role": "Master Student",
