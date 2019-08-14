@@ -6,21 +6,21 @@
         "semester": "Spring",
         "lectures": [
           {
-            "lecture": "Discrete structure (undergraduate course for sophomore, 3 credits)",
+            "lecture": "Discrete structure (undergraduate course for sophomore, 3 credits, TA: Dong-Pil Yu, Yong-Hoon Kim)",
             "comments": [
               "./htm/2019/spring/Discrete-structure_mid.html",
               "./htm/2019/spring/Discrete-structure_final.html"
             ]
           },
           {
-            "lecture": "Algorithm (undergraduate course for junior, 3 credits)",
+            "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Hye-Jin Kim, Hwi-Yeon Cho)",
             "comments": [
                 "./htm/2019/spring/Algorithm_mid.html", 
                 "./htm/2019/spring/Algorithm_final.html"
             ]
           },
           {
-            "lecture": "Application software practice (undergraduate course for junior, 3 credits)",
+            "lecture": "Application software practice (undergraduate course for junior, 3 credits, TA: Hyeon-Chang Lee, Hye-Jin Kim)",
             "comments": []
           },
           {
@@ -84,11 +84,11 @@
         "semester": "Fall (4.41/5.0 for undergraduate lectures)",
         "lectures": [
           {
-            "lecture": "Data structure (undergraduate course for sophomore, 3 credits)",
+            "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: Hyeon-Chang Lee, Dong-Pil Yu)",
             "comments": ["./htm/2018/fall/Data-structure_mid.html", "./htm/2018/fall/Data-structure_final.html"]
           },
           {
-            "lecture": "System Software practice (undergraduate course for sophomore, 2 credits)",
+            "lecture": "System Software practice (undergraduate course for sophomore, 2 credits, TA: Hye-Jin Kim, Hwi-Yeon Cho)",
             "comments": []
           },
           {
