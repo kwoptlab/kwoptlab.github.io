@@ -9,14 +9,15 @@
   "Refereed international journal papers": {
     "header": "Refereed International Journal Papers",
     "body": [
+      "Junghwan Lee and Yong-Hyuk Kim, Epistasis-Based Basis Estimation Method for Simplifying the Problem Space of an Evolutionary Search in Binary Representation, Complexity, Vol. 2018, Article ID 2095167 ",
       "Yong-Hyuk Kim,Yourim Yoon, Zong Woo Geem, A Comparison Study of Harmony Search and Genetic Algorithm for the Max-Cut Problem, Swarm and Evolutionary Computation, vol. 44, pp. 130-135, 2019.",
       "Seung-Hyun Moon, Yong-Hyuk Kim, Yong Hee Lee, and Byung-Ro Moon, Application of Machine Learning to An Early Warning System for Very Shortterm Heavy Rainfall, Journal of Hydrology, no. 568, pp. 1042-1054, 2019.",
       "Jae-Hyun Seo and Yong-Hyuk Kim, Machine-Learning Approach to Optimize SMOTE Ratio in Class Imbalance Dataset for Intrusion Detection, Computational Intelligence and Neuroscience Vol. 2018, Article ID 9704672, 11 pages, 2018.",
       "Min-Ki Lee, Seung-Hyun Moon, Yourim Yoon, Yong-Hyuk Kim, and Byung-Ro Moon, Detecting Anomalies in Meteorological Data Using Support Vector Regression, Advances in Meteorology, Vol. 2018, Article ID 5439256, 14 pages, 2018",
       "Ji-Hun Ha, Yong-Hyuk Kim , Hyo-Hyuc Im, Na-Young Kim, Sangjin Sim, Yourim Yoon, Error Correction of Meteorological Data Obtained with Mini-AWSs Based on Machine Learning, Advances in Meteorology, Volume 2018, Article ID 7210137, 8 pages, 2018.",
       "Yong-Hyuk Kim and Seok-Joong Kang, Optimization by Simulated Catalytic Reaction: Application to Graph Bisection, KSII Transaction on Internet and Information Systems, vol. 12, no. 5, pp. 2162-2176, 2018.",
-      "Yong-Wook Nam and Yong-Hyuk Kim, Prediction of Drifter Trajectory Using Evolutionary Computation, Discrete Dynamics in Nature and Society Volume 2018, Article ID 6848745, 2018.",
-      "Hye-Jin Kim and Yong-Hyuk Kim, Classifying Copyrighted Designs through Convolutional Neural Networks, International Journal of Applied Engineering Research Volume 13, Number 1 pp. 590-597, 2018.",
+      "Yong-Wook Nam and Yong-Hyuk Kim, Prediction of Drifter Trajectory Using Evolutionary Computation, Discrete Dynamics in Nature and Society, Vol 2018, Article ID 6848745, 2018.",
+      "Hye-Jin Kim and Yong-Hyuk Kim, Classifying Copyrighted Designs through Convolutional Neural Networks, International Journal of Applied Engineering Research, Vol. 13, Number 1 pp. 590-597, 2018.",
       "Jae-Hyun Seo, Yourim Yoon and Yong-Hyuk Kim, Coverage problem in camera-based sensor networks using the CUDA platform, International Journal of Distributed Sensor Networks 2017, Vol. 13(12), 2017.",
       "Hye-Jin Kim and Yong-Hyuk Kim, Recent Researches on Application and Influence of Twitter, International Journal of Applied Engineering Research Volume 11, Number 11 pp 7501-7504, 2016.",
       "Hye-Jin Kim and Yong-Hyuk Kim, Efficient Methods for Detecting Spam through Analyzing Tweets, International Journal of Applied Engineering Research Volume 11, Number 15 pp 8448-8451, 2016.",
@@ -69,7 +70,12 @@
   "refereed international conference papers": {
     "header": "Refereed International Conference Papers",
     "body": [
-      "Yong-Wook Nam and Yong-Hyuk Kim, Automatic Jazz Melody Composition through a Learning-based Genetic Algorithm, EvoMUSART '19, Leipzig, Germany, 2019 (accepted). ",
+      "Hyeon-Chang Lee and Yong-Hyuk Kim, Visualizing Swarm Behavior with a Particle Density Map, GECCO ’19, Prague, Czech Republic, pp. 415-416, 2019.",
+      "Hye-Jin Kim, Junghwan Lee, Jong-Hwui Yun, and Yong-Hyuk Kim, Optimal Equipment Assignment for Oil Spill Response Using a Genetic Algorithm, GECCO ’19, Prague, Czech Republic, pp. 375-376, 2019.",
+      "Dong-Pil Yu and Yong-Hyuk Kim, Predictability on Performance of Surrogate-assisted Evolutionary Algorithm According to Problem Dimension, GECCO ’19, Prague, Czech Republic, pp. 91-92, 2019.",
+      "Yong-Hoon Kim, Junghwan Lee, and Yong-Hyuk Kim, Predictive Model for Epistasis-based Basis Evaluation on Pseudo-Boolean Function Using Deep Neural Networks, GECCO ’19, Prague, Czech Republic, pp. 61-62, 2019.",
+      "Hwi-Yeon Cho and Yong-Hyuk Kim, Stabilized Training of Generative Adversarial Networks by a Genetic Algorithm, GECCO ’19, Prague, Czech Republic, pp. 51-52, 2019.",
+      "Yong-Wook Nam and Yong-Hyuk Kim, Automatic Jazz Melody Composition through a Learning-based Genetic Algorithm, EvoMUSART '19, Leipzig, Germany, pp. 217-233,2019. 2019. ",
       "Hye-Jin Kim, Yong-Hyuk Kim, Recent Progress on Graph Partitioning Problems Using Evolutionary Computation,  International Conference on Fuzzy Theory and Its Applications, iFUZZY, pp. 354-355, 2018.",
       "Hwi-Yeon Cho, Hye-Jin Kim, Yong-Hyuk Kim, Parameter Space Analysis of Genetic Algorithm Using Support Vector Regression , GECCO ’18 Companion, Kyoto, Japan, 2018. ",
       "Hyeon-Chang Lee, Dong-Pil Yu, Yong-Hyuk Kim, On the Hardness of Parameter Optimiaztion of Convolution Neural Networks Using Algorithm and Machine Learning, GECCO ’18 Companion, Kyoto, Japan, 2018. ",
@@ -155,7 +161,9 @@
   "refereed domestic journal papers": {
     "header": "Refereed Domestic Journal Papers",
     "body": [
-      "Gyoung-Do Kim and Yong-Hyuk Kim, Improved Correction of Drifter Data Using Deep Neural Networks, Journal of Korean Institute of Intelligent Systems Vol. 28, No. 5, pp. 443-449, 2018.",
+      "Hye-Jin Kim and Yong-Hyuk Kim, Optimization of Weapon Target Assignment Using a Genetic Algorithm, Journal of Korean Institute of Intelligent Systems, Vol. 29, No. 3, pp. 176-181, 2019.",
+      "Hye-Jin Kim, Hyeon Soo Lee, Byung Jin Choi, and Yong-Hyuk Kim, Machine Learning-based Quality Control and Error Correction Using Homogeneous Temporal Data Collected by IoT Sensors, Journal of the Korea Convergence Society, Vol. 10, No. 4, pp. 17-23, 2019.",
+      "Gyoung-Do Kim and Yong-Hyuk Kim, Improved Correction of Drifter Data Using Deep Neural Networks, Journal of Korean Institute of Intelligent Systems, Vol. 28, No. 5, pp. 443-449, 2018.",
       "Hyeon-Chang Lee, Dong-Pil Yu, Ga-Bin Jung, Yong-Wook Nam, and Yong-Hyuk Kim, Natural Language Processing-based Personalized Twitter Recommendation System, Journal of the Korea Convergence Society Vol. 9. No. 12, pp. 39-45, 2018.",
       "Jung-Hwan Lee, Yong-Hyuk Kim, Yong Hee Lee, Application of Machine Learning to Detect Meteorological Phenomena Using Ceilometer Data, Asia-pacific Journal of Multimedia Services Convergent with Art, Humanities, and Sociology, Vol.8, No.7, pp. 739-748, 2018",
       "Hwi-Yeon Cho, Yong-Hyuk Kim, Hyo-Hyuk Im, Forecast of Wind-Shear Alert Using Deep Neural Networks, Asia-pacific Journal of Multimedia Services Convergent with Art, Humanities, and Sociology, Vol.8, No.7, pp. 749-757, 2018",
