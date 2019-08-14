@@ -7,11 +7,17 @@
         "lectures": [
           {
             "lecture": "이산 구조 (학부과정 2학년, 3학점)",
-            "comments": []
+            "comments": [
+              "./htm/2019/spring/Discrete-structure_mid.html",
+              "./htm/2019/spring/Discrete-structure_final.html"
+            ]
           },
           {
             "lecture": "알고리즘 (학부과정 3학년, 3학점)",
-            "comments": []
+            "comments": [
+                 "./htm/2019/spring/Algorithm_mid.html", 
+                "./htm/2019/spring/Algorithm_final.html"
+            ]
           },
           {
             "lecture": "응용 소프트웨어 실습 (학부과정 3학년, 3학점)",
@@ -19,6 +25,25 @@
           },
           {
             "lecture": "진화 연산 (대학원 과정, 3학점)",
+            "comments": [
+                "./htm/2019/spring/Evolutionary-computation.html"
+            ]
+          }
+        ]
+      },
+      {
+        "semester": "2학기",
+        "lectures": [
+          {
+            "lecture": "자료구조 (학부과정 2학년, 3학점)",
+            "comments": []
+          },
+          {
+            "lecture": "자료구조 실습 (학부과정 2학년, 3학점)",
+            "comments": []
+          },
+          {
+            "lecture": "패턴인식특론 (대학원 과정, 3 학점)",
             "comments": []
           }
         ]
@@ -40,7 +65,10 @@
           },
           {
             "lecture": "알고리즘 (학부과정 3학년, 3학점, TA: 김혜진, 조휘연) (4.64/5.0)",
-            "comments": ["./htm/2018/spring/Algorithm_mid.html", "./htm/2018/spring/Algorithm_final.html"]
+            "comments": [
+                "./htm/2018/spring/Algorithm_mid.html", 
+                "./htm/2018/spring/Algorithm_final.html"
+            ]
           },
           {
             "lecture": "응용 소프트웨어 실습 (학부과정 3학년, 3학점, TA: 이정환, 김혜진)",
