@@ -3,17 +3,17 @@
     "year": "2019",
     "semesters": [
       {
-        "semester": "1학기",
+        "semester": "1학기 (학부 강의평가 점수: 4.46/5.0)",
         "lectures": [
           {
-            "lecture": "이산 구조 (학부과정 2학년, 3학점, TA: 유동필, 김용훈)",
+            "lecture": "이산 구조 (학부과정 2학년, 3학점, TA: 유동필, 김용훈) (4.51/5.0)",
             "comments": [
               "./htm/2019/spring/Discrete-structure_mid.html",
               "./htm/2019/spring/Discrete-structure_final.html"
             ]
           },
           {
-            "lecture": "알고리즘 (학부과정 3학년, 3학점, TA; 김혜진, 조휘연)",
+            "lecture": "알고리즘 (학부과정 3학년, 3학점, TA; 김혜진, 조휘연) (4.42/5.0)",
             "comments": [
                  "./htm/2019/spring/Algorithm_mid.html", 
                 "./htm/2019/spring/Algorithm_final.html"

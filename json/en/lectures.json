@@ -3,17 +3,17 @@
     "year": "2019",
     "semesters": [
       {
-        "semester": "Spring",
+        "semester": "Spring(4.46/5.0 for undergraduate lectures)",
         "lectures": [
           {
-            "lecture": "Discrete structure (undergraduate course for sophomore, 3 credits, TA: Dong-Pil Yu, Yong-Hoon Kim)",
+            "lecture": "Discrete structure (undergraduate course for sophomore, 3 credits, TA: Dong-Pil Yu, Yong-Hoon Kim) (4.51/5.0)",
             "comments": [
               "./htm/2019/spring/Discrete-structure_mid.html",
               "./htm/2019/spring/Discrete-structure_final.html"
             ]
           },
           {
-            "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Hye-Jin Kim, Hwi-Yeon Cho)",
+            "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Hye-Jin Kim, Hwi-Yeon Cho) (4.42/5.0)",
             "comments": [
                 "./htm/2019/spring/Algorithm_mid.html", 
                 "./htm/2019/spring/Algorithm_final.html"
