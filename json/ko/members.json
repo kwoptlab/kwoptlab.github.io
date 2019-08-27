@@ -40,17 +40,6 @@
                 }
             },
             {
-                "img": "./img/members/YongWook.png",
-                "name": "남용욱",
-                "role": "박사과정 수료",
-                "dept": "광운대학교 컴퓨터과학과",
-                "email": "mitssi@kw.ac.kr",
-                "home": "",
-                "sns": {
-                    "scholar": "https://scholar.google.com/citations?hl=ko&user=VHZll_cAAAAJ"
-                }
-            },
-            {
                 "img": "./img/members/HyeonChang.jpg",
                 "name": "이현창",
                 "role": "학석사연계과정",
@@ -121,6 +110,17 @@
                 "sns": {}
             },
             {
+                "img": "./img/members/YongWook.png",
+                "name": "남용욱",
+                "role": "박사",
+                "dept": "광운대학교 컴퓨터과학과",
+                "email": "mitssi@kw.ac.kr",
+                "home": "",
+                "sns": {
+                    "scholar": "https://scholar.google.com/citations?hl=ko&user=VHZll_cAAAAJ"
+                }
+            },
+            {
                 "img": "./img/members/SooYoung.jpg",
                 "name": "박수영",
                 "role": "석사 / 포스코 ICT",
@@ -150,7 +150,7 @@
             {
                 "img": "./img/members/JungHwan.png",
                 "name": "이정환",
-                "role": "석사",
+                "role": "석사 / 삼성 SDS",
                 "dept": "광운대학교 컴퓨터과학과",
                 "email": "jazz4rabbit@kw.ac.kr",
                 "home": "",
