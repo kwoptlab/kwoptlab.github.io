@@ -1,5 +1,35 @@
 [
   {
+    "year": "2020",
+    "semesters": [
+      {
+        "semester": "Spring",
+        "lectures": [
+          {
+            "lecture": "Freshman seminars (undergraduate course for freshman, 1 credit)",
+            "comments": []
+          },
+          {
+            "lecture": "Discrete mathematics (undergraduate course for sophomore, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Algorithm (undergraduate course for junior, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Application software practice (undergraduate course for junior, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Topics in information retrieval (graduate course, 3 credits)",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
     "year": "2019",
     "semesters": [
       {
@@ -15,8 +45,8 @@
           {
             "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Hye-Jin Kim, Hwi-Yeon Cho) (4.42/5.0)",
             "comments": [
-                "./htm/2019/spring/Algorithm_mid.html", 
-                "./htm/2019/spring/Algorithm_final.html"
+              "./htm/2019/spring/Algorithm_mid.html",
+              "./htm/2019/spring/Algorithm_final.html"
             ]
           },
           {
@@ -25,9 +55,7 @@
           },
           {
             "lecture": "Evolutionary computation (graduate course, 3 credits)",
-            "comments": [
-                "./htm/2019/spring/Evolutionary-computation.html"
-            ]
+            "comments": ["./htm/2019/spring/Evolutionary-computation.html"]
           }
         ]
       },
@@ -66,8 +94,8 @@
           {
             "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Hye-Jin Kim, Hwi-Yeon Cho) (4.64/5.0)",
             "comments": [
-                "./htm/2018/spring/Algorithm_mid.html", 
-                "./htm/2018/spring/Algorithm_final.html"
+              "./htm/2018/spring/Algorithm_mid.html",
+              "./htm/2018/spring/Algorithm_final.html"
             ]
           },
           {
@@ -85,7 +113,10 @@
         "lectures": [
           {
             "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: Hyeon-Chang Lee, Dong-Pil Yu)",
-            "comments": ["./htm/2018/fall/Data-structure_mid.html", "./htm/2018/fall/Data-structure_final.html"]
+            "comments": [
+              "./htm/2018/fall/Data-structure_mid.html",
+              "./htm/2018/fall/Data-structure_final.html"
+            ]
           },
           {
             "lecture": "System Software practice (undergraduate course for sophomore, 2 credits, TA: Hye-Jin Kim, Hwi-Yeon Cho)",
@@ -114,7 +145,10 @@
           },
           {
             "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Chan-Jae Lee) (4.55/5.0)",
-            "comments": ["./htm/2017/spring/Algorithm_mid.htm", "./htm/2017/spring/Algorithm_final.htm"]
+            "comments": [
+              "./htm/2017/spring/Algorithm_mid.htm",
+              "./htm/2017/spring/Algorithm_final.htm"
+            ]
           },
           {
             "lecture": "Application software practice (undergraduate course for junior, 3 credits, TA: Gyoung-Do Kim and Jung-Hwan Lee)",
@@ -131,7 +165,10 @@
         "lectures": [
           {
             "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: Jung-Hwan Lee, Chan-Jae Lee) (4.51/5.0)",
-            "comments": ["./htm/2017/fall/Data-structure_mid.htm", "./htm/2017/fall/Data-structure_final.htm"]
+            "comments": [
+              "./htm/2017/fall/Data-structure_mid.htm",
+              "./htm/2017/fall/Data-structure_final.htm"
+            ]
           },
           {
             "lecture": "System software practice(undergraduate course for sophomore, 2 credits, TA: Kyung-Do Kim, Wan-Su Ha)",
@@ -180,7 +217,10 @@
         "lectures": [
           {
             "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: Gyoung-Do Kim) (4.48/5.0)",
-            "comments": ["./htm/2016/fall/Data-structure_mid.htm", "./htm/2016/fall/Data-structure_final.htm"]
+            "comments": [
+              "./htm/2016/fall/Data-structure_mid.htm",
+              "./htm/2016/fall/Data-structure_final.htm"
+            ]
           },
           {
             "lecture": "Software practice 2 (undergraduate course for sophomore, 2 credits, TA: Yong-Wook Nam and Gyoung-Do Kim)",
@@ -188,7 +228,10 @@
           },
           {
             "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Jihoon Ha) (4.43/5.0)",
-            "comments": ["./htm/2016/fall/Algorithms_mid.htm", "./htm/2016/fall/Algorithms_mid_final.htm"]
+            "comments": [
+              "./htm/2016/fall/Algorithms_mid.htm",
+              "./htm/2016/fall/Algorithms_mid_final.htm"
+            ]
           },
           {
             "lecture": "Algorithm (graduate course, 3 credits)",
@@ -233,7 +276,10 @@
         "lectures": [
           {
             "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: June-Yeop Lee) (4.57/5.0) *Selected as one of the 32 excellent lectures among 1,441 lectures by ACE committee",
-            "comments": ["./htm/2015/fall/Data-structure_mid.htm", "./htm/2015/fall/Data-structure_final.htm"]
+            "comments": [
+              "./htm/2015/fall/Data-structure_mid.htm",
+              "./htm/2015/fall/Data-structure_final.htm"
+            ]
           },
           {
             "lecture": "Software practice 2 (undergraduate course for sophomore, 2 credits, TA: Yong-Wook Nam and June-Yeop Lee)",
@@ -241,7 +287,10 @@
           },
           {
             "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Ji-Hoon Ha) (4.41/5.0)",
-            "comments": ["./htm/2015/fall/Algorithms_mid.htm", "./htm/2015/fall/Algorithms_final.htm"]
+            "comments": [
+              "./htm/2015/fall/Algorithms_mid.htm",
+              "./htm/2015/fall/Algorithms_final.htm"
+            ]
           },
           {
             "lecture": "Special Topics in Pattern Recognition (graduate course, 3 credits)",
@@ -286,7 +335,10 @@
         "lectures": [
           {
             "lecture": "Data structure (undergraduate course for sophomore, 3 credits, TA: Yong-Wook Nam and Dong-won Kim)",
-            "comments": ["./htm/2014/fall/Data-structure_mid.htm", "./htm/2014/fall/Data-structure_final.htm"]
+            "comments": [
+              "./htm/2014/fall/Data-structure_mid.htm",
+              "./htm/2014/fall/Data-structure_final.htm"
+            ]
           },
           {
             "lecture": "Software practice 2 (undergraduate course for sophomore, 2 credits, TA: Yong-Wook Nam)",
@@ -294,7 +346,10 @@
           },
           {
             "lecture": "Algorithm (undergraduate course for junior, 3 credits, TA: Eun-Sol Ko)",
-            "comments": ["./htm/2014/fall/Algorithms_mid.htm", "./htm/2014/fall/Algorithms_final.htm"]
+            "comments": [
+              "./htm/2014/fall/Algorithms_mid.htm",
+              "./htm/2014/fall/Algorithms_final.htm"
+            ]
           },
           {
             "lecture": "Algorithm (graduate course, 3 credits)",
