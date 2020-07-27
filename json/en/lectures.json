@@ -26,6 +26,27 @@
             "comments": []
           }
         ]
+      },
+      {
+        "semester": "Fall",
+        "lectures": [
+          {
+            "lecture": "Data structure (undergraduate course for sophomore, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Data structure practice (undergraduate course for sophomore, 2 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Career Development and Employment Strategies  (undergraduate course for junior, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Algorithm design and analysis (graduate course, 3 credits)",
+            "comments": []
+          }
+        ]
       }
     ]
   },
