@@ -75,7 +75,7 @@
   "refereed international conference papers": {
     "header": "Refereed International Conference Papers",
     "body": [
-       "Choong-Ki Kim, Do-Youn Kim, Yong-Hyuk Kim, and Jeong-Hwan Oh, Use of Machine Learning Algorisms to Improve Oil Spill Trajectory Prediction in a Macro-tidal Environment International Oil Spill Conference, 2020.",
+      "Choong-Ki Kim, Do-Youn Kim, Yong-Hyuk Kim, and Jeong-Hwan Oh, Use of Machine Learning Algorisms to Improve Oil Spill Trajectory Prediction in a Macro-tidal Environment International Oil Spill Conference, 2020.",
       "Dong-Hee Cho and Yong-Hyuk Kim, A Daily Stock Index Predictor Using Feature Selection Based on a Genetic Wrapper, In Proceedings of the Genetic and Evolutionary Computation Conference Com- panion, ACM SIGEVO, pp. 31-32, 2020.",
       "Dong-Pil Yu and Yong-Hyuk Kim, On the Co-authorship Network in Evolutionary Computation, In Proceedings of the Genetic and Evolutionary Computation Conference Companion, ACM SIGEVO, pp. 61-62, 2020.",
       "Hwi-Yeon Cho and Yong-Hyuk Kim, A Genetic Algorithm to Optimize SMOTE and GAN Ratios in Class Imbalanced Datasets, In Proceedings of the Genetic and Evolutionary Computation Conference Companion, ACM SIGEVO, pp. 33-34, 2020.",
@@ -177,10 +177,10 @@
   "refereed domestic journal papers": {
     "header": "Refereed Domestic Journal Papers",
     "body": [
-      "Hye-Jin Kim and Yong-Hyuk Kim, Distribution Analysis of Optimal Equipment Assignment Using a Genetic Algorithm, Journal of the Korea Convergence Society, Vol. 11, No. 4, pp. 11-16, 2020. (corresponding author)",
-      "Hyeon-Chang Lee and Yong-Hyuk Kim, Oil Spill Visualization and Particle Matching Algorithm, Journal of the Korea Convergence Society, Vol. 11, No. 3, pp. 53-59, 2020. (corresponding author)",
-      "Dong-Pil Yu and Yong-Hyuk Kim, Effect of Discrete Walsh Transform in Metamodel-assisted Ge- netic Algorithms, Journal of the Korea Convergence Society, Vol. 10. No. 12, pp. 29-34, 2019. (corresponding author)",
-      "Dong-Hee Cho, Yong-Wook Nam, Hyun-Chang Lee, and Yong-Hyuk Kim, Image Mood Classification Using Deep CNN and Its Application to Automatic Video Generation, Journal of the Korea Convergence Society, Vol. 10. No. 9, pp. 23-29, 2019. (corresponding author)",
+      "Hye-Jin Kim and Yong-Hyuk Kim, Distribution Analysis of Optimal Equipment Assignment Using a Genetic Algorithm, Journal of the Korea Convergence Society, Vol. 11, No. 4, pp. 11-16, 2020.",
+      "Hyeon-Chang Lee and Yong-Hyuk Kim, Oil Spill Visualization and Particle Matching Algorithm, Journal of the Korea Convergence Society, Vol. 11, No. 3, pp. 53-59, 2020.",
+      "Dong-Pil Yu and Yong-Hyuk Kim, Effect of Discrete Walsh Transform in Metamodel-assisted Ge- netic Algorithms, Journal of the Korea Convergence Society, Vol. 10. No. 12, pp. 29-34, 2019.",
+      "Dong-Hee Cho, Yong-Wook Nam, Hyun-Chang Lee, and Yong-Hyuk Kim, Image Mood Classification Using Deep CNN and Its Application to Automatic Video Generation, Journal of the Korea Convergence Society, Vol. 10. No. 9, pp. 23-29, 2019.",
       "Hye-Jin Kim and Yong-Hyuk Kim, Optimization of Weapon Target Assignment Using a Genetic Algorithm, Journal of Korean Institute of Intelligent Systems, Vol. 29, No. 3, pp. 176-181, 2019.",
       "Hye-Jin Kim, Hyeon Soo Lee, Byung Jin Choi, and Yong-Hyuk Kim, Machine Learning-based Quality Control and Error Correction Using Homogeneous Temporal Data Collected by IoT Sensors, Journal of the Korea Convergence Society, Vol. 10, No. 4, pp. 17-23, 2019.",
       "Gyoung-Do Kim and Yong-Hyuk Kim, Improved Correction of Drifter Data Using Deep Neural Networks, Journal of Korean Institute of Intelligent Systems Vol. 28, No. 5, pp. 443-449, 2018.",
