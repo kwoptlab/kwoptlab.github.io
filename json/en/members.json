@@ -36,18 +36,13 @@
         "sns": {}
       },
       {
-        "img": "./img/members/HwiYeon.png",
-        "name": "Cho Hwi-Yeon",
-        "role": "Master Student",
-        "dept": "Department of Computer Science at KwangWoon Univ.",
-        "email": "hwyn.cho@gmail.com",
+        "img": "./img/members/SeungSoo.jpg",
+        "name": "Shin Seung-Soo",
+        "role": "Linked BS/MS Program",
+        "dept": "Department of Software at KwangWoon Univ.",
+        "email": "tmd0707@naver.com",
         "home": "",
-        "sns": {
-          "scholar": "https://scholar.google.com/citations?hl=ko&user=k6kW7AUAAAAJ",
-          "facebook": "https://www.facebook.com/hwyn.cho/",
-          "instagram": "https://www.instagram.com/hwyn.cho/",
-          "github": "https://github.com/hwyncho/"
-        }
+        "sns": {}
       }
     ]
   },
@@ -166,6 +161,20 @@
         "sns": {
           "scholar": "https://scholar.google.com/citations?view_op=list_works&hl=ko&user=KYBjwQMAAAAJ",
           "facebook": "https://www.facebook.com/qzecwxad"
+        }
+      },
+      {
+        "img": "./img/members/HwiYeon.png",
+        "name": "Cho Hwi-Yeon",
+        "role": "Master / TmaxData",
+        "dept": "Department of Computer Science at KwangWoon Univ.",
+        "email": "hwyn.cho@gmail.com",
+        "home": "",
+        "sns": {
+          "scholar": "https://scholar.google.com/citations?hl=ko&user=k6kW7AUAAAAJ",
+          "facebook": "https://www.facebook.com/hwyn.cho/",
+          "instagram": "https://www.instagram.com/hwyn.cho/",
+          "github": "https://github.com/hwyncho/"
         }
       },
       {
