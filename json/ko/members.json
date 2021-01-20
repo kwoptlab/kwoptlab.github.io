@@ -15,18 +15,6 @@
         }
       },
       {
-        "img": "./img/members/YongHoon.jpg",
-        "name": "김용훈",
-        "role": "석사과정",
-        "dept": "광운대학교 컴퓨터과학과",
-        "email": "hia5314@gmail.com",
-        "home": "",
-        "sns": {
-          "scholar": "https://scholar.google.co.kr/citations?view_op=list_works&hl=en&user=Ilo0EFIAAAAJ",
-          "github": "https://github.com/hia5314"
-        }
-      },
-      {
         "img": "./img/members/DongHee.jpg",
         "name": "조동희",
         "role": "학석사연계과정",
@@ -57,6 +45,18 @@
         "email": "rilyaus.gd@gmail.com",
         "home": "",
         "sns": {}
+      },
+      {
+        "img": "./img/members/YongHoon.jpg",
+        "name": "김용훈",
+        "role": "석사 / NHN",
+        "dept": "광운대학교 컴퓨터과학과",
+        "email": "hia5314@gmail.com",
+        "home": "",
+        "sns": {
+          "scholar": "https://scholar.google.co.kr/citations?view_op=list_works&hl=en&user=Ilo0EFIAAAAJ",
+          "github": "https://github.com/hia5314"
+        }
       },
       {
         "img": "./img/members/HyeJin.png",

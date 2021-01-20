@@ -14,18 +14,7 @@
           "dblp": "http://dblp.org/pers/hd/k/Kim:Yong=Hyuk"
         }
       },
-      {
-        "img": "./img/members/YongHoon.jpg",
-        "name": "Kim Yong Hoon",
-        "role": "Master Student",
-        "dept": "Department of Computer Science at KwangWoon Univ.",
-        "email": "hia5314@gmail.com",
-        "home": "",
-        "sns": {
-          "scholar": "https://scholar.google.co.kr/citations?view_op=list_works&hl=en&user=Ilo0EFIAAAAJ",
-          "github": "https://github.com/hia5314"
-        }
-      },
+
       {
         "img": "./img/members/DongHee.jpg",
         "name": "Cho Dong-Hee",
@@ -57,6 +46,18 @@
         "email": "rilyaus.gd@gmail.com",
         "home": "",
         "sns": {}
+      },
+      {
+        "img": "./img/members/YongHoon.jpg",
+        "name": "Kim Yong Hoon",
+        "role": "Master / NHN",
+        "dept": "Department of Computer Science at KwangWoon Univ.",
+        "email": "hia5314@gmail.com",
+        "home": "",
+        "sns": {
+          "scholar": "https://scholar.google.co.kr/citations?view_op=list_works&hl=en&user=Ilo0EFIAAAAJ",
+          "github": "https://github.com/hia5314"
+        }
       },
       {
         "img": "./img/members/HyeJin.png",
