@@ -15,21 +15,22 @@
         }
       },
 
-      {
-        "img": "./img/members/DongHee.jpg",
-        "name": "Cho Dong-Hee",
-        "role": "Linked BS/MS Program",
-        "dept": "Department of Computer Science at KwangWoon Univ.",
-        "email": "whehd16@naver.com",
-        "home": "",
-        "sns": {}
-      },
+
       {
         "img": "./img/members/SeungSoo.png",
         "name": "Shin Seung-Soo",
         "role": "Linked BS/MS Program",
-        "dept": "Department of Software at KwangWoon Univ.",
+        "dept": "Department of Computer Science at KwangWoon Univ.",
         "email": "tmd0707@naver.com",
+        "home": "",
+        "sns": {}
+      },
+      {
+        "img": "./img/members/WhaKyung.jpg",
+        "name": "Yu Wha-Kyung",
+        "role": "MS/DR Program",
+        "dept": "Department of Computer Science at KwangWoon Univ.",
+        "email": "9380187@naver.com",
         "home": "",
         "sns": {}
       }
@@ -177,6 +178,15 @@
           "instagram": "https://www.instagram.com/hwyn.cho/",
           "github": "https://github.com/hwyncho/"
         }
+      },
+            {
+        "img": "./img/members/DongHee.png",
+        "name": "Cho Dong-Hee",
+        "role": "Master / MBC",
+        "dept": "Department of Computer Science at KwangWoon Univ.",
+        "email": "whehd16@naver.com",
+        "home": "",
+        "sns": {}
       },
       {
         "img": "./img/members/JiHoon.png",
