@@ -27,7 +27,7 @@
       },
       {
         "img": "./img/members/WhaKyung.jpg",
-        "name": "Yu Wha-Kyung",
+        "name": "Yu Seo-Ah",
         "role": "MS/DR Program",
         "dept": "Department of Computer Science at KwangWoon Univ.",
         "email": "9380187@naver.com",
@@ -96,7 +96,7 @@
       {
         "img": "./img/members/SooYoung.jpg",
         "name": "Park Soo-Young",
-        "role": "Master / POSCO ICT",
+        "role": "Master / E-mart",
         "dept": "Department of Embedded Software Engineering at KwangWoon Univ.",
         "email": "delphia@kw.ac.kr",
         "home": "",
@@ -147,7 +147,7 @@
       {
         "img": "./img/members/JoonYeop.jpg",
         "name": "Lee June-Yeop",
-        "role": "Master / ECMiner",
+        "role": "Master / Hyundai department store",
         "dept": "Department of Computer Science at KwangWoon Univ.",
         "email": "wonshout@gmail.com",
         "home": "",

@@ -25,7 +25,7 @@
       },
       {
         "img": "./img/members/WhaKyung.jpg",
-        "name": "유화경",
+        "name": "유서아",
         "role": "석박사통합과정",
         "dept": "광운대학교 컴퓨터과학과",
         "email": "9380187@naver.com",
@@ -94,7 +94,7 @@
       {
         "img": "./img/members/SooYoung.jpg",
         "name": "박수영",
-        "role": "석사 / 포스코 ICT",
+        "role": "석사 / 이마트",
         "dept": "광운대학교 임베디드소프트웨어학과",
         "email": "delphia@kw.ac.kr",
         "home": "",
@@ -145,7 +145,7 @@
       {
         "img": "./img/members/JoonYeop.jpg",
         "name": "이준엽",
-        "role": "석사 / 이씨마이너",
+        "role": "석사 / 현대백화점",
         "dept": "광운대학교 컴퓨터과학과",
         "email": "wonshout@gmail.com",
         "home": "",
