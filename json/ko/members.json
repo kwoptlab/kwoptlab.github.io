@@ -15,20 +15,20 @@
         }
       },
       {
-        "img": "./img/members/SeungSoo.png",
-        "name": "신승수",
-        "role": "학석사연계과정",
-        "dept": "광운대학교 컴퓨터과학과",
-        "email": "tmd0707@naver.com",
-        "home": "",
-        "sns": {}
-      },
-      {
         "img": "./img/members/WhaKyung.jpg",
         "name": "유서아",
         "role": "석박사통합과정",
         "dept": "광운대학교 컴퓨터과학과",
         "email": "9380187@naver.com",
+        "home": "",
+        "sns": {}
+      },
+      {
+        "img": "./img/members/SeungYeol.png",
+        "name": "홍승열",
+        "role": "석사과정",
+        "dept": "광운대학교 컴퓨터과학과",
+        "email": "ghdqkxk159@naver.com",
         "home": "",
         "sns": {}
       }
@@ -119,6 +119,15 @@
         "sns": {}
       },
       {
+        "img": "./img/members/SeungSoo.png",
+        "name": "신승수",
+        "role": "석사",
+        "dept": "광운대학교 컴퓨터과학과",
+        "email": "tmd0707@naver.com",
+        "home": "",
+        "sns": {}
+      },
+      {
         "img": "./img/members/DongPil.png",
         "name": "유동필",
         "role": "석사 / 티맥스데이터",
@@ -177,7 +186,7 @@
           "github": "https://github.com/hwyncho/"
         }
       },
-            {
+      {
         "img": "./img/members/DongHee.png",
         "name": "조동희",
         "role": "석사 / MBC",

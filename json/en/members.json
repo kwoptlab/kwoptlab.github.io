@@ -14,23 +14,21 @@
           "dblp": "http://dblp.org/pers/hd/k/Kim:Yong=Hyuk"
         }
       },
-
-
-      {
-        "img": "./img/members/SeungSoo.png",
-        "name": "Shin Seung-Soo",
-        "role": "Linked BS/MS Program",
-        "dept": "Department of Computer Science at KwangWoon Univ.",
-        "email": "tmd0707@naver.com",
-        "home": "",
-        "sns": {}
-      },
       {
         "img": "./img/members/WhaKyung.jpg",
         "name": "Yu Seo-Ah",
         "role": "MS/DR Program",
         "dept": "Department of Computer Science at KwangWoon Univ.",
         "email": "9380187@naver.com",
+        "home": "",
+        "sns": {}
+      }
+      {
+        "img": "./img/members/SeungYeol.png",
+        "name": "Hong Seung-Yeol",
+        "role": "Master Program",
+        "dept": "Department of Computer Science at KwangWoon Univ.",
+        "email": "ghdqkxk159@naver.com",
         "home": "",
         "sns": {}
       }
@@ -121,6 +119,15 @@
         "sns": {}
       },
       {
+        "img": "./img/members/SeungSoo.png",
+        "name": "Shin Seung-Soo",
+        "role": "Master",
+        "dept": "Department of Computer Science at KwangWoon Univ.",
+        "email": "tmd0707@naver.com",
+        "home": "",
+        "sns": {}
+      },
+      {
         "img": "./img/members/DongPil.png",
         "name": "Yu Dong-Pil",
         "role": "Master / TmaxData",
@@ -179,7 +186,7 @@
           "github": "https://github.com/hwyncho/"
         }
       },
-            {
+      {
         "img": "./img/members/DongHee.png",
         "name": "Cho Dong-Hee",
         "role": "Master / MBC",
