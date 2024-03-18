@@ -33,7 +33,7 @@
         "sns": {}
       },
       {
-        "img": "TaeHoon.png",
+        "img": "./img/members/TaeHoon.png",
         "name": "김태훈",
         "role": "학부연구생",
         "dept": "광운대학교 소프트웨어학부",
@@ -42,7 +42,7 @@
         "sns": {}
       },
       {
-        "img": "SoJung.png",
+        "img": "./img/members/SoJung.png",
         "name": "이소정",
         "role": "학부연구생",
         "dept": "광운대학교 소프트웨어학부",
