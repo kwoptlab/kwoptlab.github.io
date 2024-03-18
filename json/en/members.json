@@ -33,7 +33,7 @@
         "sns": {}
       },
       {
-        "img": "",
+        "img": "./img/members/TaeHoon.png",
         "name": "Kim Tae-Hoon",
         "role": "Undergraduate Research Program",
         "dept": "School of Software at KwangWoon Univ.",
@@ -42,7 +42,7 @@
         "sns": {}
       },
       {
-        "img": "",
+        "img": "./img/members/SoJung.png",
         "name": "Lee So-Jung",
         "role": "Undergraduate Research Program",
         "dept": "School of Software at KwangWoon Univ.",
