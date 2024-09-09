@@ -1,4 +1,109 @@
 [
+  {
+    "year": "2024",
+    "semesters": [
+      {
+        "semester": "1학기",
+        "lectures": [
+          {
+            "lecture": "알고리즘 (학부과정 3학년, 3학점)",
+            "comments": []
+          },
+          {
+            "lecture": "응용 소프트웨어 실습 (학부과정 3학년, 3학점)",
+            "comments": []
+          },
+          {
+            "lecture": "이산 구조 (학부과정 2학년, 3학점)",
+            "comments": []
+          },
+          {
+            "lecture": "알고리즘 특론 (대학원 과정, 3학점)",
+            "comments": []
+          },
+          {
+            "lecture": "논문 특별 연구 세미나 (대학원 과정, 1학점)",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "semester": "2학기",
+        "lectures": [
+          {
+            "lecture": "자료구조 (학부과정 2학년, 3학점)",
+            "comments": []
+          },
+          {
+            "lecture": "진로 탐색 및 설계 (학부과정 2학년, 1학점)",
+            "comments": []
+          },
+          {
+            "lecture": "알고리즘 설계와 분석 (대학원 과정, 3 학점)",
+            "comments": []
+          },
+          {
+            "lecture": "논문 특별 연구 세미나 (대학원 과정, 1학점)",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+      {
+    "year": "2023",
+    "semesters": [
+      {
+        "semester": "1학기",
+        "lectures": [{
+            "lecture": "알고리즘 (학부과정 3학년, 3학점)",
+            "comments": []
+          },
+          {
+            "lecture": "응용 소프트웨어 실습 (학부과정 3학년, 3학점)",
+            "comments": []
+          },
+          {
+            "lecture": "이산 구조 (학부과정 2학년, 3학점)",
+            "comments": []
+          },
+          {
+            "lecture": "논문 특별 연구 세미나 (대학원 과정, 1학점)",
+            "comments": []
+          },
+          {
+            "lecture": "패터인식 특론 (대학원 과정, 3학점)",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "semester": "2학기",
+        "lectures": [
+          {
+            "lecture": "자료구조 (학부과정 2학년, 3학점)",
+            "comments": []
+          },
+          {
+            "lecture": "자료구조실습 (학부과정 2학년, 3학점)",
+            "comments": []
+          },
+          {
+            "lecture": "진로 탐색 및 설계 (학부과정 2학년, 1학점)",
+            "comments": []
+          },
+          {
+            "lecture": "진화 연산 (대학원 과정, 3학점)",
+            "comments": []
+          },
+          {
+            "lecture": "논문 특별 연구 세미나 (대학원 과정, 1학점)",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
         {
     "year": "2022",
     "semesters": [
@@ -16,11 +121,11 @@
             "comments": []
           },
           {
-            "lecture": "자료구조실습 (학부과정 2학년, 3학점)",
+            "lecture": "자료구조 실습 (학부과정 2학년, 3학점)",
             "comments": []
           },
           {
-            "lecture": "알고리즘설계와분석 (대학원 과정, 3 학점)",
+            "lecture": "알고리즘 설계와 분석 (대학원 과정, 3 학점)",
             "comments": []
           }
         ]
