@@ -17,7 +17,7 @@
       {
         "img": "./img/members/WhaKyung.jpg",
         "name": "Yu Seo-Ah",
-        "role": "MS/DR Program",
+        "role": "Ph.D Student",
         "dept": "Department of Computer Science at KwangWoon Univ.",
         "email": "9380187@naver.com",
         "home": "",
@@ -26,7 +26,7 @@
       {
         "img": "./img/members/SeungYeol.png",
         "name": "Hong Seung-Yeol",
-        "role": "Master Program",
+        "role": "Master's Student",
         "dept": "Department of Computer Science at KwangWoon Univ.",
         "email": "ghdqkxk159@naver.com",
         "home": "",
@@ -35,18 +35,27 @@
       {
         "img": "./img/members/TaeHoon.png",
         "name": "Kim Tae-Hoon",
-        "role": "Undergraduate Research Program",
+        "role": "Master's Student",
         "dept": "School of Software at KwangWoon Univ.",
         "email": "kth851@naver.com",
         "home": "",
         "sns": {}
       },
       {
-        "img": "./img/members/SoJung.png",
+        "img": "./img/members/SoJung.jpeg",
         "name": "Lee So-Jung",
-        "role": "Undergraduate Research Program",
+        "role": "Master's Student",
         "dept": "School of Software at KwangWoon Univ.",
         "email": "sojung020924@kw.ac.kr",
+        "home": "",
+        "sns": {}
+      },
+      {
+        "img": "./img/members/TaeHun.jpeg",
+        "name": "Kim Tae-Hun",
+        "role": "Undergraduate Research Assistant",
+        "dept": "School of Software at KwangWoon Univ.",
+        "email": "toritori3434@naver.com",
         "home": "",
         "sns": {}
       }
