@@ -111,7 +111,10 @@
       {
         "semester": "Spring",
         "lectures": [
-
+          {
+            "lecture": "Seminar on Special Research on Papers (graduate course, 1 credit)",
+            "comments": []
+          }
         ]
       },
       {
@@ -127,6 +130,10 @@
           },
           {
             "lecture": "Algorithm design and analysis (graduate course, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Seminar on Special Research on Papers (graduate course, 1 credit)",
             "comments": []
           }
         ]
