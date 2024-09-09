@@ -35,18 +35,27 @@
       {
         "img": "./img/members/TaeHoon.png",
         "name": "김태훈",
-        "role": "학부연구생",
+        "role": "석사과정",
         "dept": "광운대학교 소프트웨어학부",
         "email": "kth851@naver.com",
         "home": "",
         "sns": {}
       },
       {
-        "img": "./img/members/SoJung.png",
+        "img": "./img/members/SoJung.jpeg",
         "name": "이소정",
-        "role": "학부연구생",
+        "role": "석사과정",
         "dept": "광운대학교 소프트웨어학부",
         "email": "sojung020924@kw.ac.kr",
+        "home": "",
+        "sns": {}
+      },
+      {
+        "img": "./img/members/TaeHun.jpeg",
+        "name": "김태훈",
+        "role": "학부연구생",
+        "dept": "광운대학교 소프트웨어학부",
+        "email": "toritori3434@naver.com",
         "home": "",
         "sns": {}
       }
