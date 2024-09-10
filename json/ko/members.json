@@ -58,6 +58,15 @@
         "email": "toritori3434@naver.com",
         "home": "",
         "sns": {}
+      },
+      {
+        "img": "./img/members/SeungSu.jpeg",
+        "name": "신승수",
+        "role": "학부연구생",
+        "dept": "광운대학교 소프트웨어학부",
+        "email": "youss1234@gmail.com",
+        "home": "",
+        "sns": {}
       }
     ]
   },
