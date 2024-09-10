@@ -20,10 +20,6 @@
             {
               "lecture": "Algorithm (graduate course, 3 credits)",
               "comments": []
-            },
-            {
-              "lecture": "Seminar on Special Research on Papers (graduate course, 1 credit)",
-              "comments": []
             }
           ]
         },
@@ -40,10 +36,6 @@
             },
             {
               "lecture": "Algorithm design and analysis (graduate course, 3 credits)",
-              "comments": []
-            },
-            {
-              "lecture": "Seminar on Special Research on Papers (graduate course, 1 credit)",
               "comments": []
             }
           ]
@@ -66,10 +58,6 @@
             },
             {
               "lecture": "Discrete mathematics (undergraduate course for sophomore, 3 credits)",
-              "comments": []
-            },
-            {
-              "lecture": "Seminar on Special Research on Papers (graduate course, 1 credit)",
               "comments": []
             },
             {
@@ -96,10 +84,6 @@
             {
               "lecture": "Evolutionary computation (graduate course, 3 credits)",
               "comments": []
-            },
-            {
-              "lecture": "Seminar on Special Research on Papers (graduate course, 1 credit)",
-              "comments": []
             }
           ]
         }
@@ -111,10 +95,6 @@
       {
         "semester": "Spring",
         "lectures": [
-          {
-            "lecture": "Seminar on Special Research on Papers (graduate course, 1 credit)",
-            "comments": []
-          }
         ]
       },
       {
@@ -130,10 +110,6 @@
           },
           {
             "lecture": "Algorithm design and analysis (graduate course, 3 credits)",
-            "comments": []
-          },
-          {
-            "lecture": "Seminar on Special Research on Papers (graduate course, 1 credit)",
             "comments": []
           }
         ]
