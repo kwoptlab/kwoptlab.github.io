@@ -58,6 +58,15 @@
         "email": "toritori3434@naver.com",
         "home": "",
         "sns": {}
+      },
+      {
+        "img": "./img/members/SeungSu.jpeg",
+        "name": "Shin Seung-Su",
+        "role": "Undergraduate Research Assistant",
+        "dept": "School of Software at KwangWoon Univ.",
+        "email": "youss1234@gmail.com",
+        "home": "",
+        "sns": {}
       }
     ]
   },
