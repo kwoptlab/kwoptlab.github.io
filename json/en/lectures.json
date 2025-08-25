@@ -1,5 +1,39 @@
 [
     {
+  "year": "2025",
+  "semesters": [
+    {
+      "semester": "Spring",
+      "lectures": [
+        {
+          "lecture": "Discrete Mathematics (undergraduate course for sophomore, 3 credits)",
+          "comments": []
+        },
+        {
+          "lecture": "Linux Practice (undergraduate course for sophomore, 3 credits)",
+          "comments": []
+        },
+        {
+          "lecture": "Algorithm (undergraduate course for junior, 2 credits)",
+          "comments": []
+        },
+        {
+          "lecture": "Application Software Practice (undergraduate course for junior, 3 credits)",
+          "comments": []
+        },
+        {
+          "lecture": "Evolutionary Computation (graduate course, 3 credits)",
+          "comments": []
+        },
+        {
+          "lecture": "Theory of Computation I (graduate course, 3 credits)",
+          "comments": []
+        }
+      ]
+    }
+  ]
+}, 
+    {
       "year": "2024",
       "semesters": [
         {
