@@ -67,6 +67,15 @@
         "email": "youss1234@gmail.com",
         "home": "",
         "sns": {}
+      },
+      {
+        "img": "./img/members/Junsang.jpg",
+        "name": "Kim Jun-Sang",
+        "role": "Undergraduate Researcher",
+        "dept": "School of Computer and Information Engineering at KwangWoon Univ.",
+        "email": "sjml2002@naver.com",
+        "home": "",
+        "sns": {}
       }
     ]
   },

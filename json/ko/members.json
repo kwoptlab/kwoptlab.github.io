@@ -67,6 +67,15 @@
         "email": "youss1234@gmail.com",
         "home": "",
         "sns": {}
+      },
+      {
+        "img": "./img/members/JunSang.jpg",
+        "name": "김준상",
+        "role": "학부 연구생",
+        "dept": "광운대학교 ",
+        "email": "sjml2002@naver.com",
+        "home": "",
+        "sns": {}
       }
     ]
   },
