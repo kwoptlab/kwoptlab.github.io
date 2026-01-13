@@ -1,5 +1,35 @@
 [
   {
+    "year": "2026",
+    "semesters": [
+      {
+        "semester": "1학기",
+        "lectures": [
+          {
+            "lecture": "이산 수학 (학부과정 2학년, 3학점)",
+            "comments": []
+          },
+          {
+            "lecture": "리눅스 활용 실습 (학부과정 2학년, 3학점)",
+            "comments": []
+          },
+          {
+            "lecture": "알고리즘 (학부과정 3학년, 3학점)",
+            "comments": []
+          },
+          {
+            "lecture": "알고리즘 설계와 분석 (대학원 과정, 3학점)",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "semester": "2학기",
+        "lectures": []
+      }
+    ]
+  },
+  {
     "year": "2025",
     "semesters": [
       {

@@ -1,141 +1,168 @@
 [
-    {
-  "year": "2025",
-  "semesters": [
-    {
-      "semester": "Spring",
-      "lectures": [
-        {
-          "lecture": "Discrete Mathematics (undergraduate course for sophomore, 3 credits)",
-          "comments": []
-        },
-        {
-          "lecture": "Linux Practice (undergraduate course for sophomore, 3 credits)",
-          "comments": []
-        },
-        {
-          "lecture": "Algorithm (undergraduate course for junior, 2 credits)",
-          "comments": []
-        },
-        {
-          "lecture": "Application Software Practice (undergraduate course for junior, 3 credits)",
-          "comments": []
-        },
-        {
-          "lecture": "Evolutionary Computation (graduate course, 3 credits)",
-          "comments": []
-        },
-        {
-          "lecture": "Theory of Computation I (graduate course, 3 credits)",
-          "comments": []
-        }
-      ]
-    },
-        {
-        "semester": "Fall",
-        "lectures": [
-         
-        ]
-      }
-  ]
-},
-    {
-      "year": "2024",
-      "semesters": [
-        {
-          "semester": "Spring",
-          "lectures": [
-            {
-              "lecture": "Algorithm (undergraduate course for junior, 3 credits)",
-              "comments": []
-            },
-            {
-              "lecture": "Application software practice (undergraduate course for junior, 3 credits)",
-              "comments": []
-            },
-            {
-              "lecture": "Discrete mathematics (undergraduate course for sophomore, 3 credits)",
-              "comments": []
-            },
-            {
-              "lecture": "Algorithm (graduate course, 3 credits)",
-              "comments": []
-            }
-          ]
-        },
-        {
-          "semester": "Fall",
-          "lectures": [
-            {
-              "lecture": "Data structure (undergraduate course for sophomore, 3 credits)",
-              "comments": []
-            },
-            {
-              "lecture": "Career Exploration and Design  (undergraduate course for sophomore, 1 credits)",
-              "comments": []
-            },
-            {
-              "lecture": "Algorithm design and analysis (graduate course, 3 credits)",
-              "comments": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "year": "2023",
-      "semesters": [
-        {
-          "semester": "Spring",
-          "lectures": [
-            {
-              "lecture": "Algorithm (undergraduate course for junior, 3 credits)",
-              "comments": []
-            },
-            {
-              "lecture": "Application software practice (undergraduate course for junior, 3 credits)",
-              "comments": []
-            },
-            {
-              "lecture": "Discrete mathematics (undergraduate course for sophomore, 3 credits)",
-              "comments": []
-            },
-            {
-              "lecture": "Special Topics in Pattern Recognition (graduate course, 3 credits)",
-              "comments": []
-            }
-          ]
-        },
-        {
-          "semester": "Fall",
-          "lectures": [
-            {
-              "lecture": "Data structure (undergraduate course for sophomore, 3 credits)",
-              "comments": []
-            },
-            {
-              "lecture": "Data structure practice (undergraduate course for sophomore, 2 credits)",
-              "comments": []
-            },
-            {
-              "lecture": "Career Exploration and Design  (undergraduate course for sophomore, 1 credits)",
-              "comments": []
-            },
-            {
-              "lecture": "Evolutionary computation (graduate course, 3 credits)",
-              "comments": []
-            }
-          ]
-        }
-      ]
-    },
-      {
-    "year": "2022",
+  {
+    "year": "2026",
     "semesters": [
       {
         "semester": "Spring",
         "lectures": [
+          {
+            "lecture": "Discrete Mathematics (undergraduate course for sophomore, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Linux Practice (undergraduate course for sophomore, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Algorithm (undergraduate course for junior, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Algorithm Design and Analysis (graduate course, 3 credits)",
+            "comments": []
+          }
         ]
+      },
+      {
+        "semester": "Fall",
+        "lectures": []
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "semesters": [
+      {
+        "semester": "Spring",
+        "lectures": [
+          {
+            "lecture": "Discrete Mathematics (undergraduate course for sophomore, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Linux Practice (undergraduate course for sophomore, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Algorithm (undergraduate course for junior, 2 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Application Software Practice (undergraduate course for junior, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Evolutionary Computation (graduate course, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Theory of Computation I (graduate course, 3 credits)",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "semester": "Fall",
+        "lectures": []
+      }
+    ]
+  },
+  {
+    "year": "2024",
+    "semesters": [
+      {
+        "semester": "Spring",
+        "lectures": [
+          {
+            "lecture": "Algorithm (undergraduate course for junior, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Application software practice (undergraduate course for junior, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Discrete mathematics (undergraduate course for sophomore, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Algorithm (graduate course, 3 credits)",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "semester": "Fall",
+        "lectures": [
+          {
+            "lecture": "Data structure (undergraduate course for sophomore, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Career Exploration and Design  (undergraduate course for sophomore, 1 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Algorithm design and analysis (graduate course, 3 credits)",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "semesters": [
+      {
+        "semester": "Spring",
+        "lectures": [
+          {
+            "lecture": "Algorithm (undergraduate course for junior, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Application software practice (undergraduate course for junior, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Discrete mathematics (undergraduate course for sophomore, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Special Topics in Pattern Recognition (graduate course, 3 credits)",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "semester": "Fall",
+        "lectures": [
+          {
+            "lecture": "Data structure (undergraduate course for sophomore, 3 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Data structure practice (undergraduate course for sophomore, 2 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Career Exploration and Design  (undergraduate course for sophomore, 1 credits)",
+            "comments": []
+          },
+          {
+            "lecture": "Evolutionary computation (graduate course, 3 credits)",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": "2022",
+    "semesters": [
+      {
+        "semester": "Spring",
+        "lectures": []
       },
       {
         "semester": "Fall",
@@ -156,7 +183,7 @@
       }
     ]
   },
-    {
+  {
     "year": "2021",
     "semesters": [
       {
@@ -186,8 +213,7 @@
       },
       {
         "semester": "Fall",
-        "lectures": [
-        ]
+        "lectures": []
       }
     ]
   },
@@ -268,7 +294,9 @@
           },
           {
             "lecture": "Evolutionary computation (graduate course, 3 credits)",
-            "comments": ["./htm/2019/spring/Evolutionary-computation.html"]
+            "comments": [
+              "./htm/2019/spring/Evolutionary-computation.html"
+            ]
           }
         ]
       },
