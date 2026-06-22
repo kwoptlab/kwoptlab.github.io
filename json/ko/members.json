@@ -33,24 +33,6 @@
         "sns": {}
       },
       {
-        "img": "./img/members/TaeHoon.png",
-        "name": "김태훈",
-        "role": "석사과정",
-        "dept": "광운대학교 컴퓨터과학과",
-        "email": "kth851@naver.com",
-        "home": "",
-        "sns": {}
-      },
-      {
-        "img": "./img/members/SoJung.jpeg",
-        "name": "이소정",
-        "role": "석사과정",
-        "dept": "광운대학교 컴퓨터과학과",
-        "email": "sojung020924@kw.ac.kr",
-        "home": "",
-        "sns": {}
-      },
-      {
         "img": "./img/members/TaeHun.jpeg",
         "name": "김태훈",
         "role": "석사과정",
@@ -246,6 +228,24 @@
         "role": "석사 / 한국해양기상기술",
         "dept": "광운대학교 임베디드소프트웨어학과",
         "email": "007bigboy@hanmail.net",
+        "home": "",
+        "sns": {}
+      },
+      {
+        "img": "./img/members/TaeHoon.png",
+        "name": "김태훈",
+        "role": "석사 / 한국전자통신연구원",
+        "dept": "광운대학교 컴퓨터과학과",
+        "email": "kth851@naver.com",
+        "home": "",
+        "sns": {}
+      },
+      {
+        "img": "./img/members/SoJung.jpeg",
+        "name": "이소정",
+        "role": "석사 / 옵티브",
+        "dept": "광운대학교 컴퓨터과학과",
+        "email": "sojung020924@kw.ac.kr",
         "home": "",
         "sns": {}
       }

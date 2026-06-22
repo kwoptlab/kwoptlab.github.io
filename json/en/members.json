@@ -33,24 +33,6 @@
         "sns": {}
       },
       {
-        "img": "./img/members/TaeHoon.png",
-        "name": "Kim Tae-Hoon",
-        "role": "Master's Student",
-        "dept": "Department of Computer Science at KwangWoon Univ.",
-        "email": "kth851@naver.com",
-        "home": "",
-        "sns": {}
-      },
-      {
-        "img": "./img/members/SoJung.jpeg",
-        "name": "Lee So-Jung",
-        "role": "Master's Student",
-        "dept": "Department of Computer Science at KwangWoon Univ.",
-        "email": "sojung020924@kw.ac.kr",
-        "home": "",
-        "sns": {}
-      },
-      {
         "img": "./img/members/TaeHun.jpeg",
         "name": "Kim Tae-Hun",
         "role": "Master's Student",
@@ -246,6 +228,24 @@
         "role": "Master / KOAST",
         "dept": "Department of Embedded Software Engineering at KwangWoon Univ.",
         "email": "007bigboy@hanmail.net",
+        "home": "",
+        "sns": {}
+      },
+      {
+        "img": "./img/members/TaeHoon.png",
+        "name": "Kim Tae-Hoon",
+        "role": "Master / ETRI",
+        "dept": "Department of Computer Science at KwangWoon Univ.",
+        "email": "kth851@naver.com",
+        "home": "",
+        "sns": {}
+      },
+      {
+        "img": "./img/members/SoJung.jpeg",
+        "name": "Lee So-Jung",
+        "role": "Master / OPTIVE",
+        "dept": "Department of Computer Science at KwangWoon Univ.",
+        "email": "sojung020924@kw.ac.kr",
         "home": "",
         "sns": {}
       }
